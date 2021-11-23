@@ -1,3 +1,6 @@
+# InfraGraf Bandwidth Usage Forecasting
+The solution provides 60 minutes of future forecast of network bandwidth usage using historic data.
+
 # Product Overview
 InfraGraf Bandwidth Usage Forecasting helps businesses assess their network usage based on historic data. This will help to manage network requirements and make cost-efficient decisions. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
