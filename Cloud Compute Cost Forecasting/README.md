@@ -1,3 +1,6 @@
+# Cloud Compute Cost Forecasting
+The solution provides 24 hours future forecast of the cost incurred for cloud compute resources using historical data.
+
 # Product Overview
 Cloud compute cost forecasting helps businesses assess the cost incurred from their cloud compute resource based on historic data. This will help businesses get an understanding of the potential cost for their VM instances, clusters, snapshots, etc. to help them better plan their compute resources. It uses ensemble ML algorithms with automatic model selection algorithms. This solution performs automated model selection to apply the right model based on the input data.
 
