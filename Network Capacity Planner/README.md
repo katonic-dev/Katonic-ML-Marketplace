@@ -1,3 +1,6 @@
+# Network Capacity Planner
+The solution provides 24 hours forecast at an interval of 30 mins using historic network usage data.
+
 # Product Overview
 Mphasis network capacity planner helps businesses forecast their network usage. This will help businesses asses their network requirements and make better cost-efficient decision. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
