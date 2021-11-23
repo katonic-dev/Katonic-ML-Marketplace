@@ -1,3 +1,6 @@
+# Operating Expenses Forecasting
+The solution provides 30 weeks forecast of operating expenses using historical weekly operating expense data.
+
 # Product Overview
 Operating Expenses Forecasting generates 30 weeks of forward forecast of the operating expenses using historical data. This will help businesses predict and manage their operating expenses more effectively through better working capital management and improved planning for resource allocation. The solution uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach and performs automated model selection to apply the right model based on the input data.
 
