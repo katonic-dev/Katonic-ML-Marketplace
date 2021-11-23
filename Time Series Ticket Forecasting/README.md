@@ -1,3 +1,6 @@
+# Time Series Ticket Forecasting
+The solution provides 24 hours of future forecast of incident or user generated tickets based on historic data.
+
 # Product Overview
 Mphasis time series ticket forecasting helps businesses predict the number of tickets of a specific type based on historic data. This will help businesses assess the level of automation as well as human intervention required to resolve the issues and plan accordingly. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
