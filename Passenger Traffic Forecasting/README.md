@@ -1,3 +1,6 @@
+# Passenger Traffic Forecasting
+This solution provides 30 weeks of forecast of passengers who are expected to travel using historical weekly passenger traffic data.
+
 # Product Overview
 Passenger Traffic Forecasting generates 30 weeks of forward forecast of passengers using historical data. This solution will help businesses such as airlines, railways, bus and ferry operators to better assess the number of incoming passengers and provide them a better travel experience. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
