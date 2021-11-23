@@ -1,3 +1,6 @@
+# Cloud Database Cost Forecasting
+This solution provides 24 hours of forecast of cloud database using historical hourly database resource usage data.
+
 # Product Overview
 Cloud Database Cost Forecasting generates 24 hours of forward forecast of database cost using historical data. This solution will help businesses to better optimize their on-cloud hosted database resources and foresee their cost fluctuations. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
