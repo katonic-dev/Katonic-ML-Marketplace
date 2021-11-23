@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Absenteeism at Work Forecasting
 The solution provides 30 days forecast of absenteeism using historical daily absenteeism data.
+=======
+# Time Series Web Traffic Forecasting
+The solution provides 30 days forecast of web traffic using historical web traffic data.
+>>>>>>> 0ac542a199501065310d3fbe9ccc85a74130062e
 
 # Product Overview
 Absenteeism at work forecasting generates 30 days of forward forecast of employee absenteeism using historical data. This solution helps businesses to optimize their workforce and related infrastructure in an efficient manner. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.

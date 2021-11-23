@@ -1,3 +1,6 @@
+# Server Storage Forecasting
+The solution provides 24 hours of future forecast of server storage space using historic data.
+
 # Product Overview
 Server storage forecasting helps businesses assess the storage space on their servers based on historic data. This will help businesses get an understanding of their server usage and help them plan better. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 

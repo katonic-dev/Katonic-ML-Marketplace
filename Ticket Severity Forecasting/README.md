@@ -1,3 +1,6 @@
+# Ticket Severity Forecasting
+The solution provides 24 hours of future forecast of tickets of varying severity levels using historic data.
+
 # Product Overview
 Ticket Severity Forecasting helps businesses to predict the number of tickets of varying severity levels. This helps businesses assess the automation levels and human resources required to resolve the issues. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
