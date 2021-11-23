@@ -1,3 +1,6 @@
+# Groupwise Incident Analysis & Prediction
+Segmentation and forecasting of incidents by CI, applications and criticality for efficient resource planning and management.
+
 # Product Overview
 This solution provides compositional analysis and predicts the number of incidents pertaining to each ticket group. The insights around incident distribution helps in proper capacity planning, resulting in efficient resource utilization.
 
