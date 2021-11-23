@@ -1,3 +1,6 @@
+# Incident Forecast for IT Infrastructure
+A Deep Learning based incident forecasting solution for efficient incident management of IT Infrastructure.
+
 # Product Overview
 This solution forecasts the most probable next three incidents/errors in IT infrastructure. The solution helps in better incident management and achieve lower downtime through preventive maintenance.
 
