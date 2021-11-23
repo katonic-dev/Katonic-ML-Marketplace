@@ -1,3 +1,6 @@
+# Energy Consumption Forecasting
+The solution provides 30 months forecast of Energy Consumption using historical monthly Energy Consumption data.
+
 # Product Overview
 Energy Consumption Forecasting generates 30 months of forward forecast of the consumption using historical data. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
 
