@@ -1,3 +1,6 @@
+# Server Utilization Forecasting
+The solution provides 30 days forecast of server utilization using historical usage data.
+
 # Product Overview
 Server Utilization Forecasting enables enterprises to optimize server allocation and utilization by generating 30 days of forward forecast of server usage. This helps enterprises to plan their server allocation strategy across the cloud and on premise scenarios using historical data. It uses ensemble ML algorithms with automatic model selection. This solution performs automated model selection to apply the right model based on the input data, thereby providing consistent and better results.
 
