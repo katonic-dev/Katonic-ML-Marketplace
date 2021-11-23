@@ -1,3 +1,6 @@
+# Data Drift Detector for Time Series
+This solution detects data drift over time for time-series dataset.
+
 # Product Overview
 Data evolves over time, causing a change in the distributions and interpretation. This is known as drift and causes a degradation in ML model performance. The Drift Detector detects changes in the incoming data, and provides useful insights to the user with respect to the data and model behavior. The solution can also trigger an alert for model retraining based on data drift detection results.
 
