@@ -2,10 +2,10 @@
 This solution provides 24 hours forecast of cloud network cost using historical hourly network usage cost data.
 
 # Product Overview
-Cloud Network Cost Forecasting generates 24 hours forward forecast of network cost using historical data. This solution will help businesses to better optimize their on-cloud network infrastructure and foresee their cost fluctuations. It uses ensemble ML algorithms with automatic model selection algorithms. This solution provides consistent and better results due to its ensemble learning approach. This solution performs automated model selection to apply the right model based on the input data.
+Cloud Network Cost Forecasting generates 24 hours of forward forecast of network cost using historical data. This solution will help businesses to better optimize their on-cloud network resources and foresee their cost fluctuations. It uses Prophet which is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
 # Highlights
-1. This solution will take in hourly data as input and provide 24 hours future forecast. Automatic model selection will automatically identify the set of optimal algorithms and combine their results using ensemble learning to provide the results.
+1. This solution will take in hourly data as input and provide 24 hours future forecast. 
 
 2. Time Series Forecasting can be applied in cost prediction of on-cloud hosted network infrastructures.
 
