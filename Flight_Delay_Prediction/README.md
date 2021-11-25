@@ -9,4 +9,3 @@ This solution predicts whether a flight would be delayed at the origin airport a
 ## Product Highlight 
 * The solution uses latent airport and airline specific operational features obtained from standardized U.S. DoT flight on-time performance data. The solution can be trained on client data to capture and predict client specific operational patterns.
 * Delay in a flight causes subsequent flights to be delayed causing the aircraft and crew schedules to be negatively impacted. Being able to predict the delay allows for better operational planning at the destination airport based on expected flight delay at origin. It also allows for better customer communication in providing flight recommendations for multi-leg journeys and avoid potential over-scheduling.
-* Mphasis HyperGraf is an Omni-channel customer 360 analytics solution. Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
