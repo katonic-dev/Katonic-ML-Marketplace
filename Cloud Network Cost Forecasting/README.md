@@ -9,4 +9,3 @@ Cloud Network Cost Forecasting generates 24 hours of forward forecast of network
 
 2. Time Series Forecasting can be applied in cost prediction of on-cloud hosted network infrastructures.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
