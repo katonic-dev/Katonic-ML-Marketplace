@@ -9,4 +9,4 @@ Cloud compute cost forecasting helps businesses assess the cost incurred from th
 
 2. Time Series Forecasting can be applied in computing the cost for cloud compute resources.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+
