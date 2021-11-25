@@ -8,4 +8,4 @@ Persistent disk storage forecasting helps businesses assess their local disk sto
 1. This solution will take in hourly cost of disk storage as input and provide 24 hours of future forecast. 
 2. Mphasis Time Series Forecasting can be applied for forecasting disk storage.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+
