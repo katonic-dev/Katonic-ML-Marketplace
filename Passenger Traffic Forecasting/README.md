@@ -7,6 +7,6 @@ Passenger Traffic Forecasting generates 30 weeks of forward forecast of passenge
 # Highlights
 1. This solution will take in weekly data as input and provide 30 weeks future forecast. 
 
-2. Mphasis Time Series Passengers Forecasting can be applied in Passengers Prediction.
+2.  Time Series Passengers Forecasting can be applied in Passengers Prediction.
 
 
