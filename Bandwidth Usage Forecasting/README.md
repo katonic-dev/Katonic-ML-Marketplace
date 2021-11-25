@@ -8,5 +8,3 @@ Bandwidth Usage Forecasting helps businesses assess their network usage based on
 1. This solution will take in bandwidth used in minutes and provide 60 minutes of future forecast.
 
 2. Time Series Forecasting can be applied for forecasting bandwidth usage.
-
-3. Need customized Machine Learning and Deep Learning solutions? Get in touch!.
