@@ -8,5 +8,3 @@ Absenteeism at work forecasting generates 30 days of forward forecast of employe
 1. This solution will take in daily data as input and provide 30 days future forecast. 
 
 2. Time Series Forecasting can be applied in computing the cost for cloud compute resources.
-
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
