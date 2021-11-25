@@ -9,4 +9,4 @@ Retail Sales Forecasting generates 30 months of forward forecast of retail sales
 
 2. Mphasis Time Series Forecasting can be applied in Retail Sales Forecasting.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+
