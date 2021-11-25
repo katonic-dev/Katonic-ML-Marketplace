@@ -9,4 +9,3 @@ Server Utilization Forecasting enables enterprises to optimize server allocation
 
 2. Time Series Forecasting can be applied in Server Utilization Demand Forecasting
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
