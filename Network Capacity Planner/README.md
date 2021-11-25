@@ -9,4 +9,3 @@ Network capacity planner helps businesses forecast their network usage. This wil
 
 2. Mphasis Time Series Forecasting can be applied for forecasting the network usage.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
