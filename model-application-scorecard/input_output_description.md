@@ -1,0 +1,46 @@
+# Input/Output Description
+- Input: A **zip file** with the following comma separated csv files. Reference file: sample.zip
+- Details for each csv file:
+    - application.csv (required)
+        - Required columns: 
+            - application_id: application id
+            - application_date: application date
+            - checking_account_ind: Checking Account Indicator
+            - is_houseowner: is houseowner
+            - vehicle_using_state: vehicle using state
+            - working_years: working years
+            - yearly_income: yearly income(10K)
+            - vehicle_trade_acv_total: The Actual Cash Value of the Traded in Vehicle
+            - vehicle_production: vehicle production type
+            - vehicle_make: vehicle make
+            - vehicle_model : vehicle model
+            - vehicle_type: new or secondhand
+            - down_payment_pct: down-payment pct
+            - down_payment_amt: down-payment amt
+            - balance_payment_pct: balance-payment pct
+            - balance_payment_amt: balance-payment amt
+            - loan_amt: total loan amt, including other costs
+            - loan_term: loan term
+
+    - credit_report.csv (required)
+        - Required columns: 
+            - application_id: application id
+            - num_inquiries: Number of Inquiries
+            - num_collections: Number of tradelines in collections status
+            - ind_bankruptcy: Indicator of a Bankruptcy 
+            - amt_revolving_available: Amount of Revolving Credit Available
+            - oldest_trade_months: Oldest trade months
+            - applicant_multiloan_7days: indicator of applicant applied for multiloan in last 7days
+            - applicant_multiloan_1mon: indicator of applicant applied for multiloan in last 1 month
+            - applicant_multiloan_3mons: indicator of applicant applied for multiloan in last 3 months
+
+	- verification.csv (required)
+        - Required columns: 
+            - application_id: application id
+            - applicant_name_id_phone_verify: applicant name id phone verify
+            - applicant_mobile_status: applicant mobile status
+            - applicant_mobile_useyears: applicant mobile useyears
+            - drive_licensen_existence: drive licensen existence
+            - drice_licensen_name_verify: drice licensen name verify
+            - drive_licensen_status: drive licensen status
+- Output: A list of JSON objects containing 'application_no' and another column named 'Score' which contains model's prediction of auto loan default likelihood scores of account. Reference file: sample.zip.out

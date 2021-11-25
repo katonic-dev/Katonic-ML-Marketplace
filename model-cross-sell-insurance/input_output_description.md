@@ -1,0 +1,62 @@
+# Input/Output Description
+
+- Input: A zip file containing 7 comma separated csv files. **__Reference file: sample.zip__**
+- Details for each csv file:
+    - scoring_date.csv (required)
+        - Required columns:
+            - scoring_date: scoring date for caculating signals and generate main table, format 'YYYY-MM-DD', eg: '2020-01-01'
+    - customer_profile.csv (required)
+        - Required columns: 
+            - cust_id: customer id
+            - enroll_cust_flag: whether a customer enrolled
+            - income: income
+            - gender: gender
+            - phone_id: contact phone id
+            - age: age
+            - contract_cnt: count of contracts
+            - tenure: tenure
+    - vehicle_profile.csv (required)
+        - Required columns: 
+            - vehicle_key: vehicle key
+            - cust_id: customer id
+            - vehicle_type: vehicle type, e.g. compact,suv,midsize,minivan
+            - vehicle_age: vehicle age
+            - vehicle_price: vehicle price
+            - vehicle_make: vehicle make
+            - vehicle_model: vehicle model
+    - purchase_trans.csv (required)
+        - Required columns: 
+            - cust_id: customer id
+            - purchase_date: purchase date
+            - product_sku: product sku
+            - product_name: name of insurance product, e.g. car insurance, life insurance
+            - purchase_code: purchase code to indicate purchase status 
+            - purchase_cnt: count of purchase
+            - price: purchase price 
+    - campaign_info.csv (required)
+        - Required columns: 
+            - campaign_id: campaign id
+            - channel: channel
+            - campaign_date: campaign date
+            - product_name: product name targeted for campaign
+    - car_insurance_sales_call_activity.csv (required)
+        - Required columns: 
+            - cust_id: customer id
+            - campaign_id: campaign id assosiated to call channel
+            - phone_id: phone id
+            - product_name: product name targeted for campaign
+            - call_start_time: call start time
+            - call_end_time: call end time 
+            - call_type: call type (inbound,outbound)
+    - life_insurance_sales_call_activity.csv (required)
+        - Required columns: 
+            - cust_id: customer id
+            - campaign_id: campaign id assosiated to call channel
+            - phone_id: phone id
+            - product_name: product name targeted for campaign
+            - call_start_time: call start time
+            - call_end_time: call end time 
+            - call_type: call type (inbound,outbound)
+    - Note: if end user do not have optional tables, empty CSV with identical columns should be generated to replace missing optional table.
+- Output: a JSON list of objects containing 'cust_id' with original order, and one more column added named 'Score' which contains model's prediction of Cross Sell likelihood scores of account. **__Reference file: sample.zip.out__**
+

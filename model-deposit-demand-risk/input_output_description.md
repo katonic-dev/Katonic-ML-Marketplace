@@ -1,0 +1,49 @@
+# Input/Output specifications:
+- Input: A **zip file** with 7 comma separated csv (6 required and 1 optional). Reference file: sample.zip
+- Details for each csv file:
+    - scoring_date.csv (required)
+        - Required columns:
+            - scoring_date: scoring date for caculating signals and generate main table, format 'YYYY-MM-DD', eg: '2020-08-01'
+    - checking_balance.csv (required)
+        - Required columns: 
+            - bank_acct_key: banking account key
+            - snapshot_date: snapshot date 
+            - curr_balance_amt: current balance amount
+    - checking_transactions.csv (required)
+        - Required columns: 
+            - trans_id: transaction id
+            - trans_seq_nbr: transaction sequence number
+            - bank_acct_key: banking account key
+            - bank_trans_type_code: banking transaction type code
+            - trans_date: transaction effective date
+            - trans_amt: transaction amount
+            - dr_cr_code: debit credit code
+    - creditcard_pnl.csv (required)
+        - Required columns: 
+           - card_acct_key: card account id
+           - month: month tag
+           - credit_line: credit line
+           - merch_sales_amt: merchant sales
+           - cash_sales_amt: cash sales
+           - balance_transfer_amt: balance transfer sales
+           - gross_payment_amt: payment
+           - balance_amt: total balance amount
+    - fico_score.csv (required)
+        - Required columns: 
+           - card_acct_key: card account id
+           - month: month tag
+           - fico_score: fico score
+    - account_info.csv (required)
+        - Required columns: 
+           - card_acct_key: card account id
+           - prod_offer_id: product offer id
+           - acct_open_date: account open date
+           - acct_clse_date: account closed indicator
+           - bank_acct_key: banking account key
+    - account_info_change.csv (optional)
+        - Required columns: 
+           - acct_chng_date: account info change date
+           - bank_acct_key: banking account key
+           - chgn_info_code: account info change code
+    - Note: if end user do not have optional tables, empty CSV with identical columns should be generated to replace missing optional table.
+- Output: A JSON list of objects with 'bank_acct_key' and 'Score' fields. Score contains model's prediction of the deposit risk score for the record. Reference file: sample.zip.out

@@ -1,0 +1,6002 @@
+[
+  {
+    "amount_paid_monthly": "851.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "4165046766"
+  }, 
+  {
+    "amount_paid_monthly": "875.05", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "1330436521"
+  }, 
+  {
+    "amount_paid_monthly": "986.44", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "2319094903"
+  }, 
+  {
+    "amount_paid_monthly": "572.33", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "1437837594"
+  }, 
+  {
+    "amount_paid_monthly": "1168.75", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "7908812968"
+  }, 
+  {
+    "amount_paid_monthly": "1623.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "6584118132"
+  }, 
+  {
+    "amount_paid_monthly": "522.31", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "1903939637"
+  }, 
+  {
+    "amount_paid_monthly": "792.11", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "4176786402"
+  }, 
+  {
+    "amount_paid_monthly": "749.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "3115821120"
+  }, 
+  {
+    "amount_paid_monthly": "442.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "3229818334"
+  }, 
+  {
+    "amount_paid_monthly": "942.17", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "9002588376"
+  }, 
+  {
+    "amount_paid_monthly": "1370.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "7549566197"
+  }, 
+  {
+    "amount_paid_monthly": "1531.32", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "3596820607"
+  }, 
+  {
+    "amount_paid_monthly": "997.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "6373607945"
+  }, 
+  {
+    "amount_paid_monthly": "986.69", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "9496877622"
+  }, 
+  {
+    "amount_paid_monthly": "572.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "6742842454"
+  }, 
+  {
+    "amount_paid_monthly": "1967.03", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "3693022049"
+  }, 
+  {
+    "amount_paid_monthly": "644.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "7225650260"
+  }, 
+  {
+    "amount_paid_monthly": "878.69", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "5099279047"
+  }, 
+  {
+    "amount_paid_monthly": "1356.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "3047054952"
+  }, 
+  {
+    "amount_paid_monthly": "703.1", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "8119454611"
+  }, 
+  {
+    "amount_paid_monthly": "1815.93", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "3965097726"
+  }, 
+  {
+    "amount_paid_monthly": "965.68", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "931930581"
+  }, 
+  {
+    "amount_paid_monthly": "1301.11", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "6685704781"
+  }, 
+  {
+    "amount_paid_monthly": "1817.25", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "1147897706"
+  }, 
+  {
+    "amount_paid_monthly": "549.13", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "1917851237"
+  }, 
+  {
+    "amount_paid_monthly": "1172.96", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "7561931187"
+  }, 
+  {
+    "amount_paid_monthly": "824.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "8568973464"
+  }, 
+  {
+    "amount_paid_monthly": "317.15", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4499920858"
+  }, 
+  {
+    "amount_paid_monthly": "1114.72", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "7703316721"
+  }, 
+  {
+    "amount_paid_monthly": "398.56", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "5647216984"
+  }, 
+  {
+    "amount_paid_monthly": "1821.25", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "7814083314"
+  }, 
+  {
+    "amount_paid_monthly": "826.33", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "6706152866"
+  }, 
+  {
+    "amount_paid_monthly": "452.26", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "2873513074"
+  }, 
+  {
+    "amount_paid_monthly": "1958.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "3901804795"
+  }, 
+  {
+    "amount_paid_monthly": "621.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "1813618189"
+  }, 
+  {
+    "amount_paid_monthly": "1021.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "5488477233"
+  }, 
+  {
+    "amount_paid_monthly": "976.25", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "7876614073"
+  }, 
+  {
+    "amount_paid_monthly": "1905.51", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "5567750301"
+  }, 
+  {
+    "amount_paid_monthly": "1287.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "2917536576"
+  }, 
+  {
+    "amount_paid_monthly": "1497.95", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "142666337"
+  }, 
+  {
+    "amount_paid_monthly": "914.39", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "614084447"
+  }, 
+  {
+    "amount_paid_monthly": "1165.09", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "2516033665"
+  }, 
+  {
+    "amount_paid_monthly": "805.68", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "6865121225"
+  }, 
+  {
+    "amount_paid_monthly": "474.0", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "7851893950"
+  }, 
+  {
+    "amount_paid_monthly": "1195.6", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "8279399885"
+  }, 
+  {
+    "amount_paid_monthly": "821.47", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "2934135161"
+  }, 
+  {
+    "amount_paid_monthly": "960.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "5393295940"
+  }, 
+  {
+    "amount_paid_monthly": "910.11", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "1985173727"
+  }, 
+  {
+    "amount_paid_monthly": "838.8", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "4287680578"
+  }, 
+  {
+    "amount_paid_monthly": "887.58", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "3874648937"
+  }, 
+  {
+    "amount_paid_monthly": "1897.93", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "6130780199"
+  }, 
+  {
+    "amount_paid_monthly": "1680.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "2775772880"
+  }, 
+  {
+    "amount_paid_monthly": "1380.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "6072348410"
+  }, 
+  {
+    "amount_paid_monthly": "579.69", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "3107370829"
+  }, 
+  {
+    "amount_paid_monthly": "1872.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "383654092"
+  }, 
+  {
+    "amount_paid_monthly": "1008.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "982390069"
+  }, 
+  {
+    "amount_paid_monthly": "330.48", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "5783374494"
+  }, 
+  {
+    "amount_paid_monthly": "726.81", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "4439006199"
+  }, 
+  {
+    "amount_paid_monthly": "634.48", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "8243969664"
+  }, 
+  {
+    "amount_paid_monthly": "971.75", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "5311863367"
+  }, 
+  {
+    "amount_paid_monthly": "539.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "9984439270"
+  }, 
+  {
+    "amount_paid_monthly": "1240.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "4558922817"
+  }, 
+  {
+    "amount_paid_monthly": "1394.95", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "1320161973"
+  }, 
+  {
+    "amount_paid_monthly": "565.84", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "9695741776"
+  }, 
+  {
+    "amount_paid_monthly": "1513.09", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "8798994172"
+  }, 
+  {
+    "amount_paid_monthly": "728.58", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "6302610767"
+  }, 
+  {
+    "amount_paid_monthly": "633.0", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "7127977064"
+  }, 
+  {
+    "amount_paid_monthly": "1807.3", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "2719667602"
+  }, 
+  {
+    "amount_paid_monthly": "1110.51", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "8070437684"
+  }, 
+  {
+    "amount_paid_monthly": "1254.34", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "4511300008"
+  }, 
+  {
+    "amount_paid_monthly": "1152.06", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "6746322397"
+  }, 
+  {
+    "amount_paid_monthly": "1866.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "7329101996"
+  }, 
+  {
+    "amount_paid_monthly": "669.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "1176988145"
+  }, 
+  {
+    "amount_paid_monthly": "844.78", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "13304642"
+  }, 
+  {
+    "amount_paid_monthly": "1450.15", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "3541122176"
+  }, 
+  {
+    "amount_paid_monthly": "1103.37", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "3795199101"
+  }, 
+  {
+    "amount_paid_monthly": "1982.84", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "4546347612"
+  }, 
+  {
+    "amount_paid_monthly": "459.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "3220137146"
+  }, 
+  {
+    "amount_paid_monthly": "750.06", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "9779592117"
+  }, 
+  {
+    "amount_paid_monthly": "1407.11", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "7873721857"
+  }, 
+  {
+    "amount_paid_monthly": "1367.01", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "1031195903"
+  }, 
+  {
+    "amount_paid_monthly": "866.15", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "1863919395"
+  }, 
+  {
+    "amount_paid_monthly": "894.92", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "2287141419"
+  }, 
+  {
+    "amount_paid_monthly": "632.01", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "5149698812"
+  }, 
+  {
+    "amount_paid_monthly": "1848.1", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "2067659457"
+  }, 
+  {
+    "amount_paid_monthly": "1515.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "7493040624"
+  }, 
+  {
+    "amount_paid_monthly": "1818.66", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "3027939125"
+  }, 
+  {
+    "amount_paid_monthly": "1823.22", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "3631635947"
+  }, 
+  {
+    "amount_paid_monthly": "506.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "3577367656"
+  }, 
+  {
+    "amount_paid_monthly": "1829.69", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "7496378992"
+  }, 
+  {
+    "amount_paid_monthly": "614.85", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "2557065394"
+  }, 
+  {
+    "amount_paid_monthly": "1247.17", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "2767434057"
+  }, 
+  {
+    "amount_paid_monthly": "1993.16", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "118957214"
+  }, 
+  {
+    "amount_paid_monthly": "1213.83", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "2056095000"
+  }, 
+  {
+    "amount_paid_monthly": "1584.94", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "2058351073"
+  }, 
+  {
+    "amount_paid_monthly": "1925.26", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "8692326942"
+  }, 
+  {
+    "amount_paid_monthly": "1904.29", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "4491485102"
+  }, 
+  {
+    "amount_paid_monthly": "1186.08", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "1732231457"
+  }, 
+  {
+    "amount_paid_monthly": "1498.8", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "8195317804"
+  }, 
+  {
+    "amount_paid_monthly": "952.9", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "5532151742"
+  }, 
+  {
+    "amount_paid_monthly": "1889.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "9325559626"
+  }, 
+  {
+    "amount_paid_monthly": "1160.27", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "8058994406"
+  }, 
+  {
+    "amount_paid_monthly": "465.58", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "2886591981"
+  }, 
+  {
+    "amount_paid_monthly": "548.84", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "2066679676"
+  }, 
+  {
+    "amount_paid_monthly": "1184.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "8329149775"
+  }, 
+  {
+    "amount_paid_monthly": "1001.56", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "1886061349"
+  }, 
+  {
+    "amount_paid_monthly": "717.18", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "1744048883"
+  }, 
+  {
+    "amount_paid_monthly": "1026.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "363265805"
+  }, 
+  {
+    "amount_paid_monthly": "1672.53", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "1546231516"
+  }, 
+  {
+    "amount_paid_monthly": "1682.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "3060270335"
+  }, 
+  {
+    "amount_paid_monthly": "1400.78", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "8526028696"
+  }, 
+  {
+    "amount_paid_monthly": "769.5", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "6318500109"
+  }, 
+  {
+    "amount_paid_monthly": "1899.82", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "3049318029"
+  }, 
+  {
+    "amount_paid_monthly": "1715.43", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "7193318180"
+  }, 
+  {
+    "amount_paid_monthly": "663.56", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "1747911627"
+  }, 
+  {
+    "amount_paid_monthly": "466.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "7909046407"
+  }, 
+  {
+    "amount_paid_monthly": "1404.16", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "5622042049"
+  }, 
+  {
+    "amount_paid_monthly": "404.1", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "6181108352"
+  }, 
+  {
+    "amount_paid_monthly": "1624.13", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "4158893958"
+  }, 
+  {
+    "amount_paid_monthly": "644.52", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "8327167823"
+  }, 
+  {
+    "amount_paid_monthly": "690.4", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "8927804050"
+  }, 
+  {
+    "amount_paid_monthly": "1921.8", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "2746725931"
+  }, 
+  {
+    "amount_paid_monthly": "558.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "5926346736"
+  }, 
+  {
+    "amount_paid_monthly": "1948.42", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "4766168152"
+  }, 
+  {
+    "amount_paid_monthly": "831.54", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "8407719839"
+  }, 
+  {
+    "amount_paid_monthly": "1633.98", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "9441553872"
+  }, 
+  {
+    "amount_paid_monthly": "1914.0", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "7437266520"
+  }, 
+  {
+    "amount_paid_monthly": "928.62", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "6593210651"
+  }, 
+  {
+    "amount_paid_monthly": "1086.26", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "8407016329"
+  }, 
+  {
+    "amount_paid_monthly": "1204.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "6434101754"
+  }, 
+  {
+    "amount_paid_monthly": "562.54", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "1069165792"
+  }, 
+  {
+    "amount_paid_monthly": "1042.94", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "6450525024"
+  }, 
+  {
+    "amount_paid_monthly": "1028.47", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "2099157998"
+  }, 
+  {
+    "amount_paid_monthly": "1806.45", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "9423210697"
+  }, 
+  {
+    "amount_paid_monthly": "1327.39", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "4732448973"
+  }, 
+  {
+    "amount_paid_monthly": "908.49", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "1246465653"
+  }, 
+  {
+    "amount_paid_monthly": "971.56", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "7939308177"
+  }, 
+  {
+    "amount_paid_monthly": "1505.57", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "3114584553"
+  }, 
+  {
+    "amount_paid_monthly": "660.0", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "9728730202"
+  }, 
+  {
+    "amount_paid_monthly": "1278.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "1891815416"
+  }, 
+  {
+    "amount_paid_monthly": "1127.56", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "3328681347"
+  }, 
+  {
+    "amount_paid_monthly": "890.83", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "4305005905"
+  }, 
+  {
+    "amount_paid_monthly": "700.94", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "4920226585"
+  }, 
+  {
+    "amount_paid_monthly": "585.21", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "9492199463"
+  }, 
+  {
+    "amount_paid_monthly": "1938.52", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "7847946748"
+  }, 
+  {
+    "amount_paid_monthly": "997.92", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "8588489868"
+  }, 
+  {
+    "amount_paid_monthly": "1100.4", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "1815650861"
+  }, 
+  {
+    "amount_paid_monthly": "1866.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "8384515450"
+  }, 
+  {
+    "amount_paid_monthly": "943.24", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "2154976586"
+  }, 
+  {
+    "amount_paid_monthly": "1873.93", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "9259787920"
+  }, 
+  {
+    "amount_paid_monthly": "1048.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "8428831009"
+  }, 
+  {
+    "amount_paid_monthly": "1949.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "369760613"
+  }, 
+  {
+    "amount_paid_monthly": "947.24", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "8884855292"
+  }, 
+  {
+    "amount_paid_monthly": "688.45", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "9691773802"
+  }, 
+  {
+    "amount_paid_monthly": "1902.78", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "4838874030"
+  }, 
+  {
+    "amount_paid_monthly": "790.94", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "4135347359"
+  }, 
+  {
+    "amount_paid_monthly": "735.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "975078529"
+  }, 
+  {
+    "amount_paid_monthly": "1442.61", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "5050426018"
+  }, 
+  {
+    "amount_paid_monthly": "1463.61", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "2571822555"
+  }, 
+  {
+    "amount_paid_monthly": "1218.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "6361723320"
+  }, 
+  {
+    "amount_paid_monthly": "316.31", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "4469743673"
+  }, 
+  {
+    "amount_paid_monthly": "399.41", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "5424495291"
+  }, 
+  {
+    "amount_paid_monthly": "898.02", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "6985411400"
+  }, 
+  {
+    "amount_paid_monthly": "1513.3", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "6272531393"
+  }, 
+  {
+    "amount_paid_monthly": "954.82", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "7881272678"
+  }, 
+  {
+    "amount_paid_monthly": "1331.02", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "1069940821"
+  }, 
+  {
+    "amount_paid_monthly": "1166.54", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "3779748772"
+  }, 
+  {
+    "amount_paid_monthly": "424.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "1723036098"
+  }, 
+  {
+    "amount_paid_monthly": "655.1", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "499281667"
+  }, 
+  {
+    "amount_paid_monthly": "1927.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "7964546134"
+  }, 
+  {
+    "amount_paid_monthly": "710.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "9792864894"
+  }, 
+  {
+    "amount_paid_monthly": "913.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "1809424884"
+  }, 
+  {
+    "amount_paid_monthly": "1776.99", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "8310693942"
+  }, 
+  {
+    "amount_paid_monthly": "1982.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "40", 
+    "claim_id": "178065182"
+  }, 
+  {
+    "amount_paid_monthly": "486.57", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "6823579229"
+  }, 
+  {
+    "amount_paid_monthly": "1021.05", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "5021142549"
+  }, 
+  {
+    "amount_paid_monthly": "1451.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "922531646"
+  }, 
+  {
+    "amount_paid_monthly": "562.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "4053236873"
+  }, 
+  {
+    "amount_paid_monthly": "1154.69", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "7706001915"
+  }, 
+  {
+    "amount_paid_monthly": "1239.23", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "8043864218"
+  }, 
+  {
+    "amount_paid_monthly": "544.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "251361195"
+  }, 
+  {
+    "amount_paid_monthly": "1297.44", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "8702408840"
+  }, 
+  {
+    "amount_paid_monthly": "770.02", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "4312356522"
+  }, 
+  {
+    "amount_paid_monthly": "1327.39", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "4380971667"
+  }, 
+  {
+    "amount_paid_monthly": "1727.06", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "624470250"
+  }, 
+  {
+    "amount_paid_monthly": "1194.19", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "9974757031"
+  }, 
+  {
+    "amount_paid_monthly": "1317.86", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "1251796110"
+  }, 
+  {
+    "amount_paid_monthly": "914.55", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "4628404253"
+  }, 
+  {
+    "amount_paid_monthly": "699.52", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "9384288172"
+  }, 
+  {
+    "amount_paid_monthly": "1577.49", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "4122165344"
+  }, 
+  {
+    "amount_paid_monthly": "504.96", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "8402500294"
+  }, 
+  {
+    "amount_paid_monthly": "310.67", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "3952448685"
+  }, 
+  {
+    "amount_paid_monthly": "1166.78", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "6173043559"
+  }, 
+  {
+    "amount_paid_monthly": "901.45", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "9539718865"
+  }, 
+  {
+    "amount_paid_monthly": "1449.85", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "6788097654"
+  }, 
+  {
+    "amount_paid_monthly": "1430.97", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "8603690490"
+  }, 
+  {
+    "amount_paid_monthly": "1733.82", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "5808388156"
+  }, 
+  {
+    "amount_paid_monthly": "1194.4", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "9460770496"
+  }, 
+  {
+    "amount_paid_monthly": "492.26", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "7955238273"
+  }, 
+  {
+    "amount_paid_monthly": "872.51", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "2869141220"
+  }, 
+  {
+    "amount_paid_monthly": "1494.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "8346288581"
+  }, 
+  {
+    "amount_paid_monthly": "1867.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "6366626117"
+  }, 
+  {
+    "amount_paid_monthly": "1526.79", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "5302574129"
+  }, 
+  {
+    "amount_paid_monthly": "1211.43", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "518432788"
+  }, 
+  {
+    "amount_paid_monthly": "1769.93", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "7149286971"
+  }, 
+  {
+    "amount_paid_monthly": "1064.22", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "9147541330"
+  }, 
+  {
+    "amount_paid_monthly": "1110.89", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "5379744073"
+  }, 
+  {
+    "amount_paid_monthly": "1505.98", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4289593755"
+  }, 
+  {
+    "amount_paid_monthly": "1011.12", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "565751789"
+  }, 
+  {
+    "amount_paid_monthly": "1678.2", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "1787690145"
+  }, 
+  {
+    "amount_paid_monthly": "475.87", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "1323898728"
+  }, 
+  {
+    "amount_paid_monthly": "1416.77", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "4483621725"
+  }, 
+  {
+    "amount_paid_monthly": "1184.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "2641438192"
+  }, 
+  {
+    "amount_paid_monthly": "1504.07", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "3781694258"
+  }, 
+  {
+    "amount_paid_monthly": "1742.03", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "7070876128"
+  }, 
+  {
+    "amount_paid_monthly": "1547.22", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "8462714027"
+  }, 
+  {
+    "amount_paid_monthly": "1772.52", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "3875733622"
+  }, 
+  {
+    "amount_paid_monthly": "1641.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "4165174963"
+  }, 
+  {
+    "amount_paid_monthly": "1374.2", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "7205726253"
+  }, 
+  {
+    "amount_paid_monthly": "1756.64", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "6266127000"
+  }, 
+  {
+    "amount_paid_monthly": "1125.71", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "1634488609"
+  }, 
+  {
+    "amount_paid_monthly": "1861.69", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "248450721"
+  }, 
+  {
+    "amount_paid_monthly": "1710.17", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "108051279"
+  }, 
+  {
+    "amount_paid_monthly": "1887.26", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "9084773206"
+  }, 
+  {
+    "amount_paid_monthly": "436.78", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "4545140364"
+  }, 
+  {
+    "amount_paid_monthly": "1675.62", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "1626577135"
+  }, 
+  {
+    "amount_paid_monthly": "1653.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "9339401874"
+  }, 
+  {
+    "amount_paid_monthly": "1831.14", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "6554701903"
+  }, 
+  {
+    "amount_paid_monthly": "1866.5", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "2801322661"
+  }, 
+  {
+    "amount_paid_monthly": "1618.04", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "2238342862"
+  }, 
+  {
+    "amount_paid_monthly": "1680.71", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "6653395527"
+  }, 
+  {
+    "amount_paid_monthly": "963.8", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4859575581"
+  }, 
+  {
+    "amount_paid_monthly": "1540.27", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "7792151867"
+  }, 
+  {
+    "amount_paid_monthly": "1066.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "9344091972"
+  }, 
+  {
+    "amount_paid_monthly": "373.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "9082484267"
+  }, 
+  {
+    "amount_paid_monthly": "1207.11", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "7146310464"
+  }, 
+  {
+    "amount_paid_monthly": "629.73", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "9036659233"
+  }, 
+  {
+    "amount_paid_monthly": "1496.24", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "7920301536"
+  }, 
+  {
+    "amount_paid_monthly": "1445.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "9529789640"
+  }, 
+  {
+    "amount_paid_monthly": "1032.57", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "9858182741"
+  }, 
+  {
+    "amount_paid_monthly": "1675.09", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "8162450450"
+  }, 
+  {
+    "amount_paid_monthly": "1806.16", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "4021210367"
+  }, 
+  {
+    "amount_paid_monthly": "694.76", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "576566823"
+  }, 
+  {
+    "amount_paid_monthly": "1499.27", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "8953179308"
+  }, 
+  {
+    "amount_paid_monthly": "1146.58", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "9085055457"
+  }, 
+  {
+    "amount_paid_monthly": "649.13", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "4098081698"
+  }, 
+  {
+    "amount_paid_monthly": "1979.84", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "2536160440"
+  }, 
+  {
+    "amount_paid_monthly": "996.61", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "6337636249"
+  }, 
+  {
+    "amount_paid_monthly": "1435.8", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "7156415828"
+  }, 
+  {
+    "amount_paid_monthly": "1537.87", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "5869303925"
+  }, 
+  {
+    "amount_paid_monthly": "1944.27", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "6053012289"
+  }, 
+  {
+    "amount_paid_monthly": "586.47", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "39343565"
+  }, 
+  {
+    "amount_paid_monthly": "1897.65", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "3050553994"
+  }, 
+  {
+    "amount_paid_monthly": "1573.32", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "8766278939"
+  }, 
+  {
+    "amount_paid_monthly": "665.26", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "8842212370"
+  }, 
+  {
+    "amount_paid_monthly": "1899.49", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "7804664008"
+  }, 
+  {
+    "amount_paid_monthly": "1141.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "6753243168"
+  }, 
+  {
+    "amount_paid_monthly": "531.76", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "7983087699"
+  }, 
+  {
+    "amount_paid_monthly": "1489.31", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "2429804029"
+  }, 
+  {
+    "amount_paid_monthly": "1095.22", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "7292837194"
+  }, 
+  {
+    "amount_paid_monthly": "1498.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "5551883732"
+  }, 
+  {
+    "amount_paid_monthly": "1419.23", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "4647154845"
+  }, 
+  {
+    "amount_paid_monthly": "679.0", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "9810603097"
+  }, 
+  {
+    "amount_paid_monthly": "808.26", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "4154056477"
+  }, 
+  {
+    "amount_paid_monthly": "1104.25", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "479114046"
+  }, 
+  {
+    "amount_paid_monthly": "1927.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "5405319936"
+  }, 
+  {
+    "amount_paid_monthly": "955.62", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "851069776"
+  }, 
+  {
+    "amount_paid_monthly": "1648.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "4709052104"
+  }, 
+  {
+    "amount_paid_monthly": "1926.04", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "3395051858"
+  }, 
+  {
+    "amount_paid_monthly": "1028.45", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "2394631625"
+  }, 
+  {
+    "amount_paid_monthly": "1157.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "2217125789"
+  }, 
+  {
+    "amount_paid_monthly": "1067.41", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "4108274572"
+  }, 
+  {
+    "amount_paid_monthly": "1039.76", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "9642620998"
+  }, 
+  {
+    "amount_paid_monthly": "1535.53", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "4719694404"
+  }, 
+  {
+    "amount_paid_monthly": "1343.59", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "7831691913"
+  }, 
+  {
+    "amount_paid_monthly": "1124.76", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "1642156440"
+  }, 
+  {
+    "amount_paid_monthly": "1176.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "4822348080"
+  }, 
+  {
+    "amount_paid_monthly": "1687.58", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "4184664062"
+  }, 
+  {
+    "amount_paid_monthly": "1146.09", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "5289260266"
+  }, 
+  {
+    "amount_paid_monthly": "1651.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "5601391284"
+  }, 
+  {
+    "amount_paid_monthly": "776.87", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "9324934145"
+  }, 
+  {
+    "amount_paid_monthly": "1477.66", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "2293193953"
+  }, 
+  {
+    "amount_paid_monthly": "1014.19", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "5395720802"
+  }, 
+  {
+    "amount_paid_monthly": "343.37", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "5839793827"
+  }, 
+  {
+    "amount_paid_monthly": "1326.98", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "1012550170"
+  }, 
+  {
+    "amount_paid_monthly": "440.0", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "9731955194"
+  }, 
+  {
+    "amount_paid_monthly": "1365.72", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "1165399736"
+  }, 
+  {
+    "amount_paid_monthly": "920.8", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "3467465084"
+  }, 
+  {
+    "amount_paid_monthly": "1508.52", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "4678689683"
+  }, 
+  {
+    "amount_paid_monthly": "1095.67", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "4765515151"
+  }, 
+  {
+    "amount_paid_monthly": "1269.34", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "1580468479"
+  }, 
+  {
+    "amount_paid_monthly": "486.79", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4285100992"
+  }, 
+  {
+    "amount_paid_monthly": "1232.04", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "3959251972"
+  }, 
+  {
+    "amount_paid_monthly": "1846.51", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "7219992233"
+  }, 
+  {
+    "amount_paid_monthly": "1988.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "5148705366"
+  }, 
+  {
+    "amount_paid_monthly": "1795.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "3871923290"
+  }, 
+  {
+    "amount_paid_monthly": "539.06", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "1927357996"
+  }, 
+  {
+    "amount_paid_monthly": "1092.59", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "5323551211"
+  }, 
+  {
+    "amount_paid_monthly": "428.44", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "201526599"
+  }, 
+  {
+    "amount_paid_monthly": "974.66", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "9393219141"
+  }, 
+  {
+    "amount_paid_monthly": "901.07", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "3392906465"
+  }, 
+  {
+    "amount_paid_monthly": "541.49", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "4926437572"
+  }, 
+  {
+    "amount_paid_monthly": "1279.85", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "9663945117"
+  }, 
+  {
+    "amount_paid_monthly": "1765.41", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "1051828512"
+  }, 
+  {
+    "amount_paid_monthly": "732.87", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "4483494683"
+  }, 
+  {
+    "amount_paid_monthly": "788.54", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "2478097858"
+  }, 
+  {
+    "amount_paid_monthly": "1247.66", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "339843898"
+  }, 
+  {
+    "amount_paid_monthly": "1090.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "877109606"
+  }, 
+  {
+    "amount_paid_monthly": "640.03", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "3994672670"
+  }, 
+  {
+    "amount_paid_monthly": "1975.07", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "6810082315"
+  }, 
+  {
+    "amount_paid_monthly": "768.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "3500680057"
+  }, 
+  {
+    "amount_paid_monthly": "944.11", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "4357681414"
+  }, 
+  {
+    "amount_paid_monthly": "1450.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "8700455527"
+  }, 
+  {
+    "amount_paid_monthly": "1579.41", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "8999567554"
+  }, 
+  {
+    "amount_paid_monthly": "913.22", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "8457424704"
+  }, 
+  {
+    "amount_paid_monthly": "1983.46", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "8835230702"
+  }, 
+  {
+    "amount_paid_monthly": "358.37", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "4159437713"
+  }, 
+  {
+    "amount_paid_monthly": "619.15", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "6084180867"
+  }, 
+  {
+    "amount_paid_monthly": "1361.63", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "1397490234"
+  }, 
+  {
+    "amount_paid_monthly": "861.3", 
+    "claim_complexity": "low", 
+    "claim_duration": "40", 
+    "claim_id": "8359084732"
+  }, 
+  {
+    "amount_paid_monthly": "553.64", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "2041634020"
+  }, 
+  {
+    "amount_paid_monthly": "335.72", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "1716106443"
+  }, 
+  {
+    "amount_paid_monthly": "1109.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "9207219499"
+  }, 
+  {
+    "amount_paid_monthly": "1774.2", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "8672036160"
+  }, 
+  {
+    "amount_paid_monthly": "419.85", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "380516389"
+  }, 
+  {
+    "amount_paid_monthly": "752.07", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "3677521812"
+  }, 
+  {
+    "amount_paid_monthly": "803.97", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "4822978459"
+  }, 
+  {
+    "amount_paid_monthly": "387.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "1897018305"
+  }, 
+  {
+    "amount_paid_monthly": "762.53", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "3351203387"
+  }, 
+  {
+    "amount_paid_monthly": "1817.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "3992609654"
+  }, 
+  {
+    "amount_paid_monthly": "749.71", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "8393345780"
+  }, 
+  {
+    "amount_paid_monthly": "579.27", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "5168911072"
+  }, 
+  {
+    "amount_paid_monthly": "1262.4", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "2492145861"
+  }, 
+  {
+    "amount_paid_monthly": "1098.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "1050126436"
+  }, 
+  {
+    "amount_paid_monthly": "322.33", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "9356626619"
+  }, 
+  {
+    "amount_paid_monthly": "903.14", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "1669795104"
+  }, 
+  {
+    "amount_paid_monthly": "995.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "2135861843"
+  }, 
+  {
+    "amount_paid_monthly": "904.43", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "3583283013"
+  }, 
+  {
+    "amount_paid_monthly": "912.36", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "6716944163"
+  }, 
+  {
+    "amount_paid_monthly": "442.5", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "1748472029"
+  }, 
+  {
+    "amount_paid_monthly": "1018.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "7807510262"
+  }, 
+  {
+    "amount_paid_monthly": "1770.81", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "242962322"
+  }, 
+  {
+    "amount_paid_monthly": "692.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "8084855287"
+  }, 
+  {
+    "amount_paid_monthly": "1156.53", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "3676951815"
+  }, 
+  {
+    "amount_paid_monthly": "1598.69", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "4570998269"
+  }, 
+  {
+    "amount_paid_monthly": "672.43", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "9343617956"
+  }, 
+  {
+    "amount_paid_monthly": "954.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "1816969972"
+  }, 
+  {
+    "amount_paid_monthly": "358.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "7868553266"
+  }, 
+  {
+    "amount_paid_monthly": "1799.56", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "3569555615"
+  }, 
+  {
+    "amount_paid_monthly": "1374.48", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "1829463148"
+  }, 
+  {
+    "amount_paid_monthly": "1267.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "8439696331"
+  }, 
+  {
+    "amount_paid_monthly": "653.57", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "8924253855"
+  }, 
+  {
+    "amount_paid_monthly": "937.6", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "5974083921"
+  }, 
+  {
+    "amount_paid_monthly": "1154.3", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "8355185902"
+  }, 
+  {
+    "amount_paid_monthly": "873.02", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "4684712794"
+  }, 
+  {
+    "amount_paid_monthly": "1929.9", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "5623527197"
+  }, 
+  {
+    "amount_paid_monthly": "468.38", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "5642842955"
+  }, 
+  {
+    "amount_paid_monthly": "1380.19", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "6862506735"
+  }, 
+  {
+    "amount_paid_monthly": "1496.39", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "4145642092"
+  }, 
+  {
+    "amount_paid_monthly": "1516.02", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "1557915577"
+  }, 
+  {
+    "amount_paid_monthly": "1024.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "9348164269"
+  }, 
+  {
+    "amount_paid_monthly": "1615.51", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "1779074080"
+  }, 
+  {
+    "amount_paid_monthly": "1562.71", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "7259858737"
+  }, 
+  {
+    "amount_paid_monthly": "738.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "6370168363"
+  }, 
+  {
+    "amount_paid_monthly": "680.51", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "934823702"
+  }, 
+  {
+    "amount_paid_monthly": "1197.97", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "5150675100"
+  }, 
+  {
+    "amount_paid_monthly": "1914.43", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "8079497484"
+  }, 
+  {
+    "amount_paid_monthly": "691.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "9089231769"
+  }, 
+  {
+    "amount_paid_monthly": "626.04", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "8136341363"
+  }, 
+  {
+    "amount_paid_monthly": "359.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "6215095579"
+  }, 
+  {
+    "amount_paid_monthly": "1121.51", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "2900449417"
+  }, 
+  {
+    "amount_paid_monthly": "352.97", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "7340001243"
+  }, 
+  {
+    "amount_paid_monthly": "657.86", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "1105758972"
+  }, 
+  {
+    "amount_paid_monthly": "434.97", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "8070323380"
+  }, 
+  {
+    "amount_paid_monthly": "1889.85", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "9620604715"
+  }, 
+  {
+    "amount_paid_monthly": "911.02", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "7681380061"
+  }, 
+  {
+    "amount_paid_monthly": "383.43", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "1487080022"
+  }, 
+  {
+    "amount_paid_monthly": "1148.12", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "2051695017"
+  }, 
+  {
+    "amount_paid_monthly": "1443.95", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "5095158243"
+  }, 
+  {
+    "amount_paid_monthly": "487.18", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "2251682054"
+  }, 
+  {
+    "amount_paid_monthly": "1524.91", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "8155562953"
+  }, 
+  {
+    "amount_paid_monthly": "317.48", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "8603311953"
+  }, 
+  {
+    "amount_paid_monthly": "1290.43", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "6165454647"
+  }, 
+  {
+    "amount_paid_monthly": "1586.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "2358207209"
+  }, 
+  {
+    "amount_paid_monthly": "1932.82", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "2578290684"
+  }, 
+  {
+    "amount_paid_monthly": "474.77", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "1482882309"
+  }, 
+  {
+    "amount_paid_monthly": "568.15", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "4303761709"
+  }, 
+  {
+    "amount_paid_monthly": "794.64", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "7212577741"
+  }, 
+  {
+    "amount_paid_monthly": "1493.9", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "9601575775"
+  }, 
+  {
+    "amount_paid_monthly": "1663.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "3163306232"
+  }, 
+  {
+    "amount_paid_monthly": "1467.62", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "5289993850"
+  }, 
+  {
+    "amount_paid_monthly": "1672.76", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "6969342515"
+  }, 
+  {
+    "amount_paid_monthly": "1728.79", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "9556319219"
+  }, 
+  {
+    "amount_paid_monthly": "1101.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "40", 
+    "claim_id": "9136902247"
+  }, 
+  {
+    "amount_paid_monthly": "1037.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "9256407393"
+  }, 
+  {
+    "amount_paid_monthly": "330.57", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "5842233950"
+  }, 
+  {
+    "amount_paid_monthly": "1125.61", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "1252105828"
+  }, 
+  {
+    "amount_paid_monthly": "1537.18", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "1720408750"
+  }, 
+  {
+    "amount_paid_monthly": "1467.51", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "6479902778"
+  }, 
+  {
+    "amount_paid_monthly": "510.55", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "7060612269"
+  }, 
+  {
+    "amount_paid_monthly": "1079.89", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "3599305635"
+  }, 
+  {
+    "amount_paid_monthly": "1966.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "7225793643"
+  }, 
+  {
+    "amount_paid_monthly": "467.56", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "9251830743"
+  }, 
+  {
+    "amount_paid_monthly": "366.3", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "1146208441"
+  }, 
+  {
+    "amount_paid_monthly": "759.14", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "5539662889"
+  }, 
+  {
+    "amount_paid_monthly": "956.93", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "8305955794"
+  }, 
+  {
+    "amount_paid_monthly": "1081.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "2262873754"
+  }, 
+  {
+    "amount_paid_monthly": "1173.68", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "6169981530"
+  }, 
+  {
+    "amount_paid_monthly": "545.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "4556254466"
+  }, 
+  {
+    "amount_paid_monthly": "1384.86", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "3057625456"
+  }, 
+  {
+    "amount_paid_monthly": "1496.29", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "6925030073"
+  }, 
+  {
+    "amount_paid_monthly": "1304.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "2176770546"
+  }, 
+  {
+    "amount_paid_monthly": "1858.64", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "1857142732"
+  }, 
+  {
+    "amount_paid_monthly": "957.18", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "6033814699"
+  }, 
+  {
+    "amount_paid_monthly": "846.66", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "7830228299"
+  }, 
+  {
+    "amount_paid_monthly": "420.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "4418676958"
+  }, 
+  {
+    "amount_paid_monthly": "990.77", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "837920101"
+  }, 
+  {
+    "amount_paid_monthly": "1702.31", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "6179608372"
+  }, 
+  {
+    "amount_paid_monthly": "878.24", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "8362208945"
+  }, 
+  {
+    "amount_paid_monthly": "1285.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "2232522515"
+  }, 
+  {
+    "amount_paid_monthly": "1639.75", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "830508534"
+  }, 
+  {
+    "amount_paid_monthly": "1112.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "3650201295"
+  }, 
+  {
+    "amount_paid_monthly": "1548.12", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "4176902293"
+  }, 
+  {
+    "amount_paid_monthly": "569.8", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "3638397567"
+  }, 
+  {
+    "amount_paid_monthly": "892.74", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "7691875142"
+  }, 
+  {
+    "amount_paid_monthly": "307.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "3742836396"
+  }, 
+  {
+    "amount_paid_monthly": "1604.81", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "1458135508"
+  }, 
+  {
+    "amount_paid_monthly": "1129.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "3363286513"
+  }, 
+  {
+    "amount_paid_monthly": "643.27", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "9280808577"
+  }, 
+  {
+    "amount_paid_monthly": "1359.62", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "7921662776"
+  }, 
+  {
+    "amount_paid_monthly": "817.84", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "5488012085"
+  }, 
+  {
+    "amount_paid_monthly": "675.23", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "4106311231"
+  }, 
+  {
+    "amount_paid_monthly": "1425.85", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "7845189067"
+  }, 
+  {
+    "amount_paid_monthly": "1069.49", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "4580154"
+  }, 
+  {
+    "amount_paid_monthly": "815.45", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "9966451389"
+  }, 
+  {
+    "amount_paid_monthly": "1427.69", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "4082145235"
+  }, 
+  {
+    "amount_paid_monthly": "980.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "4491712580"
+  }, 
+  {
+    "amount_paid_monthly": "457.64", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "6232006912"
+  }, 
+  {
+    "amount_paid_monthly": "1686.93", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "1082543359"
+  }, 
+  {
+    "amount_paid_monthly": "730.26", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "2829205190"
+  }, 
+  {
+    "amount_paid_monthly": "706.12", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "2675257395"
+  }, 
+  {
+    "amount_paid_monthly": "510.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "8600050054"
+  }, 
+  {
+    "amount_paid_monthly": "1318.55", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "5017120848"
+  }, 
+  {
+    "amount_paid_monthly": "760.99", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "7863877017"
+  }, 
+  {
+    "amount_paid_monthly": "1643.81", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "8313690140"
+  }, 
+  {
+    "amount_paid_monthly": "575.22", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "2852301230"
+  }, 
+  {
+    "amount_paid_monthly": "1439.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "5287095691"
+  }, 
+  {
+    "amount_paid_monthly": "1534.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "3666525880"
+  }, 
+  {
+    "amount_paid_monthly": "1094.79", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "2827140881"
+  }, 
+  {
+    "amount_paid_monthly": "1861.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "7924284142"
+  }, 
+  {
+    "amount_paid_monthly": "1983.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "2310671859"
+  }, 
+  {
+    "amount_paid_monthly": "1043.46", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "4327739575"
+  }, 
+  {
+    "amount_paid_monthly": "1859.66", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "3157854195"
+  }, 
+  {
+    "amount_paid_monthly": "1739.34", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "7877400844"
+  }, 
+  {
+    "amount_paid_monthly": "754.42", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "2576764476"
+  }, 
+  {
+    "amount_paid_monthly": "1020.85", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "2977250994"
+  }, 
+  {
+    "amount_paid_monthly": "342.8", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "2219461509"
+  }, 
+  {
+    "amount_paid_monthly": "543.68", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "3241698601"
+  }, 
+  {
+    "amount_paid_monthly": "1044.26", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "1360802831"
+  }, 
+  {
+    "amount_paid_monthly": "716.86", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "8033402648"
+  }, 
+  {
+    "amount_paid_monthly": "1845.04", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "4959591855"
+  }, 
+  {
+    "amount_paid_monthly": "505.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "987989877"
+  }, 
+  {
+    "amount_paid_monthly": "1694.98", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "187515039"
+  }, 
+  {
+    "amount_paid_monthly": "1360.95", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "4029201920"
+  }, 
+  {
+    "amount_paid_monthly": "575.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "695209209"
+  }, 
+  {
+    "amount_paid_monthly": "1962.5", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "9540461073"
+  }, 
+  {
+    "amount_paid_monthly": "1010.19", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "1974325110"
+  }, 
+  {
+    "amount_paid_monthly": "736.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "3816053182"
+  }, 
+  {
+    "amount_paid_monthly": "904.99", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "3059432503"
+  }, 
+  {
+    "amount_paid_monthly": "1161.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "6689090495"
+  }, 
+  {
+    "amount_paid_monthly": "823.55", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "5553517437"
+  }, 
+  {
+    "amount_paid_monthly": "753.3", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "8731509681"
+  }, 
+  {
+    "amount_paid_monthly": "360.49", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "9527973886"
+  }, 
+  {
+    "amount_paid_monthly": "738.94", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "1180602838"
+  }, 
+  {
+    "amount_paid_monthly": "1656.94", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "5760767388"
+  }, 
+  {
+    "amount_paid_monthly": "1522.13", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "6163875886"
+  }, 
+  {
+    "amount_paid_monthly": "959.47", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "9202175045"
+  }, 
+  {
+    "amount_paid_monthly": "626.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "4914676516"
+  }, 
+  {
+    "amount_paid_monthly": "1618.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "6327280516"
+  }, 
+  {
+    "amount_paid_monthly": "1087.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "1626414385"
+  }, 
+  {
+    "amount_paid_monthly": "1745.33", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "5323737992"
+  }, 
+  {
+    "amount_paid_monthly": "1618.25", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "6213840236"
+  }, 
+  {
+    "amount_paid_monthly": "931.9", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "550397737"
+  }, 
+  {
+    "amount_paid_monthly": "675.49", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "6096673735"
+  }, 
+  {
+    "amount_paid_monthly": "743.48", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "8924058594"
+  }, 
+  {
+    "amount_paid_monthly": "1352.62", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "3256089024"
+  }, 
+  {
+    "amount_paid_monthly": "1090.62", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "3248204410"
+  }, 
+  {
+    "amount_paid_monthly": "885.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "2581937559"
+  }, 
+  {
+    "amount_paid_monthly": "345.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "2470082505"
+  }, 
+  {
+    "amount_paid_monthly": "1310.34", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "2533863932"
+  }, 
+  {
+    "amount_paid_monthly": "396.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "5210767672"
+  }, 
+  {
+    "amount_paid_monthly": "329.65", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "7751903980"
+  }, 
+  {
+    "amount_paid_monthly": "1542.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "8976312736"
+  }, 
+  {
+    "amount_paid_monthly": "612.44", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "212691739"
+  }, 
+  {
+    "amount_paid_monthly": "1545.79", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "9760698761"
+  }, 
+  {
+    "amount_paid_monthly": "355.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "3682012729"
+  }, 
+  {
+    "amount_paid_monthly": "1802.29", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "5262132030"
+  }, 
+  {
+    "amount_paid_monthly": "1939.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "727682677"
+  }, 
+  {
+    "amount_paid_monthly": "1559.39", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "3806551892"
+  }, 
+  {
+    "amount_paid_monthly": "1817.99", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "2769801073"
+  }, 
+  {
+    "amount_paid_monthly": "496.05", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "6278848707"
+  }, 
+  {
+    "amount_paid_monthly": "1813.73", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "9240719891"
+  }, 
+  {
+    "amount_paid_monthly": "884.89", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "4393084750"
+  }, 
+  {
+    "amount_paid_monthly": "482.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "8076334488"
+  }, 
+  {
+    "amount_paid_monthly": "864.33", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "4127332928"
+  }, 
+  {
+    "amount_paid_monthly": "753.6", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "5246995708"
+  }, 
+  {
+    "amount_paid_monthly": "745.84", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "4663910007"
+  }, 
+  {
+    "amount_paid_monthly": "1154.48", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "8409160240"
+  }, 
+  {
+    "amount_paid_monthly": "1349.54", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "2798117623"
+  }, 
+  {
+    "amount_paid_monthly": "761.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "5256652052"
+  }, 
+  {
+    "amount_paid_monthly": "1745.29", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "502644724"
+  }, 
+  {
+    "amount_paid_monthly": "496.06", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "2483076944"
+  }, 
+  {
+    "amount_paid_monthly": "1789.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "8418368608"
+  }, 
+  {
+    "amount_paid_monthly": "1027.16", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "7563604299"
+  }, 
+  {
+    "amount_paid_monthly": "1184.94", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "993167314"
+  }, 
+  {
+    "amount_paid_monthly": "748.21", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "2969082795"
+  }, 
+  {
+    "amount_paid_monthly": "1660.76", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "4420409948"
+  }, 
+  {
+    "amount_paid_monthly": "1769.89", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "6272105038"
+  }, 
+  {
+    "amount_paid_monthly": "1198.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "1208119428"
+  }, 
+  {
+    "amount_paid_monthly": "1239.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "9500952444"
+  }, 
+  {
+    "amount_paid_monthly": "1203.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "9305920233"
+  }, 
+  {
+    "amount_paid_monthly": "1194.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "2058228920"
+  }, 
+  {
+    "amount_paid_monthly": "425.97", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "4498120288"
+  }, 
+  {
+    "amount_paid_monthly": "369.56", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "6995835600"
+  }, 
+  {
+    "amount_paid_monthly": "521.37", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "5170909777"
+  }, 
+  {
+    "amount_paid_monthly": "511.91", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "8365219390"
+  }, 
+  {
+    "amount_paid_monthly": "1082.85", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "7010788849"
+  }, 
+  {
+    "amount_paid_monthly": "577.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "4750850756"
+  }, 
+  {
+    "amount_paid_monthly": "529.17", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "5287185256"
+  }, 
+  {
+    "amount_paid_monthly": "1224.95", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "2819314238"
+  }, 
+  {
+    "amount_paid_monthly": "1968.63", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "1376660797"
+  }, 
+  {
+    "amount_paid_monthly": "1562.2", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "1021160139"
+  }, 
+  {
+    "amount_paid_monthly": "718.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "1052169950"
+  }, 
+  {
+    "amount_paid_monthly": "933.52", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "1576572781"
+  }, 
+  {
+    "amount_paid_monthly": "1168.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "4562051293"
+  }, 
+  {
+    "amount_paid_monthly": "425.18", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "6137067627"
+  }, 
+  {
+    "amount_paid_monthly": "1960.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "1731714588"
+  }, 
+  {
+    "amount_paid_monthly": "1887.09", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "9210958334"
+  }, 
+  {
+    "amount_paid_monthly": "1767.52", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "7315208308"
+  }, 
+  {
+    "amount_paid_monthly": "874.91", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "4764279236"
+  }, 
+  {
+    "amount_paid_monthly": "1108.25", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "4644689089"
+  }, 
+  {
+    "amount_paid_monthly": "608.42", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "536581251"
+  }, 
+  {
+    "amount_paid_monthly": "1779.72", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "5473120828"
+  }, 
+  {
+    "amount_paid_monthly": "846.71", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "3732865230"
+  }, 
+  {
+    "amount_paid_monthly": "1203.13", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "8403847543"
+  }, 
+  {
+    "amount_paid_monthly": "537.07", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "7692223665"
+  }, 
+  {
+    "amount_paid_monthly": "1331.47", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "3118861139"
+  }, 
+  {
+    "amount_paid_monthly": "834.28", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "765349702"
+  }, 
+  {
+    "amount_paid_monthly": "1188.75", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "631714079"
+  }, 
+  {
+    "amount_paid_monthly": "590.88", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "5362270856"
+  }, 
+  {
+    "amount_paid_monthly": "1436.97", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "9867699505"
+  }, 
+  {
+    "amount_paid_monthly": "1455.32", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "6288145202"
+  }, 
+  {
+    "amount_paid_monthly": "704.25", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "425677504"
+  }, 
+  {
+    "amount_paid_monthly": "917.78", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4703942494"
+  }, 
+  {
+    "amount_paid_monthly": "360.87", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "2575337161"
+  }, 
+  {
+    "amount_paid_monthly": "1835.27", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "1359328842"
+  }, 
+  {
+    "amount_paid_monthly": "1150.9", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "513348540"
+  }, 
+  {
+    "amount_paid_monthly": "695.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "6553988502"
+  }, 
+  {
+    "amount_paid_monthly": "1761.51", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "6716454090"
+  }, 
+  {
+    "amount_paid_monthly": "765.91", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "2972457785"
+  }, 
+  {
+    "amount_paid_monthly": "1391.75", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "1586117949"
+  }, 
+  {
+    "amount_paid_monthly": "1342.98", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "8034730577"
+  }, 
+  {
+    "amount_paid_monthly": "487.14", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "5223175752"
+  }, 
+  {
+    "amount_paid_monthly": "745.05", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "4790644026"
+  }, 
+  {
+    "amount_paid_monthly": "1210.27", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "7417864834"
+  }, 
+  {
+    "amount_paid_monthly": "1865.73", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "7024881789"
+  }, 
+  {
+    "amount_paid_monthly": "1836.83", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "2776878841"
+  }, 
+  {
+    "amount_paid_monthly": "1940.62", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "245221258"
+  }, 
+  {
+    "amount_paid_monthly": "1600.63", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "377358684"
+  }, 
+  {
+    "amount_paid_monthly": "1905.04", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "5664753471"
+  }, 
+  {
+    "amount_paid_monthly": "1060.86", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "8880836120"
+  }, 
+  {
+    "amount_paid_monthly": "1482.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "3054203282"
+  }, 
+  {
+    "amount_paid_monthly": "573.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "1928091363"
+  }, 
+  {
+    "amount_paid_monthly": "1490.59", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "2116785824"
+  }, 
+  {
+    "amount_paid_monthly": "969.24", 
+    "claim_complexity": "low", 
+    "claim_duration": "40", 
+    "claim_id": "5396261131"
+  }, 
+  {
+    "amount_paid_monthly": "1250.06", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "5135700160"
+  }, 
+  {
+    "amount_paid_monthly": "1334.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "7259858080"
+  }, 
+  {
+    "amount_paid_monthly": "1283.28", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "387509322"
+  }, 
+  {
+    "amount_paid_monthly": "515.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "3385526037"
+  }, 
+  {
+    "amount_paid_monthly": "1436.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "7127433838"
+  }, 
+  {
+    "amount_paid_monthly": "1770.72", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "4506101152"
+  }, 
+  {
+    "amount_paid_monthly": "593.02", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "3481094138"
+  }, 
+  {
+    "amount_paid_monthly": "970.3", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "9968955559"
+  }, 
+  {
+    "amount_paid_monthly": "761.9", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "3778724423"
+  }, 
+  {
+    "amount_paid_monthly": "1726.33", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4139535086"
+  }, 
+  {
+    "amount_paid_monthly": "577.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "246675703"
+  }, 
+  {
+    "amount_paid_monthly": "1512.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "6956747130"
+  }, 
+  {
+    "amount_paid_monthly": "1230.64", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "7174396741"
+  }, 
+  {
+    "amount_paid_monthly": "1827.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "8285997641"
+  }, 
+  {
+    "amount_paid_monthly": "574.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "6041517115"
+  }, 
+  {
+    "amount_paid_monthly": "1007.79", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "7871486465"
+  }, 
+  {
+    "amount_paid_monthly": "1874.34", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "6377441758"
+  }, 
+  {
+    "amount_paid_monthly": "550.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "3187961202"
+  }, 
+  {
+    "amount_paid_monthly": "1298.56", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "1065950654"
+  }, 
+  {
+    "amount_paid_monthly": "1703.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "3", 
+    "claim_id": "6101349464"
+  }, 
+  {
+    "amount_paid_monthly": "1810.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "5210264971"
+  }, 
+  {
+    "amount_paid_monthly": "1016.87", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "9492383352"
+  }, 
+  {
+    "amount_paid_monthly": "1788.59", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "8511919658"
+  }, 
+  {
+    "amount_paid_monthly": "796.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "9681477770"
+  }, 
+  {
+    "amount_paid_monthly": "797.63", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "7811486223"
+  }, 
+  {
+    "amount_paid_monthly": "1233.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "9059422715"
+  }, 
+  {
+    "amount_paid_monthly": "1529.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "984274331"
+  }, 
+  {
+    "amount_paid_monthly": "1700.45", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "1652420607"
+  }, 
+  {
+    "amount_paid_monthly": "1849.13", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "4834878689"
+  }, 
+  {
+    "amount_paid_monthly": "1659.64", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "1862183188"
+  }, 
+  {
+    "amount_paid_monthly": "1531.26", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "875512746"
+  }, 
+  {
+    "amount_paid_monthly": "689.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "9103888706"
+  }, 
+  {
+    "amount_paid_monthly": "1564.89", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "8266772179"
+  }, 
+  {
+    "amount_paid_monthly": "489.28", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "8819457633"
+  }, 
+  {
+    "amount_paid_monthly": "1168.4", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "8621178407"
+  }, 
+  {
+    "amount_paid_monthly": "1145.09", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "4358623322"
+  }, 
+  {
+    "amount_paid_monthly": "601.23", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "1133666107"
+  }, 
+  {
+    "amount_paid_monthly": "1228.48", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "1318429720"
+  }, 
+  {
+    "amount_paid_monthly": "1836.1", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "3060731915"
+  }, 
+  {
+    "amount_paid_monthly": "396.98", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "7044515679"
+  }, 
+  {
+    "amount_paid_monthly": "1101.25", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "8678605693"
+  }, 
+  {
+    "amount_paid_monthly": "390.95", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "5960690666"
+  }, 
+  {
+    "amount_paid_monthly": "787.75", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "9392464154"
+  }, 
+  {
+    "amount_paid_monthly": "1766.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "8245893991"
+  }, 
+  {
+    "amount_paid_monthly": "746.83", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "9573504235"
+  }, 
+  {
+    "amount_paid_monthly": "1039.61", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "4594170413"
+  }, 
+  {
+    "amount_paid_monthly": "408.34", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "830603019"
+  }, 
+  {
+    "amount_paid_monthly": "796.41", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "8640583793"
+  }, 
+  {
+    "amount_paid_monthly": "807.14", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "1426650363"
+  }, 
+  {
+    "amount_paid_monthly": "612.01", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "7632158764"
+  }, 
+  {
+    "amount_paid_monthly": "403.26", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "84712173"
+  }, 
+  {
+    "amount_paid_monthly": "1023.54", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "4003700650"
+  }, 
+  {
+    "amount_paid_monthly": "841.94", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "2349107355"
+  }, 
+  {
+    "amount_paid_monthly": "1240.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "795920641"
+  }, 
+  {
+    "amount_paid_monthly": "1777.22", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "7040472233"
+  }, 
+  {
+    "amount_paid_monthly": "1053.85", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "9065944533"
+  }, 
+  {
+    "amount_paid_monthly": "325.8", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "2386409967"
+  }, 
+  {
+    "amount_paid_monthly": "1165.38", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "7828862931"
+  }, 
+  {
+    "amount_paid_monthly": "1509.27", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "9917870115"
+  }, 
+  {
+    "amount_paid_monthly": "1213.0", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "9626214717"
+  }, 
+  {
+    "amount_paid_monthly": "982.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "8580399638"
+  }, 
+  {
+    "amount_paid_monthly": "1662.74", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "8183610937"
+  }, 
+  {
+    "amount_paid_monthly": "394.77", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "6711800832"
+  }, 
+  {
+    "amount_paid_monthly": "572.77", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "5787927203"
+  }, 
+  {
+    "amount_paid_monthly": "1766.94", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "2072505331"
+  }, 
+  {
+    "amount_paid_monthly": "1992.54", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "8160928066"
+  }, 
+  {
+    "amount_paid_monthly": "1768.82", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "4763671622"
+  }, 
+  {
+    "amount_paid_monthly": "1861.06", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "2292174205"
+  }, 
+  {
+    "amount_paid_monthly": "743.3", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "3822141356"
+  }, 
+  {
+    "amount_paid_monthly": "1963.75", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "680905971"
+  }, 
+  {
+    "amount_paid_monthly": "1617.15", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "6688572733"
+  }, 
+  {
+    "amount_paid_monthly": "1699.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "5251534824"
+  }, 
+  {
+    "amount_paid_monthly": "1035.39", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "9046319002"
+  }, 
+  {
+    "amount_paid_monthly": "1721.58", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "5598249345"
+  }, 
+  {
+    "amount_paid_monthly": "1726.34", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "2331643802"
+  }, 
+  {
+    "amount_paid_monthly": "433.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "7874199821"
+  }, 
+  {
+    "amount_paid_monthly": "882.83", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "6346660889"
+  }, 
+  {
+    "amount_paid_monthly": "522.44", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "2921485256"
+  }, 
+  {
+    "amount_paid_monthly": "569.72", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "8636522229"
+  }, 
+  {
+    "amount_paid_monthly": "323.89", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "9583058826"
+  }, 
+  {
+    "amount_paid_monthly": "415.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "1308358601"
+  }, 
+  {
+    "amount_paid_monthly": "1385.4", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "4176821809"
+  }, 
+  {
+    "amount_paid_monthly": "1531.99", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "7655421824"
+  }, 
+  {
+    "amount_paid_monthly": "810.28", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "1550086468"
+  }, 
+  {
+    "amount_paid_monthly": "1661.75", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "218250043"
+  }, 
+  {
+    "amount_paid_monthly": "1136.9", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "1706863411"
+  }, 
+  {
+    "amount_paid_monthly": "1058.25", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "5695393463"
+  }, 
+  {
+    "amount_paid_monthly": "1352.83", 
+    "claim_complexity": "medium", 
+    "claim_duration": "3", 
+    "claim_id": "3204859444"
+  }, 
+  {
+    "amount_paid_monthly": "1455.9", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "3010497940"
+  }, 
+  {
+    "amount_paid_monthly": "1510.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "917008050"
+  }, 
+  {
+    "amount_paid_monthly": "901.39", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "6830674696"
+  }, 
+  {
+    "amount_paid_monthly": "904.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "1077474039"
+  }, 
+  {
+    "amount_paid_monthly": "1859.27", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "8315563332"
+  }, 
+  {
+    "amount_paid_monthly": "1659.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "5598010026"
+  }, 
+  {
+    "amount_paid_monthly": "1005.32", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "9840207130"
+  }, 
+  {
+    "amount_paid_monthly": "1853.69", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "6427508532"
+  }, 
+  {
+    "amount_paid_monthly": "1854.34", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "6188220551"
+  }, 
+  {
+    "amount_paid_monthly": "1565.71", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "3646753835"
+  }, 
+  {
+    "amount_paid_monthly": "1415.1", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "7052199026"
+  }, 
+  {
+    "amount_paid_monthly": "1105.13", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "1494906512"
+  }, 
+  {
+    "amount_paid_monthly": "684.44", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "8354214989"
+  }, 
+  {
+    "amount_paid_monthly": "317.49", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "6449382867"
+  }, 
+  {
+    "amount_paid_monthly": "455.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "1900325774"
+  }, 
+  {
+    "amount_paid_monthly": "1474.53", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "5862004573"
+  }, 
+  {
+    "amount_paid_monthly": "1051.22", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4722729539"
+  }, 
+  {
+    "amount_paid_monthly": "587.63", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "2211495288"
+  }, 
+  {
+    "amount_paid_monthly": "744.71", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "6961945423"
+  }, 
+  {
+    "amount_paid_monthly": "822.72", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "1370666104"
+  }, 
+  {
+    "amount_paid_monthly": "1139.75", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "3134182554"
+  }, 
+  {
+    "amount_paid_monthly": "1945.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "6059791650"
+  }, 
+  {
+    "amount_paid_monthly": "1408.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "1673271391"
+  }, 
+  {
+    "amount_paid_monthly": "701.47", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "9201082946"
+  }, 
+  {
+    "amount_paid_monthly": "1771.32", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "6020255361"
+  }, 
+  {
+    "amount_paid_monthly": "1983.86", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "1634972099"
+  }, 
+  {
+    "amount_paid_monthly": "698.43", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "6421415347"
+  }, 
+  {
+    "amount_paid_monthly": "1621.67", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "2920910713"
+  }, 
+  {
+    "amount_paid_monthly": "1094.0", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "4139951813"
+  }, 
+  {
+    "amount_paid_monthly": "1649.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "4675311098"
+  }, 
+  {
+    "amount_paid_monthly": "799.63", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "8544496845"
+  }, 
+  {
+    "amount_paid_monthly": "1027.68", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "1694748722"
+  }, 
+  {
+    "amount_paid_monthly": "687.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "8851990520"
+  }, 
+  {
+    "amount_paid_monthly": "650.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "6858485111"
+  }, 
+  {
+    "amount_paid_monthly": "1622.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "7547165332"
+  }, 
+  {
+    "amount_paid_monthly": "1294.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "4072735361"
+  }, 
+  {
+    "amount_paid_monthly": "884.65", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "2810678592"
+  }, 
+  {
+    "amount_paid_monthly": "1033.92", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "2169086787"
+  }, 
+  {
+    "amount_paid_monthly": "1732.1", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "4975019285"
+  }, 
+  {
+    "amount_paid_monthly": "482.55", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "7146352078"
+  }, 
+  {
+    "amount_paid_monthly": "518.8", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "2947033808"
+  }, 
+  {
+    "amount_paid_monthly": "1242.65", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "9515120609"
+  }, 
+  {
+    "amount_paid_monthly": "1714.92", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "4582448066"
+  }, 
+  {
+    "amount_paid_monthly": "1478.83", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "3820734142"
+  }, 
+  {
+    "amount_paid_monthly": "1979.87", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "6169740449"
+  }, 
+  {
+    "amount_paid_monthly": "432.79", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "9257986085"
+  }, 
+  {
+    "amount_paid_monthly": "1927.01", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "3212403631"
+  }, 
+  {
+    "amount_paid_monthly": "1726.15", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4328177552"
+  }, 
+  {
+    "amount_paid_monthly": "1697.26", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "2842294077"
+  }, 
+  {
+    "amount_paid_monthly": "1898.78", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "7706297266"
+  }, 
+  {
+    "amount_paid_monthly": "1925.81", 
+    "claim_complexity": "medium", 
+    "claim_duration": "77", 
+    "claim_id": "2764812801"
+  }, 
+  {
+    "amount_paid_monthly": "1548.79", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "4507520677"
+  }, 
+  {
+    "amount_paid_monthly": "1661.84", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "1359893259"
+  }, 
+  {
+    "amount_paid_monthly": "1969.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "9559739028"
+  }, 
+  {
+    "amount_paid_monthly": "595.55", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "1250110339"
+  }, 
+  {
+    "amount_paid_monthly": "1159.29", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "5879108912"
+  }, 
+  {
+    "amount_paid_monthly": "1824.61", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "4522418830"
+  }, 
+  {
+    "amount_paid_monthly": "1154.63", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "9488408728"
+  }, 
+  {
+    "amount_paid_monthly": "1859.17", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "2471471722"
+  }, 
+  {
+    "amount_paid_monthly": "1332.61", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "8890688249"
+  }, 
+  {
+    "amount_paid_monthly": "1826.54", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "1783867001"
+  }, 
+  {
+    "amount_paid_monthly": "868.44", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "7599674870"
+  }, 
+  {
+    "amount_paid_monthly": "1463.23", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "7806591508"
+  }, 
+  {
+    "amount_paid_monthly": "1275.51", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "3803535559"
+  }, 
+  {
+    "amount_paid_monthly": "1144.26", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "2894371005"
+  }, 
+  {
+    "amount_paid_monthly": "1119.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "7906300855"
+  }, 
+  {
+    "amount_paid_monthly": "1646.58", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "3698566288"
+  }, 
+  {
+    "amount_paid_monthly": "539.06", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "6826302868"
+  }, 
+  {
+    "amount_paid_monthly": "455.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "7200536414"
+  }, 
+  {
+    "amount_paid_monthly": "1757.44", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "1324031806"
+  }, 
+  {
+    "amount_paid_monthly": "461.24", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "3866151782"
+  }, 
+  {
+    "amount_paid_monthly": "1480.57", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "1486542296"
+  }, 
+  {
+    "amount_paid_monthly": "837.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "5873311396"
+  }, 
+  {
+    "amount_paid_monthly": "1313.43", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "1771636135"
+  }, 
+  {
+    "amount_paid_monthly": "832.09", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "6876161289"
+  }, 
+  {
+    "amount_paid_monthly": "1935.91", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "9509987799"
+  }, 
+  {
+    "amount_paid_monthly": "1842.44", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "2644630420"
+  }, 
+  {
+    "amount_paid_monthly": "1487.43", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "2583411913"
+  }, 
+  {
+    "amount_paid_monthly": "940.85", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "2921898771"
+  }, 
+  {
+    "amount_paid_monthly": "325.09", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "153742143"
+  }, 
+  {
+    "amount_paid_monthly": "1501.34", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "7494174448"
+  }, 
+  {
+    "amount_paid_monthly": "832.58", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "3636246162"
+  }, 
+  {
+    "amount_paid_monthly": "1635.01", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "60987195"
+  }, 
+  {
+    "amount_paid_monthly": "1913.42", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "2287506255"
+  }, 
+  {
+    "amount_paid_monthly": "327.91", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "9141321942"
+  }, 
+  {
+    "amount_paid_monthly": "381.22", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "2216066029"
+  }, 
+  {
+    "amount_paid_monthly": "930.78", 
+    "claim_complexity": "medium", 
+    "claim_duration": "36", 
+    "claim_id": "1399665276"
+  }, 
+  {
+    "amount_paid_monthly": "1452.78", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "1340118788"
+  }, 
+  {
+    "amount_paid_monthly": "1258.2", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "9163487046"
+  }, 
+  {
+    "amount_paid_monthly": "1351.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "5744485960"
+  }, 
+  {
+    "amount_paid_monthly": "1344.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "9156993984"
+  }, 
+  {
+    "amount_paid_monthly": "532.23", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "7881198995"
+  }, 
+  {
+    "amount_paid_monthly": "977.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "5810862256"
+  }, 
+  {
+    "amount_paid_monthly": "554.13", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "34904654"
+  }, 
+  {
+    "amount_paid_monthly": "1662.51", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "9160757642"
+  }, 
+  {
+    "amount_paid_monthly": "1529.95", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "1655516927"
+  }, 
+  {
+    "amount_paid_monthly": "1622.78", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "1123171444"
+  }, 
+  {
+    "amount_paid_monthly": "1820.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "8391695137"
+  }, 
+  {
+    "amount_paid_monthly": "1970.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "9243658009"
+  }, 
+  {
+    "amount_paid_monthly": "1360.17", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "2576199856"
+  }, 
+  {
+    "amount_paid_monthly": "510.11", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "9332361466"
+  }, 
+  {
+    "amount_paid_monthly": "1471.41", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "9685847696"
+  }, 
+  {
+    "amount_paid_monthly": "1608.05", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "9910742833"
+  }, 
+  {
+    "amount_paid_monthly": "334.92", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "49835222"
+  }, 
+  {
+    "amount_paid_monthly": "1042.19", 
+    "claim_complexity": "high", 
+    "claim_duration": "52", 
+    "claim_id": "9745780056"
+  }, 
+  {
+    "amount_paid_monthly": "1904.13", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "3632128991"
+  }, 
+  {
+    "amount_paid_monthly": "1170.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "1610755661"
+  }, 
+  {
+    "amount_paid_monthly": "1488.02", 
+    "claim_complexity": "high", 
+    "claim_duration": "38", 
+    "claim_id": "975844665"
+  }, 
+  {
+    "amount_paid_monthly": "1390.75", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "56749392"
+  }, 
+  {
+    "amount_paid_monthly": "1161.63", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "1227865578"
+  }, 
+  {
+    "amount_paid_monthly": "1884.62", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "8155771570"
+  }, 
+  {
+    "amount_paid_monthly": "322.44", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "2330799836"
+  }, 
+  {
+    "amount_paid_monthly": "1926.2", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "8496588503"
+  }, 
+  {
+    "amount_paid_monthly": "618.44", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "926385901"
+  }, 
+  {
+    "amount_paid_monthly": "539.69", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "7437076529"
+  }, 
+  {
+    "amount_paid_monthly": "1916.24", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "8322810298"
+  }, 
+  {
+    "amount_paid_monthly": "1346.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "518189429"
+  }, 
+  {
+    "amount_paid_monthly": "427.14", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "5315707799"
+  }, 
+  {
+    "amount_paid_monthly": "1620.79", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "1131633970"
+  }, 
+  {
+    "amount_paid_monthly": "934.55", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "4868364332"
+  }, 
+  {
+    "amount_paid_monthly": "1582.74", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "9619803802"
+  }, 
+  {
+    "amount_paid_monthly": "1043.23", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "8181713525"
+  }, 
+  {
+    "amount_paid_monthly": "1466.22", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "1193236841"
+  }, 
+  {
+    "amount_paid_monthly": "660.93", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "1653673481"
+  }, 
+  {
+    "amount_paid_monthly": "1545.44", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "2733941438"
+  }, 
+  {
+    "amount_paid_monthly": "1360.18", 
+    "claim_complexity": "high", 
+    "claim_duration": "18", 
+    "claim_id": "9866790732"
+  }, 
+  {
+    "amount_paid_monthly": "1179.63", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "548482449"
+  }, 
+  {
+    "amount_paid_monthly": "390.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "3717055409"
+  }, 
+  {
+    "amount_paid_monthly": "1991.76", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "1659680087"
+  }, 
+  {
+    "amount_paid_monthly": "994.57", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "5039407499"
+  }, 
+  {
+    "amount_paid_monthly": "1294.23", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "7185767310"
+  }, 
+  {
+    "amount_paid_monthly": "1553.4", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "1689333883"
+  }, 
+  {
+    "amount_paid_monthly": "772.93", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "86029449"
+  }, 
+  {
+    "amount_paid_monthly": "1683.79", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "4170440907"
+  }, 
+  {
+    "amount_paid_monthly": "883.38", 
+    "claim_complexity": "high", 
+    "claim_duration": "6", 
+    "claim_id": "4575009083"
+  }, 
+  {
+    "amount_paid_monthly": "561.56", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "9706305092"
+  }, 
+  {
+    "amount_paid_monthly": "1999.27", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "4279997488"
+  }, 
+  {
+    "amount_paid_monthly": "573.25", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "2153366862"
+  }, 
+  {
+    "amount_paid_monthly": "690.69", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "1381518438"
+  }, 
+  {
+    "amount_paid_monthly": "547.71", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "3682721426"
+  }, 
+  {
+    "amount_paid_monthly": "548.19", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "3151382010"
+  }, 
+  {
+    "amount_paid_monthly": "1672.27", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "4228863426"
+  }, 
+  {
+    "amount_paid_monthly": "1013.2", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "8607712845"
+  }, 
+  {
+    "amount_paid_monthly": "1275.88", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "7307902040"
+  }, 
+  {
+    "amount_paid_monthly": "1878.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "9801165139"
+  }, 
+  {
+    "amount_paid_monthly": "1392.56", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "8500673057"
+  }, 
+  {
+    "amount_paid_monthly": "1870.92", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "1488389974"
+  }, 
+  {
+    "amount_paid_monthly": "1602.6", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "2164749505"
+  }, 
+  {
+    "amount_paid_monthly": "1844.99", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "753542592"
+  }, 
+  {
+    "amount_paid_monthly": "426.89", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "4727677647"
+  }, 
+  {
+    "amount_paid_monthly": "1886.12", 
+    "claim_complexity": "high", 
+    "claim_duration": "2", 
+    "claim_id": "9103357848"
+  }, 
+  {
+    "amount_paid_monthly": "797.58", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "6648326575"
+  }, 
+  {
+    "amount_paid_monthly": "1609.72", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "5487687875"
+  }, 
+  {
+    "amount_paid_monthly": "857.53", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "5162804601"
+  }, 
+  {
+    "amount_paid_monthly": "1322.68", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "4021264796"
+  }, 
+  {
+    "amount_paid_monthly": "1715.19", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "5934603083"
+  }, 
+  {
+    "amount_paid_monthly": "1917.4", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "8718714238"
+  }, 
+  {
+    "amount_paid_monthly": "416.14", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "6642095873"
+  }, 
+  {
+    "amount_paid_monthly": "1303.42", 
+    "claim_complexity": "medium", 
+    "claim_duration": "14", 
+    "claim_id": "5985480981"
+  }, 
+  {
+    "amount_paid_monthly": "1066.58", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "8998913854"
+  }, 
+  {
+    "amount_paid_monthly": "1910.04", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "4895097449"
+  }, 
+  {
+    "amount_paid_monthly": "1270.94", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "4782113269"
+  }, 
+  {
+    "amount_paid_monthly": "1130.99", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "9802085346"
+  }, 
+  {
+    "amount_paid_monthly": "765.44", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "5095633865"
+  }, 
+  {
+    "amount_paid_monthly": "553.53", 
+    "claim_complexity": "low", 
+    "claim_duration": "56", 
+    "claim_id": "1182189878"
+  }, 
+  {
+    "amount_paid_monthly": "1116.35", 
+    "claim_complexity": "medium", 
+    "claim_duration": "32", 
+    "claim_id": "992182804"
+  }, 
+  {
+    "amount_paid_monthly": "617.43", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "4321354763"
+  }, 
+  {
+    "amount_paid_monthly": "306.12", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "4508161914"
+  }, 
+  {
+    "amount_paid_monthly": "594.88", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "6530032007"
+  }, 
+  {
+    "amount_paid_monthly": "1726.86", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "6456367273"
+  }, 
+  {
+    "amount_paid_monthly": "1560.7", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "5838060452"
+  }, 
+  {
+    "amount_paid_monthly": "1903.69", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "3888365821"
+  }, 
+  {
+    "amount_paid_monthly": "1239.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "7116844683"
+  }, 
+  {
+    "amount_paid_monthly": "1475.34", 
+    "claim_complexity": "low", 
+    "claim_duration": "77", 
+    "claim_id": "1895330570"
+  }, 
+  {
+    "amount_paid_monthly": "1770.24", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4613292275"
+  }, 
+  {
+    "amount_paid_monthly": "999.32", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "7462706873"
+  }, 
+  {
+    "amount_paid_monthly": "763.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "4622332301"
+  }, 
+  {
+    "amount_paid_monthly": "558.81", 
+    "claim_complexity": "high", 
+    "claim_duration": "12", 
+    "claim_id": "7698517039"
+  }, 
+  {
+    "amount_paid_monthly": "1850.02", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "5862799338"
+  }, 
+  {
+    "amount_paid_monthly": "908.73", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "7152804325"
+  }, 
+  {
+    "amount_paid_monthly": "1396.96", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "6887648631"
+  }, 
+  {
+    "amount_paid_monthly": "1656.67", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "8545349037"
+  }, 
+  {
+    "amount_paid_monthly": "929.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "4826527680"
+  }, 
+  {
+    "amount_paid_monthly": "562.07", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "3046846460"
+  }, 
+  {
+    "amount_paid_monthly": "1260.06", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "604264358"
+  }, 
+  {
+    "amount_paid_monthly": "1179.69", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "1991812591"
+  }, 
+  {
+    "amount_paid_monthly": "425.29", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "6621225137"
+  }, 
+  {
+    "amount_paid_monthly": "1220.81", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "3396973876"
+  }, 
+  {
+    "amount_paid_monthly": "326.28", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "4677459029"
+  }, 
+  {
+    "amount_paid_monthly": "1766.84", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "3929524872"
+  }, 
+  {
+    "amount_paid_monthly": "1459.21", 
+    "claim_complexity": "low", 
+    "claim_duration": "22", 
+    "claim_id": "2478980989"
+  }, 
+  {
+    "amount_paid_monthly": "678.19", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "7366407851"
+  }, 
+  {
+    "amount_paid_monthly": "349.49", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "5676548006"
+  }, 
+  {
+    "amount_paid_monthly": "1909.49", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "7843089821"
+  }, 
+  {
+    "amount_paid_monthly": "1296.19", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "6841533060"
+  }, 
+  {
+    "amount_paid_monthly": "1492.21", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "4838158256"
+  }, 
+  {
+    "amount_paid_monthly": "460.8", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "9115343464"
+  }, 
+  {
+    "amount_paid_monthly": "1175.97", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "6209159466"
+  }, 
+  {
+    "amount_paid_monthly": "1585.76", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "7298666912"
+  }, 
+  {
+    "amount_paid_monthly": "937.16", 
+    "claim_complexity": "medium", 
+    "claim_duration": "74", 
+    "claim_id": "3479914609"
+  }, 
+  {
+    "amount_paid_monthly": "914.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "6818462350"
+  }, 
+  {
+    "amount_paid_monthly": "1656.16", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "7014512609"
+  }, 
+  {
+    "amount_paid_monthly": "1482.73", 
+    "claim_complexity": "medium", 
+    "claim_duration": "56", 
+    "claim_id": "4360309419"
+  }, 
+  {
+    "amount_paid_monthly": "818.77", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "8356108004"
+  }, 
+  {
+    "amount_paid_monthly": "645.72", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "2418025184"
+  }, 
+  {
+    "amount_paid_monthly": "1291.15", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "5243816638"
+  }, 
+  {
+    "amount_paid_monthly": "1265.89", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "1150408194"
+  }, 
+  {
+    "amount_paid_monthly": "308.87", 
+    "claim_complexity": "low", 
+    "claim_duration": "32", 
+    "claim_id": "9932661112"
+  }, 
+  {
+    "amount_paid_monthly": "1349.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "14", 
+    "claim_id": "6831780782"
+  }, 
+  {
+    "amount_paid_monthly": "1839.18", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "7586859091"
+  }, 
+  {
+    "amount_paid_monthly": "1554.04", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "864106547"
+  }, 
+  {
+    "amount_paid_monthly": "1643.41", 
+    "claim_complexity": "high", 
+    "claim_duration": "1", 
+    "claim_id": "1305525055"
+  }, 
+  {
+    "amount_paid_monthly": "305.84", 
+    "claim_complexity": "low", 
+    "claim_duration": "1", 
+    "claim_id": "6169865236"
+  }, 
+  {
+    "amount_paid_monthly": "1250.73", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "1075882361"
+  }, 
+  {
+    "amount_paid_monthly": "384.29", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "7546290150"
+  }, 
+  {
+    "amount_paid_monthly": "753.81", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "7178482984"
+  }, 
+  {
+    "amount_paid_monthly": "1351.48", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "3125618427"
+  }, 
+  {
+    "amount_paid_monthly": "1247.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4090692540"
+  }, 
+  {
+    "amount_paid_monthly": "380.19", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "3352772545"
+  }, 
+  {
+    "amount_paid_monthly": "1207.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "7931754407"
+  }, 
+  {
+    "amount_paid_monthly": "1496.3", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "9978202787"
+  }, 
+  {
+    "amount_paid_monthly": "1519.46", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "8620857763"
+  }, 
+  {
+    "amount_paid_monthly": "482.02", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "4165184234"
+  }, 
+  {
+    "amount_paid_monthly": "1443.59", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "4826071189"
+  }, 
+  {
+    "amount_paid_monthly": "1341.51", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "3449893394"
+  }, 
+  {
+    "amount_paid_monthly": "1294.36", 
+    "claim_complexity": "medium", 
+    "claim_duration": "2", 
+    "claim_id": "6254257874"
+  }, 
+  {
+    "amount_paid_monthly": "1431.94", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "8339513277"
+  }, 
+  {
+    "amount_paid_monthly": "450.6", 
+    "claim_complexity": "low", 
+    "claim_duration": "38", 
+    "claim_id": "345160010"
+  }, 
+  {
+    "amount_paid_monthly": "501.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "9572248080"
+  }, 
+  {
+    "amount_paid_monthly": "1050.41", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "8726889347"
+  }, 
+  {
+    "amount_paid_monthly": "942.58", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "9134834313"
+  }, 
+  {
+    "amount_paid_monthly": "1140.01", 
+    "claim_complexity": "medium", 
+    "claim_duration": "52", 
+    "claim_id": "2883848779"
+  }, 
+  {
+    "amount_paid_monthly": "1937.03", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "6377209680"
+  }, 
+  {
+    "amount_paid_monthly": "1780.14", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "9756733548"
+  }, 
+  {
+    "amount_paid_monthly": "414.01", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "8301842337"
+  }, 
+  {
+    "amount_paid_monthly": "1863.22", 
+    "claim_complexity": "high", 
+    "claim_duration": "24", 
+    "claim_id": "9144648108"
+  }, 
+  {
+    "amount_paid_monthly": "406.03", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "228737587"
+  }, 
+  {
+    "amount_paid_monthly": "1080.39", 
+    "claim_complexity": "medium", 
+    "claim_duration": "25", 
+    "claim_id": "2713315852"
+  }, 
+  {
+    "amount_paid_monthly": "1223.98", 
+    "claim_complexity": "high", 
+    "claim_duration": "56", 
+    "claim_id": "5665165209"
+  }, 
+  {
+    "amount_paid_monthly": "746.22", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "5633241549"
+  }, 
+  {
+    "amount_paid_monthly": "1054.08", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "399559119"
+  }, 
+  {
+    "amount_paid_monthly": "715.75", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "8784588498"
+  }, 
+  {
+    "amount_paid_monthly": "973.29", 
+    "claim_complexity": "low", 
+    "claim_duration": "72", 
+    "claim_id": "5596121926"
+  }, 
+  {
+    "amount_paid_monthly": "407.45", 
+    "claim_complexity": "low", 
+    "claim_duration": "48", 
+    "claim_id": "9834028279"
+  }, 
+  {
+    "amount_paid_monthly": "1926.28", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "8439635746"
+  }, 
+  {
+    "amount_paid_monthly": "1979.37", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "2616528220"
+  }, 
+  {
+    "amount_paid_monthly": "1556.08", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "6013619440"
+  }, 
+  {
+    "amount_paid_monthly": "1773.35", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "2308738870"
+  }, 
+  {
+    "amount_paid_monthly": "718.08", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "4417221324"
+  }, 
+  {
+    "amount_paid_monthly": "451.03", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "4981486385"
+  }, 
+  {
+    "amount_paid_monthly": "1357.98", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "620020776"
+  }, 
+  {
+    "amount_paid_monthly": "1973.07", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "3950137195"
+  }, 
+  {
+    "amount_paid_monthly": "1260.7", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "8019215762"
+  }, 
+  {
+    "amount_paid_monthly": "508.74", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "665796474"
+  }, 
+  {
+    "amount_paid_monthly": "1120.36", 
+    "claim_complexity": "low", 
+    "claim_duration": "4", 
+    "claim_id": "4925106084"
+  }, 
+  {
+    "amount_paid_monthly": "1830.79", 
+    "claim_complexity": "medium", 
+    "claim_duration": "24", 
+    "claim_id": "9072111485"
+  }, 
+  {
+    "amount_paid_monthly": "1218.27", 
+    "claim_complexity": "medium", 
+    "claim_duration": "84", 
+    "claim_id": "3721054301"
+  }, 
+  {
+    "amount_paid_monthly": "1151.63", 
+    "claim_complexity": "medium", 
+    "claim_duration": "40", 
+    "claim_id": "255211193"
+  }, 
+  {
+    "amount_paid_monthly": "1152.63", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "9690749624"
+  }, 
+  {
+    "amount_paid_monthly": "952.0", 
+    "claim_complexity": "low", 
+    "claim_duration": "62", 
+    "claim_id": "3695797738"
+  }, 
+  {
+    "amount_paid_monthly": "1111.68", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "8737248389"
+  }, 
+  {
+    "amount_paid_monthly": "1624.22", 
+    "claim_complexity": "low", 
+    "claim_duration": "18", 
+    "claim_id": "4093910546"
+  }, 
+  {
+    "amount_paid_monthly": "1423.19", 
+    "claim_complexity": "low", 
+    "claim_duration": "25", 
+    "claim_id": "3146549843"
+  }, 
+  {
+    "amount_paid_monthly": "1388.81", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "1134730407"
+  }, 
+  {
+    "amount_paid_monthly": "1919.33", 
+    "claim_complexity": "medium", 
+    "claim_duration": "66", 
+    "claim_id": "5086161313"
+  }, 
+  {
+    "amount_paid_monthly": "1502.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "8701374785"
+  }, 
+  {
+    "amount_paid_monthly": "1652.77", 
+    "claim_complexity": "low", 
+    "claim_duration": "66", 
+    "claim_id": "585007156"
+  }, 
+  {
+    "amount_paid_monthly": "1765.03", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "9709579452"
+  }, 
+  {
+    "amount_paid_monthly": "1656.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "84", 
+    "claim_id": "5045088549"
+  }, 
+  {
+    "amount_paid_monthly": "442.28", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "1544167777"
+  }, 
+  {
+    "amount_paid_monthly": "1575.91", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "1150652305"
+  }, 
+  {
+    "amount_paid_monthly": "803.28", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "561495578"
+  }, 
+  {
+    "amount_paid_monthly": "623.16", 
+    "claim_complexity": "medium", 
+    "claim_duration": "1", 
+    "claim_id": "8321789276"
+  }, 
+  {
+    "amount_paid_monthly": "818.53", 
+    "claim_complexity": "high", 
+    "claim_duration": "44", 
+    "claim_id": "9111942424"
+  }, 
+  {
+    "amount_paid_monthly": "1101.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "9", 
+    "claim_id": "4625006910"
+  }, 
+  {
+    "amount_paid_monthly": "702.73", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "3593472129"
+  }, 
+  {
+    "amount_paid_monthly": "1915.48", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "7953472700"
+  }, 
+  {
+    "amount_paid_monthly": "1468.47", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "9924125318"
+  }, 
+  {
+    "amount_paid_monthly": "630.03", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "9626614888"
+  }, 
+  {
+    "amount_paid_monthly": "1425.3", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "8903036231"
+  }, 
+  {
+    "amount_paid_monthly": "405.4", 
+    "claim_complexity": "high", 
+    "claim_duration": "77", 
+    "claim_id": "8063255178"
+  }, 
+  {
+    "amount_paid_monthly": "370.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4235126321"
+  }, 
+  {
+    "amount_paid_monthly": "495.96", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "4016085575"
+  }, 
+  {
+    "amount_paid_monthly": "1467.38", 
+    "claim_complexity": "low", 
+    "claim_duration": "6", 
+    "claim_id": "3612010699"
+  }, 
+  {
+    "amount_paid_monthly": "738.06", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "5502521282"
+  }, 
+  {
+    "amount_paid_monthly": "1677.21", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "5863235389"
+  }, 
+  {
+    "amount_paid_monthly": "1543.89", 
+    "claim_complexity": "medium", 
+    "claim_duration": "62", 
+    "claim_id": "9802286546"
+  }, 
+  {
+    "amount_paid_monthly": "544.24", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "9967983394"
+  }, 
+  {
+    "amount_paid_monthly": "1316.93", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "3717928128"
+  }, 
+  {
+    "amount_paid_monthly": "701.57", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "9130976951"
+  }, 
+  {
+    "amount_paid_monthly": "1778.35", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "7647790090"
+  }, 
+  {
+    "amount_paid_monthly": "1278.14", 
+    "claim_complexity": "low", 
+    "claim_duration": "24", 
+    "claim_id": "59735669"
+  }, 
+  {
+    "amount_paid_monthly": "1714.56", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "4286313276"
+  }, 
+  {
+    "amount_paid_monthly": "1559.82", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "5601076310"
+  }, 
+  {
+    "amount_paid_monthly": "772.99", 
+    "claim_complexity": "medium", 
+    "claim_duration": "38", 
+    "claim_id": "8748014109"
+  }, 
+  {
+    "amount_paid_monthly": "1669.74", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "6384268203"
+  }, 
+  {
+    "amount_paid_monthly": "1711.08", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "4334193814"
+  }, 
+  {
+    "amount_paid_monthly": "1539.38", 
+    "claim_complexity": "medium", 
+    "claim_duration": "12", 
+    "claim_id": "2865806093"
+  }, 
+  {
+    "amount_paid_monthly": "1569.0", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "1801422352"
+  }, 
+  {
+    "amount_paid_monthly": "981.61", 
+    "claim_complexity": "high", 
+    "claim_duration": "36", 
+    "claim_id": "4609836677"
+  }, 
+  {
+    "amount_paid_monthly": "1629.22", 
+    "claim_complexity": "low", 
+    "claim_duration": "12", 
+    "claim_id": "1520462135"
+  }, 
+  {
+    "amount_paid_monthly": "1654.48", 
+    "claim_complexity": "high", 
+    "claim_duration": "9", 
+    "claim_id": "3046659692"
+  }, 
+  {
+    "amount_paid_monthly": "839.92", 
+    "claim_complexity": "high", 
+    "claim_duration": "40", 
+    "claim_id": "3293775242"
+  }, 
+  {
+    "amount_paid_monthly": "491.15", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "7516405136"
+  }, 
+  {
+    "amount_paid_monthly": "1004.06", 
+    "claim_complexity": "low", 
+    "claim_duration": "9", 
+    "claim_id": "7456015399"
+  }, 
+  {
+    "amount_paid_monthly": "1156.37", 
+    "claim_complexity": "high", 
+    "claim_duration": "66", 
+    "claim_id": "4920949459"
+  }, 
+  {
+    "amount_paid_monthly": "553.94", 
+    "claim_complexity": "high", 
+    "claim_duration": "14", 
+    "claim_id": "7716535043"
+  }, 
+  {
+    "amount_paid_monthly": "1801.69", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "1872379177"
+  }, 
+  {
+    "amount_paid_monthly": "1035.26", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "6689088936"
+  }, 
+  {
+    "amount_paid_monthly": "1461.09", 
+    "claim_complexity": "medium", 
+    "claim_duration": "18", 
+    "claim_id": "4917961615"
+  }, 
+  {
+    "amount_paid_monthly": "724.35", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "2165139145"
+  }, 
+  {
+    "amount_paid_monthly": "450.44", 
+    "claim_complexity": "high", 
+    "claim_duration": "22", 
+    "claim_id": "8850228176"
+  }, 
+  {
+    "amount_paid_monthly": "1655.65", 
+    "claim_complexity": "high", 
+    "claim_duration": "4", 
+    "claim_id": "3825915798"
+  }, 
+  {
+    "amount_paid_monthly": "1694.9", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "6677382744"
+  }, 
+  {
+    "amount_paid_monthly": "911.38", 
+    "claim_complexity": "medium", 
+    "claim_duration": "4", 
+    "claim_id": "6363751759"
+  }, 
+  {
+    "amount_paid_monthly": "1932.67", 
+    "claim_complexity": "medium", 
+    "claim_duration": "48", 
+    "claim_id": "4003886084"
+  }, 
+  {
+    "amount_paid_monthly": "1973.75", 
+    "claim_complexity": "low", 
+    "claim_duration": "52", 
+    "claim_id": "5489046434"
+  }, 
+  {
+    "amount_paid_monthly": "1311.81", 
+    "claim_complexity": "medium", 
+    "claim_duration": "6", 
+    "claim_id": "9078235816"
+  }, 
+  {
+    "amount_paid_monthly": "993.66", 
+    "claim_complexity": "low", 
+    "claim_duration": "36", 
+    "claim_id": "9905998711"
+  }, 
+  {
+    "amount_paid_monthly": "1809.18", 
+    "claim_complexity": "low", 
+    "claim_duration": "44", 
+    "claim_id": "9525779993"
+  }, 
+  {
+    "amount_paid_monthly": "1415.84", 
+    "claim_complexity": "high", 
+    "claim_duration": "62", 
+    "claim_id": "5252106938"
+  }, 
+  {
+    "amount_paid_monthly": "503.49", 
+    "claim_complexity": "low", 
+    "claim_duration": "28", 
+    "claim_id": "4691863461"
+  }, 
+  {
+    "amount_paid_monthly": "818.85", 
+    "claim_complexity": "medium", 
+    "claim_duration": "44", 
+    "claim_id": "1573575260"
+  }, 
+  {
+    "amount_paid_monthly": "633.32", 
+    "claim_complexity": "high", 
+    "claim_duration": "25", 
+    "claim_id": "8284251632"
+  }, 
+  {
+    "amount_paid_monthly": "693.64", 
+    "claim_complexity": "medium", 
+    "claim_duration": "72", 
+    "claim_id": "4418817992"
+  }, 
+  {
+    "amount_paid_monthly": "931.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "74", 
+    "claim_id": "914598965"
+  }, 
+  {
+    "amount_paid_monthly": "1545.1", 
+    "claim_complexity": "medium", 
+    "claim_duration": "28", 
+    "claim_id": "6328341294"
+  }, 
+  {
+    "amount_paid_monthly": "1988.97", 
+    "claim_complexity": "high", 
+    "claim_duration": "48", 
+    "claim_id": "188570887"
+  }, 
+  {
+    "amount_paid_monthly": "1034.92", 
+    "claim_complexity": "low", 
+    "claim_duration": "2", 
+    "claim_id": "3736904942"
+  }, 
+  {
+    "amount_paid_monthly": "1082.5", 
+    "claim_complexity": "low", 
+    "claim_duration": "74", 
+    "claim_id": "274572938"
+  }, 
+  {
+    "amount_paid_monthly": "1348.46", 
+    "claim_complexity": "medium", 
+    "claim_duration": "22", 
+    "claim_id": "7499726058"
+  }, 
+  {
+    "amount_paid_monthly": "1967.79", 
+    "claim_complexity": "low", 
+    "claim_duration": "84", 
+    "claim_id": "6189076865"
+  }, 
+  {
+    "amount_paid_monthly": "1923.81", 
+    "claim_complexity": "low", 
+    "claim_duration": "3", 
+    "claim_id": "4724094944"
+  }, 
+  {
+    "amount_paid_monthly": "679.74", 
+    "claim_complexity": "high", 
+    "claim_duration": "32", 
+    "claim_id": "4678515564"
+  }, 
+  {
+    "amount_paid_monthly": "600.07", 
+    "claim_complexity": "high", 
+    "claim_duration": "28", 
+    "claim_id": "5252614860"
+  }, 
+  {
+    "amount_paid_monthly": "1961.43", 
+    "claim_complexity": "high", 
+    "claim_duration": "72", 
+    "claim_id": "6345750940"
+  }
+]

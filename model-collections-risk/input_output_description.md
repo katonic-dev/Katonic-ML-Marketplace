@@ -1,0 +1,58 @@
+# Input/Output Description
+
+- Input: A zip file containing 7 comma separated csv files. Reference file: sample.zip
+- Details for each csv file:
+    - scoring_date.csv (required)
+        - Required columns:
+            - scoring_date: scoring date for caculating signals and generate master table, format 'YYYY-MM-DD', eg: '2020-08-01'
+    - Account.csv (required) : This is a table containing account information. For Collections Risk, this would contain date, balance, and whether it is at that time delinquent.
+        - Required columns: 
+            - account_id: ID Associated with the Account
+            - date: Date
+            - balance: Balance Associated with the Account
+            - delinquent: Whether the Account is Delinquent
+    - Bureau.csv (required) : This is a table containing Bureau information. This contains information about the credit history of the account holder.
+        - Required columns: 
+            - bureau_id: Bureau ID
+            - account_id: ID Associated with the Account
+            - date: Date
+            - zip_code: Zip Code of the Account Holder
+            - wallet_size: Wallet Size
+            - FICO_Score: FICO Score
+    - Contact_History.csv (required) : This is a table for contact activity, such as through phone calls. This includes information about when the call was conducted, the duration, whether mobile or landline, and whether RPC or PTP was obtained.
+        - Required columns: 
+            - contact_id: ID Associated with the Contact Instance
+            - account_id: ID Associated with the Account
+            - time_begin: Timestamp of Contact Initiation
+            - time_end: Timestamp of Contact Ending
+            - channel: Mobile, Landline, etc
+            - rpc: Is Right Party Contact
+            - ptp: Promise to Pay Indicator
+    - Online_History.csv (required) : This is a table for online account activity, including web, mobile, and desktop app.
+        - Required columns: 
+            - online_id: ID Associated with the Online Event
+            - account_id: ID Associated with the Account
+            - time_begin: Timestamp of Session Begin
+            - time_end: Timestamp of Session End
+            - channel: Website, Mobile App, Desktop App
+    - Profile.csv (required) : This is a table with collected customer activity including assets, credit card debt, income, and demographic information. Most of these features are optional.
+        - Required columns: 
+            - account_id: ID Associated with the Account
+            - household_assets: Household Assets Associated with the Account (optional)
+            - mortgage_assets: Mortgage Assets Associated with the Account (optional)
+            - credit_card_debt: Credit Card Debt Associated with the Account (optional)
+            - income: Income Associated with the Account (optional)
+            - total_assets: Total Assets Associated with the Account (optional)
+            - total_credit_limit: Credit Limit Associated with the Account (optional)
+            - ind_home_loan: Account Holder has a Home Loan
+            - age: Age of the Account Holder (optional)
+            - gender: Gender of the Account Holder (optional)
+    - Transactions.csv (required) : This is a table for transaction types of activity involving a dollar amount.
+        - Required columns: 
+            - Transaction_ID:  ID Associated with the Transaction
+            - Account_ID:  ID Associated with the Account
+            - Time:    Timestamp associated with the Transaction
+            - Transaction_Amount:  Dollar Amount of the Transaction
+
+- Output: a JSON list of objects, in the original order, with one more field named 'score' which contains the model's prediction of the collections risk score for the record. Reference file: sample.zip.out
+

@@ -1,0 +1,92 @@
+apiVersion: app.k8s.io/v1beta1
+kind: Application
+metadata:
+  name: "{{ .Release.Name }}"
+  annotations:
+    kubernetes-engine.cloud.google.com/icon: >-
+      data:image/png;base64,{{ .Files.Get "SAi_Logo.png" | b64enc }}
+    marketplace.cloud.google.com/deploy-info: '{"partner_id": "electrifai-public", "product_id": "spendai", "partner_name": "ElectrifAi"}'
+  labels:
+    app.kubernetes.io/name: "{{ .Release.Name }}"
+spec:
+  descriptor:
+    type: SpendAi
+    version: "{{ .Values.nginx.image.tag }}"
+    description: |-
+      See Procurement From a Whole New Perspective.SpendAi a cutting-edge
+      technology to generate cost savings and improve eiciency.
+
+      SpendAi combines the power of SpendAi and ContractAi to provide
+      spend and contract data at your fingengertips.
+
+      The SpendAi module leverages the power of machine learning to identify spend patterns
+      and savings opportunities with greater accuracy than other solutions,
+      in order to provide an up-to-date visualization on organizational spend.
+
+      The ContractAI module reads and understands contractual language and clauses
+      that are all-too-often inaccessible, in order to provide more visibility
+      into supplier relationships and uncover hidden risk.
+
+      If you would like to learn more about Procurement Ai, please,
+      visit [SpendAi website](https://electrifai.net/products/procurement-ai/).
+
+      # Support
+
+      This image is built by Google. It is your responsibility to keep
+      container images you run or store in your own repositories
+      up to date with security patches.
+
+      Please reach out to procurement-gcp-support@electrifai.net for support.
+    maintainers:
+    - name: Google Click to Deploy
+      url: https://cloud.google.com/solutions/#click-to-deploy
+    links:
+    - description: 'Electrifai website'
+      url: https://electrifai.net/
+    - description: 'Spend Ai website'
+      url: https://electrifai.net/products/spend-ai
+    notes: |-
+      # Aditional marketing notes
+
+      Procurement professionals are under more pressure than ever to find efficiency
+      and savings in an ever-expanding ocean of information.
+
+      Luckily, new technology makes it possible for your procurement team to have the
+      intelligence they need to drive business results.Introducing SpendAi.
+      Using practical Ai and machine learning technology, SpendAi uncovers unparalleled
+      insights into spending and savings opportunity so you can make better decisions
+  info:
+  - name: Nginx External IP
+    type: Reference
+    valueFrom:
+      serviceRef:
+        name: {{ .Release.Name }}-nginx-svc
+        protocol: HTTPS
+  - name: Application Namespace
+    value: {{ .Release.Namespace }}
+  - name: Nginx Configuration
+    value: nginx-config.conf
+  - name: Nginx Cert
+    type: Reference
+    valueFrom:
+      secretKeyRef:
+        key: https1.cert
+        name: {{ .Release.Name }}-nginx-secret
+  - name: Nginx Key
+    type: Reference
+    valueFrom:
+      secretKeyRef:
+        key: https1.key
+        name: {{ .Release.Name }}-nginx-secret
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: "{{ .Release.Name }}"
+  componentKinds:
+  - group: v1
+    kind: ConfigMap
+  - group: apps/v1
+    kind: Deployment
+  - group: v1
+    kind: Secret
+  - group: v1
+    kind: Service

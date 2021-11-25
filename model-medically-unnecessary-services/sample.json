@@ -1,0 +1,180 @@
+{
+    "1": {
+        "ACCOUNT_ID": "0918723452" ,
+        "PATIENT_ID": "7694200086",
+        "PATIENT_TYPE": "O",
+        "PATIENT_SUBTYPE": null,
+        "SEX": "F", 
+        "AGE": 79,
+        "LOS_DAYS": 0,
+        "PROV_SPEC": "207W00000X",
+        "CHARGES":{
+            "029:96573900": {
+                "LAST_CHG_DATE": "2020-01-24",
+                "QUANTITY": 1,
+                "AMOUNT": 51399.0,
+                "REV_CODE": "710",
+                "HCPCS_CODE": "A0021"
+            },
+            "900:90492894": {
+                "LAST_CHG_DATE": "2020-01-24",
+                "QUANTITY": 2,
+                "AMOUNT": 382.1,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "A0180"
+            }
+        },
+        "RECORD_TYPE": "",
+        "PROC_CODES": ["A0021", "A0180"],
+        "PROC_CODE_TYPE": {
+                "A0021": "HCPCS",
+                "A0180": "HCPCS"
+            },
+        "DIAG_CODES": ["P96.0", "R39.2"], 
+        "DIAG_CODE_TYPE": {
+                "P96.0":"ICD10",
+                "R39.2": "ICD10"
+        },
+        "PAYER_PLAN_CODE": "BCA83",
+        "PRIM_DIAG_CODE": "D649"
+    },
+    "2": {
+        "ACCOUNT_ID": "1233213960" ,
+        "PATIENT_ID": "2399991292",
+        "PATIENT_TYPE": "O",
+        "PATIENT_SUBTYPE": null,
+        "SEX": "M", 
+        "AGE": 34,
+        "LOS_DAYS": 0,
+        "PROV_SPEC": "207PE0004X",
+        "CHARGES":{
+            "005:23757886": {
+                "LAST_CHG_DATE": "2020-04-24",
+                "QUANTITY": 20,
+                "AMOUNT": 3536.9,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "J2704"
+            },
+            "184:25156653": {
+                "LAST_CHG_DATE": "2020-04-24",
+                "QUANTITY": 1,
+                "AMOUNT": 9761.3,
+                "REV_CODE": "730",
+                "HCPCS_CODE": "M1143"
+            },
+            "873:21773804": {
+                "LAST_CHG_DATE": "2020-04-24",
+                "QUANTITY": 2,
+                "AMOUNT": 9097.5,
+                "REV_CODE": "300",
+                "HCPCS_CODE": "J7030"
+            },
+            "711:89966125": {
+                "LAST_CHG_DATE": "2020-04-24",
+                "QUANTITY": 1,
+                "AMOUNT": 5127.1,
+                "REV_CODE": "300",
+                "HCPCS_CODE": "J7060"
+            },
+            "592:66019562": {
+                "LAST_CHG_DATE": "2020-04-24",
+                "QUANTITY": 11,
+                "AMOUNT": 6717.8,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "J7120"
+            }        
+        },
+        "RECORD_TYPE": "",
+        "PROC_CODES": ["J2704", "M1143", "J7030", "J7060", "J7120", "66984"],
+        "PROC_CODE_TYPE": {
+                "J2704": "HCPCS",
+                "M1143": "HCPCS", 
+                "J7030": "HCPCS", 
+                "J7060": "HCPCS", 
+                "J7120": "HCPCS",
+                "66984": "CPT"
+            },
+        "DIAG_CODES": ["K660", "K435", "Z433", "I10", "Z7982"],
+        "DIAG_CODE_TYPE": {
+                "K660": "ICD10",
+                "K435": "ICD10", 
+                "Z433": "ICD10", 
+                "I10": "ICD10", 
+                "Z7982": "ICD10"
+        },
+        "PAYER_PLAN_CODE": "D75C2",
+        "PRIM_DIAG_CODE": "Z433"
+    },
+    "3": {
+        "ACCOUNT_ID": "4564329602" ,
+        "PATIENT_ID": "5956146825",
+        "PATIENT_TYPE": "O",
+        "PATIENT_SUBTYPE": null,
+        "SEX": "M", 
+        "AGE": 55,
+        "LOS_DAYS": 0,
+        "PROV_SPEC": "",
+        "CHARGES":{
+            "232:46728368": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 2,
+                "AMOUNT": 9722.8,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "J3590"
+            },
+            "877:31251619": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 1,
+                "AMOUNT": 3083.6,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "J3490"
+            },
+            "107:19539726": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 2,
+                "AMOUNT": 17531.2,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "J7050"
+            },
+            "409:39004568": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 2,
+                "AMOUNT": 2993.3,
+                "REV_CODE": "420",
+                "HCPCS_CODE": ""
+            },
+            "744:45650713": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 1,
+                "AMOUNT": 69522.6,
+                "REV_CODE": "120",
+                "HCPCS_CODE": ""
+            },
+            "767:16585357": {
+                "LAST_CHG_DATE": "2020-06-02",
+                "QUANTITY": 1,
+                "AMOUNT": 222.9,
+                "REV_CODE": "250",
+                "HCPCS_CODE": "A9150"
+            }
+        },
+        "RECORD_TYPE": "",
+        "PROC_CODES": ["99285", "J3590", "J3490", "J7050", "A9150"],
+        "PROC_CODE_TYPE": {
+                "99285": "CPT",
+                "J3590": "HCPCS", 
+                "J3490": "HCPCS", 
+                "J7050": "HCPCS", 
+                "A9150": "HCPCS"
+            },
+        "DIAG_CODES": ["S90.01XA", "M1041", "H25.011", "M1990"],
+        "DIAG_CODE_TYPE": {
+                "S90.01XA": "ICD10",
+                "M1041": "ICD10", 
+                "H25.011": "ICD10", 
+                "M1990": "ICD10"
+        },
+        "PAYER_PLAN_CODE": "8C064",
+        "PRIM_DIAG_CODE": "M50122"
+    }
+}

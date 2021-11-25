@@ -1,0 +1,43 @@
+# Input/Output Description
+
+- Input: A zip file containing 4 comma separated csv files. Reference file: sample.zip
+- Details for each csv file:
+    - scoring_date.csv (required)
+        - Required columns:
+            - scoring_date: scoring date for caculating signals and generate master table, format 'YYYY-MM-DD', eg: '2020-08-01'
+    - profiles_senders.csv (required) : This is a table containing sender information. For ACH Wire Fraud, this would contain current balance and demographic information about each account holder.
+        - Required columns: 
+            - profile_id: unique id associated with this table
+            - account_id: id associated with the account
+            - date: date associated with balance, age, zip code
+            - balance: balance associated with customer_id
+            - age (optional)
+            - gender (optional)
+            - zip code (optional)
+    - profiles_receivers.csv (required) : This is a table containing receiver information. This will usually have less information than profiles_senders.csv, but ideally has the columns below.
+        - Required columns: 
+            - profile_id: unique id associated with this table
+            - account_id: id associated with the account
+            - date: date associated with balance, age, zip code
+            - balance: balance associated with customer_id
+            - age (optional)
+            - gender (optional)
+            - zip code (optional)
+    - transactions.csv (required) : This is a table for ach transaction types of activity involving a dollar amount. This includes transactions between a sender and receiver, the ach batch number, and an identifier for the service rendered.
+        - Required columns: 
+            - transaction_id: unique id associated with the transaction
+            - orig_id: account id associated with the sender on the transaction
+            - ben_id: account id associated with the receiver on the transaction
+            - transaction_amount: Dollar Amount of Transaction (should be numerical, no dollar signs)
+            - batch_id: ach batch id associated with the transaction
+            - institution_id: institution id receiving the transaction
+            - routing_number_sender: routing number (ABA) associated with the sending financial institution
+            - routing_number_receiver: routing number (ABA) associated with the receiving financial institution
+            - transaction_start_date: timestamp associated with the transaction initiation
+            - transaction_end_date: timestamp associated with the transaction completion- 
+
+- Output: a JSON list of objects contaning, for each record in the original orderthe following fields:
+    - account_id: id of account
+    - transaction_id: id of transaction
+    - score:  model's prediction of the ach fraud score for the record.
+  Reference file: sample.zip.out

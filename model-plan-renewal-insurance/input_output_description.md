@@ -1,0 +1,104 @@
+# Input/Output Description
+- Input: A **zip file** with the following comma separated csv files. Reference file: sample.zip
+- Details of CSV files:
+    - Member.csv (required)
+        - Required columns: 
+            - member_id: Member ID
+            - plan_id: Plan ID
+            - cov_cd: Coverage code
+            - employment_tenure: Member's tenure in years with their employment
+        - Optional columns:
+            - age: Age of member
+            - sic_cd: Standard industry code
+            - memb_country: Member's country
+            - memb_state: Member's state
+            - memb_zip: Zip code of the member
+            - memb_sal: Member annual salary
+            - gender: Member's gender
+            - family_status: Family status of member (single, spouse, spouse and children, children)
+    - Plan.csv (required) 
+        - Required columns: 
+            - plan_id: Plan ID
+            - plan_tenure: Plan tenure in years
+            - plan_eff_dt: Plan effective date
+            - plan_term_dt: Plan termination date
+            - plan_size: Plan size
+            - elig_emp_ct: Total count of eligible employee
+            - prem_amt: Premium amount
+            - brkr_id: Broker ID
+            - renewal_dt: Plan renewal date
+            - guar_rate_ind: Rate guaranteed indicator
+            - renewal_prem_amt: Renewal premium amount
+            - mail_zip5_cd: Employer zip code
+            - state: Employer State        
+        - Optional columns:
+            - sic_cd: Primary Standard Industry Code       
+    - Coverage.csv (required)
+        - Required columns: 
+            - plan_id: Plan ID
+            - cov_cd: Coverage code (e.g. DENTAL, LTD, STD, VISION)
+            - cov_eff_dt: Coverage effective date
+            - cov_term_dt: Coverage termination date
+            - prem_am: Premium amount
+        - Optional columns:
+            - vol_am: Voluntary amount
+            - emp_contrb_in: Employee contribution indicator
+            - dep_contrb_in: Dependent contribution indicator
+    - Claims.csv (required) 
+        - Required columns:
+            - plan_id: Plan ID
+            - member_id: Member ID
+            - clm_record_id: Claim record ID
+            - bill_id: Bill ID
+            - clm_rec_dt: Claim received date
+            - cov_cd: Coverage code
+            - net_type: Network type (IN/OUT)
+            - allow_chag_am: Allowed charge amount
+            - tot_chrg_am: Total charge amount
+            - pymt_am: Payment amount
+            - pymt_dt: Payment date 
+        - Optional columns:
+            - inelig_chrg_am: Ineligible charge amount
+            - ded_am: Deductible amount
+            - coins_am: Coinsurance amount
+            - is_approved: Is claim approved for member
+    - Billing.csv (required)
+        - Required columns: 
+            - plan_id: Plan ID
+            - member_id: Member ID
+            - bill_id: Bill ID
+            - bill_type: Bill Type (e.g. DENTAL, LTD, LIFE)
+            - bill_create_dt: Bill create date
+            - bill_due_dt: Bill due date
+        - Optional columns:
+            - memb_bill_prem_am: Member premium amount
+            - memb_bill_vol_am: Member voluntary amount
+    - Broker.csv (required) 
+        - Required columns: 
+            - brkr_id: Broker ID
+            - brkr_comp_lvl: Broker Competency Level
+    - Customer_service.csv (required) 
+        - Required columns: 
+            - acty_id: Activity ID
+            - acty_open_dt: Activity open date
+            - acty_close_dt: Activity close date
+            - plan_id: Plan ID
+            - member_id: Member ID
+            - brkr_id: Broker ID
+            - clm_record_id: Claim record ID
+            - contact_channel: Contact Channel (phone, email, chat)
+            - caller_type: Caller Type (Member, Broker, Provider, Sales)
+            - call_topic: Call Topic (claims, billing, eligibility, provider, supplies, administrative, other)
+        - Optional columns:        
+            - status: Status (open, closed, pending)
+            - pref_mthd_cntc: Preferred method of contact (phone, email, SMS)
+            - call_prior: Priority level
+    - Dependent.csv (optional) 
+        - Required columns (if table provided): 
+            - member_id: Member ID
+            - dependent_id: Dependent ID
+        - Optional columns:
+            - member_rel: Relationship to member
+            - age: Age of dependent
+            - gender: Gender of dependent 
+- Output: A list of JSON objects containing containing 'plan_id' and 'renewal_dt' from Plan.csv and two other fields named 'renewal_prob' and 'renewal_inc10_prob' which contain model's prediction of plan renewal probability if the premium amount does not change and if it increases by 10% respectively. Reference file: sample.zip.out

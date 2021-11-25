@@ -1,0 +1,102 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-nginx
+  labels: &NginxDeploymentLabels
+    app.kubernetes.io/name: {{ .Release.Name }}
+    app.kubernetes.io/component: nginx-server
+spec:
+  selector:
+    matchLabels: *NginxDeploymentLabels
+  replicas: {{ .Values.nginx.replicas }}
+  template:
+    metadata:
+      labels: *NginxDeploymentLabels
+    spec:
+      terminationGracePeriodSeconds: 180
+      containers:
+      - name: nginx
+        image: "{{ .Values.nginx.image.repo }}:{{ .Values.nginx.image.tag }}"
+        imagePullPolicy: Always
+        resources:
+          requests:
+            cpu: 100m
+            memory: 100Mi
+        ports:
+        - name: nginx
+          containerPort: 80
+          protocol: TCP
+        - name: nginx-https
+          containerPort: 443
+          protocol: TCP
+        - name: prometheus
+          containerPort: 9113
+          protocol: TCP
+        livenessProbe:
+          tcpSocket:
+            port: nginx
+          initialDelaySeconds: 10
+          timeoutSeconds: 5
+        readinessProbe:
+          tcpSocket:
+            port: nginx
+          initialDelaySeconds: 10
+          timeoutSeconds: 5
+        volumeMounts:
+        - name: nginx-config
+          mountPath: /etc/nginx/conf.d
+          readOnly: true
+        - name: certs
+          mountPath: /etc/nginx/certs
+          readOnly: true
+      {{ if .Values.metrics.curatedExporter.enabled }}
+      - name: prometheus-to-sd-curated
+        image: {{ .Values.metrics.image }}
+        ports:
+        - name: profiler
+          containerPort: 6060
+        command:
+        - /monitor
+        - --stackdriver-prefix=kubernetes.io
+        - --source=nginx:http://localhost:9113/metrics?customResourceType=k8s_container&customLabels[project_id]&customLabels[location]&customLabels[cluster_name]&customLabels[namespace_name]=$(POD_NAMESPACE)&customLabels[pod_name]=$(POD_NAME)&customLabels[container_name]=nginx
+        env:
+        - name: POD_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.name
+        - name: POD_NAMESPACE
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.namespace
+      {{ end }}
+      {{ if .Values.metrics.exporter.enabled }}
+      - name: prometheus-to-sd
+        image: {{ .Values.metrics.image }}
+        ports:
+        - name: profiler
+          containerPort: 6060
+        command:
+        - /monitor
+        - --stackdriver-prefix=custom.googleapis.com
+        - --source=nginx:http://localhost:9113/metrics?customResourceType=k8s_container&customLabels[project_id]&customLabels[location]&customLabels[cluster_name]&customLabels[namespace_name]=$(POD_NAMESPACE)&customLabels[pod_name]=$(POD_NAME)&customLabels[container_name]=nginx
+        env:
+        - name: POD_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.name
+        - name: POD_NAMESPACE
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.namespace
+      {{ end }}
+      volumes:
+      - name: certs
+        secret:
+          secretName: {{ .Release.Name }}-nginx-secret
+      - name: nginx-config
+        configMap:
+          name: {{ .Release.Name }}-nginx-configmap
+          items:
+          - key: nginx-config.conf
+            path: nginx-config.conf

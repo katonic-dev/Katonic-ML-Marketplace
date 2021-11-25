@@ -1,0 +1,52 @@
+# Input/Output Description
+
+- Input: A zip file contaning at least 4 comma separated csv files (4 required files). Reference file: sample.zip
+- Details for each csv file:
+    - site_info.csv (required)
+        - Required columns: 
+            - site_id: site id
+            - site_tenure: number of months since the site is in operation
+            - site_cover_radius: the radius in miles that this site can cover
+            - rural_percentage: percentage of area that the site cover is rural area
+            - state: state of site
+            - city: city of site
+            - zipcode: zipcode of site
+            - latitude: latitude of site
+            - longitude: longitude of site
+    - neighborhood.csv (required)
+        - Required columns: 
+            - site_id: site id
+            - population_2mile: Population within 2 miles
+            - per_capita_income: Per Capita Income within 2 miles
+            - population_highschool_ratio: ratio of population with high school education
+            - population_bachelor_ratio: ratio of population with bachelor education
+        - Optional columns:
+            - num_coffee_2mile: Number of  coffee within 2 miles
+            - num_restaurant_2mile: Number of restaurant within 2 miles
+            - num_atm_2mile: Number of ATM within 2 miles
+    - competitor_info.csv (required)
+        - Required columns: 
+            - competitor_id: unique competitor id
+            - competitor_name: competitor name
+            - state: state of competitor
+            - city: city of competitor
+            - zipcode: zipcode of competitor
+            - latitude: latitude of competitor
+            - longitude: longitude of competitor
+    - target_service_transaction.csv (required)
+        - This is the key table for the inference. It contains the 'transaction' information of the sites which ALREADY provide the target service. For example, a drug store chain has a medical service (eg: flu shot) in some of its sites (other sites do not have this service). This table will contain the transaction record information of the sites that provide this service, 'transaction amount' of the service in the sites that have not provided the service yet. 'Transaction amount' is a generalized term here, it can be sales amount, subscription count, usage count, etc.  
+        - Required columns: 
+            - record_id: unique record id
+            - site_id: site id of the site that provide the service in this transaction 
+            - transaction_time: timestamp of the transaction (year-round records)
+            - transaction_amt: transaction amount of the service (can be sales amount, subscription number, service usage, etc)
+    - other_service{N}_transaction.csv (optional) 
+        - eg: other_service1_transaction.csv ,other_service2_transaction.csv, other_service3_transaction.csv...etc. N=1,2,3,4,5,6,7...., can add any number of other service transaction records, follow the same schema of target_service_transaction.csv
+        - Required columns: 
+            - record_id: unique record id
+            - site_id: site id of the site that provide the service in this transaction 
+            - transaction_time: timestamp of the transaction (year-round records)
+            - transaction_amt: transaction amount of the service (can be sales amount, subscription number, service usage, etc)
+            
+            
+- Output: a JSON list of objects containing 'site_id' from site_info.csv that doesn't have the target service, and one column named 'predicted_transaction_amt' which contains model's prediction of year-round total transaction amount of the target service. Reference file: sample.zip.out

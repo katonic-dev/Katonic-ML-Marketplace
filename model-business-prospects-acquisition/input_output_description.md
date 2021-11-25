@@ -1,0 +1,81 @@
+# Input/Output Description
+
+- Input: A zip file containing 9 comma separated csv files. **__Reference file: sample.zip__**
+- Details for each csv file:
+    - campaign_send_activity.csv (required)
+       - Required columns: 
+            - cmp_id: campaign ID
+            - prospect_id: Prospect ID
+            - send_dt: Campaign send date
+            - cmp_channel: Campaign channel: Email or Direct Mail
+            - cmp_offer: Campaign offer: name or description or the ID of the offer
+    - campaign_response_activity.csv (required)
+        - Required columns: 
+            - cmp_id: campaign ID
+            - prospect_id: Prospect ID
+            - rsp_type: Response type: Open or Click
+            - rsp_dt: Response date
+    - prospect_info.csv (required)
+        - Required columns: 
+            - prospect_id: Prospect ID
+            - sic_cd: Standard Industry Code
+            - establish_yr: Establishment year
+            - zip: Zip code
+            - empl_cnt: Number of employees
+    - card_holder_info.csv (required)
+        - Required columns: 
+            - customer_id: Customer ID
+            - account_id: Account ID
+            - prospect_id: Prospect ID corresponding to the account (if available)
+            - zip: Zip code
+            - start_dt: Card holder since
+            - card_name: Card name: name or description or the ID of the card
+            - is_active: Indicates if the card is still active
+            - annual_fee: Annual fee
+    - transactions.csv (required)
+        - Required columns: 
+            - account_id: Account ID
+            - trx_id: Transaction ID
+            - trx_dt: Transaction date
+            - trx_amt: Transaction amount
+    - statements.csv (required)
+        - Required columns: 
+            - account_id: Account ID
+            - statement_dt: Statement date
+            - due_amt: Due amount
+            - due_dt: Due date
+    - payments.csv (required)
+        - Required columns: 
+            - account_id: Account ID
+            - pmnt_amt: Payment amount
+            - pmnt_dt: Payment date
+    - bureau_info.csv (required): While the fields below are available from various bureau companies, the recommended source is listed for each field.
+        - Required columns: 
+            - prospect_id: Prospect ID
+            - month_tag: Month tag of the monthly report
+            - has_compass: Indicates if business appears in Compass (source: Radius)
+            - dt_present_mgmt_control: Date the current management took control (source: D&B)
+            - dnb_failure_score: The D&B Failure Score (formerly the Financial Stress Score) predicts the likelihood that a business will, in the next 12 months, seek legal relief from its creditors or cease business operations without paying all its creditors in full.
+            - credit_card_present: Indicates if any credit cards are present (source: Infogroup)
+            - total_amt_past_due: Total amount past due (source: D&B)
+            - total_balance_curr_aged_trades: Total balance of aged trades that are current (source: Infogroup)
+            - pmnt_exp: Number of payment experiences (source: D&B)
+            - added_to_exp_tenure: Age, in months, since business was first added to Experian (source: Infogroup)
+            - sales_vol: Annual sales volume coded in ranges (source: Equifax)
+        - Optional columns: 
+            - num_pmnt_past_due: Number of payments past due (source: D&B)
+            - status_code: Indicates if the prospect has a "Single Location", is the "Headquarters Location", or is a "Branch Location" (source: D&B)
+            - facility_owned: Indicates if the prospect owns the facility (source: D&B)
+    - 3rd_party.csv (required)
+        - Required columns: 
+            - zip: Zip code
+            - avg_home_value: Average home value in prospect's neighborhood
+            - transactors_pct: Percentage of transactors in prospect's neighborhood
+            - avg_spend: Average spend in prospect's neighborhood
+            - avg_annual_fee: Average annual fees in prospect's neighborhood
+        - Optional columns:
+            - avg_dsi: Average DSI Score in prospect's neighborhood. Discretionary Spending Index (DSI), a product of Equifax, is a continuous household-based score of 1 to 1000 that ranks households by likely spending capacity and spending behaviors.
+
+## Output
+- Output: a JSON list of objects containing 'prospect_id' from prospect_info.csv, the desired scoring date named 'scoring_dt', and two columns named 'application_prob' and 'approval_prob' which contain model's prediction of prospect's probability to apply for a new credit card and their probability to be approved for the card, respectively. **__Reference file: sample.zip.out__**
+

@@ -1,0 +1,56 @@
+# Input/Output specifications:
+- Input: A **zip file** with 5 comma separated csv files (4 required, 1 optional). Reference file: sample.zip
+- Details for each csv file:
+    - target_week.csv (required)
+        - Required columns:
+            - week_id: target week_id for predicting prices of items, format 'YYYY-ID', eg: '2019-16', representing 16th week of 2019
+    - sales_summary.csv (required)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2019-16
+            - store_id: unique store id
+            - item_id: unique item id
+            - item_cost_amt: item cost amt in the week
+            - item_qty: saled quantity of the item in the week
+            - sales_amt_no_discount: sales of the item without discount in the week
+            - sales_amt: sales of the item including discount/promotions in the week
+    - store_summary.csv (required)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2019-16
+            - store_id: unique store id
+            - total_sold_items_qty: total quantity of sold items
+            - total_sales_amt_no_discount: total sales amount of the items without discount/promotions in the period
+            - total_sales_amt: total sales amount of the items including discount/promotions in the period
+            - zipcode: zip code of store
+            - store_cost_amt: total cost for maintaining the store
+        - Optional columns:
+            - city: city of the store
+            - address: address of the store
+            - state: state of the store
+    - promotion_summary.csv (required)
+        - Required columns: 
+            - campaign_id: campaign id 
+            - campaign_start_date: start date of campaign
+            - campaign_end_date: end date of campaign
+            - offer_id: offer id
+            - offer_start_date: start date of the offer
+            - offer_end_date: end date of the offer
+            - item_id: item involved in the offer
+        - Optional columns:
+            - campaign_desciption: description of campaign
+            - offer_description: description of the offer
+            - item_description: description of the item
+            - offer_deal_type: deal type of the offer
+    - competitor_pricing.csv (optional)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2019-16
+            - item_id: unique item id
+            - merchant_id: unique id of competitor
+            - merchant_name: name of competitor
+            - zipcode: zip code of the competitor's store
+            - price: competitor's price of the item
+        - Optional columns:
+            - city: city of the competitor's store
+            - address: address of the competitor's store
+            - state: state of the competitor's store
+    - Note: if end user do not have optional tables, empty CSV with identical columns should be generated to replace missing optional table.
+- Output: A list of JSON objects at week_id x store_id x item_id level and a column of 'optimized_price', which is the suggested price of the items. Reference file: sample.zip.out

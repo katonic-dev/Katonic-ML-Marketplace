@@ -1,0 +1,17 @@
+nginx:
+  image:
+    repo: null
+    tag: null
+  initImage: null
+  replicas: 1
+tls:
+  base64EncodedPrivateKey: null
+  base64EncodedCertificate: null
+metrics:
+  image: null
+  curatedExporter:
+    enabled: false
+  exporter:
+    enabled: false
+publicIp:
+  available: true

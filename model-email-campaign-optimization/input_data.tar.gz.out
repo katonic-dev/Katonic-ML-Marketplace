@@ -1,0 +1,4182 @@
+[
+  {
+    "email_address": "0",
+    "Score": 0.031093434
+  },
+  {
+    "email_address": "1",
+    "Score": 0.773217441
+  },
+  {
+    "email_address": "2",
+    "Score": 0.280087178
+  },
+  {
+    "email_address": "3",
+    "Score": 0.597330663
+  },
+  {
+    "email_address": "4",
+    "Score": 0.103585552
+  },
+  {
+    "email_address": "5",
+    "Score": 0.268318936
+  },
+  {
+    "email_address": "6",
+    "Score": 0.421565284
+  },
+  {
+    "email_address": "7",
+    "Score": 0.374573446
+  },
+  {
+    "email_address": "8",
+    "Score": 0.455392804
+  },
+  {
+    "email_address": "9",
+    "Score": 0.976609252
+  },
+  {
+    "email_address": "10",
+    "Score": 0.232401048
+  },
+  {
+    "email_address": "11",
+    "Score": 0.472307431
+  },
+  {
+    "email_address": "12",
+    "Score": 0.385486385
+  },
+  {
+    "email_address": "13",
+    "Score": 0.980908898
+  },
+  {
+    "email_address": "14",
+    "Score": 0.845185743
+  },
+  {
+    "email_address": "15",
+    "Score": 0.645596204
+  },
+  {
+    "email_address": "16",
+    "Score": 0.68241166
+  },
+  {
+    "email_address": "17",
+    "Score": 0.891029058
+  },
+  {
+    "email_address": "18",
+    "Score": 0.20477673
+  },
+  {
+    "email_address": "19",
+    "Score": 0.995196267
+  },
+  {
+    "email_address": "20",
+    "Score": 0.966495298
+  },
+  {
+    "email_address": "21",
+    "Score": 0.701001465
+  },
+  {
+    "email_address": "22",
+    "Score": 0.865535562
+  },
+  {
+    "email_address": "23",
+    "Score": 0.099816895
+  },
+  {
+    "email_address": "24",
+    "Score": 0.341300637
+  },
+  {
+    "email_address": "25",
+    "Score": 0.686629379
+  },
+  {
+    "email_address": "26",
+    "Score": 0.956676783
+  },
+  {
+    "email_address": "27",
+    "Score": 0.073835531
+  },
+  {
+    "email_address": "28",
+    "Score": 0.602851054
+  },
+  {
+    "email_address": "29",
+    "Score": 0.626141125
+  },
+  {
+    "email_address": "30",
+    "Score": 0.142864609
+  },
+  {
+    "email_address": "31",
+    "Score": 0.153706158
+  },
+  {
+    "email_address": "32",
+    "Score": 0.51842048
+  },
+  {
+    "email_address": "33",
+    "Score": 0.451890627
+  },
+  {
+    "email_address": "34",
+    "Score": 0.245493581
+  },
+  {
+    "email_address": "35",
+    "Score": 0.091688893
+  },
+  {
+    "email_address": "36",
+    "Score": 0.607869907
+  },
+  {
+    "email_address": "37",
+    "Score": 0.925156169
+  },
+  {
+    "email_address": "38",
+    "Score": 0.901895485
+  },
+  {
+    "email_address": "39",
+    "Score": 0.43538383
+  },
+  {
+    "email_address": "40",
+    "Score": 0.913054947
+  },
+  {
+    "email_address": "41",
+    "Score": 0.425789458
+  },
+  {
+    "email_address": "42",
+    "Score": 0.9019699
+  },
+  {
+    "email_address": "43",
+    "Score": 0.764746384
+  },
+  {
+    "email_address": "44",
+    "Score": 0.112948119
+  },
+  {
+    "email_address": "45",
+    "Score": 0.736844086
+  },
+  {
+    "email_address": "46",
+    "Score": 0.740710797
+  },
+  {
+    "email_address": "47",
+    "Score": 0.060703009
+  },
+  {
+    "email_address": "48",
+    "Score": 0.493423211
+  },
+  {
+    "email_address": "49",
+    "Score": 0.755497112
+  },
+  {
+    "email_address": "50",
+    "Score": 0.48175335
+  },
+  {
+    "email_address": "51",
+    "Score": 0.068473095
+  },
+  {
+    "email_address": "52",
+    "Score": 0.619256103
+  },
+  {
+    "email_address": "53",
+    "Score": 0.203898479
+  },
+  {
+    "email_address": "54",
+    "Score": 0.064341857
+  },
+  {
+    "email_address": "55",
+    "Score": 0.206241909
+  },
+  {
+    "email_address": "56",
+    "Score": 0.335913715
+  },
+  {
+    "email_address": "57",
+    "Score": 0.330135964
+  },
+  {
+    "email_address": "58",
+    "Score": 0.316176071
+  },
+  {
+    "email_address": "59",
+    "Score": 0.108338288
+  },
+  {
+    "email_address": "60",
+    "Score": 0.504075806
+  },
+  {
+    "email_address": "61",
+    "Score": 0.618863576
+  },
+  {
+    "email_address": "62",
+    "Score": 0.906775787
+  },
+  {
+    "email_address": "63",
+    "Score": 0.550123326
+  },
+  {
+    "email_address": "64",
+    "Score": 0.161722118
+  },
+  {
+    "email_address": "65",
+    "Score": 0.859479656
+  },
+  {
+    "email_address": "66",
+    "Score": 0.840611587
+  },
+  {
+    "email_address": "67",
+    "Score": 0.012602363
+  },
+  {
+    "email_address": "68",
+    "Score": 0.792684444
+  },
+  {
+    "email_address": "69",
+    "Score": 0.561742491
+  },
+  {
+    "email_address": "70",
+    "Score": 0.978401046
+  },
+  {
+    "email_address": "71",
+    "Score": 0.180269484
+  },
+  {
+    "email_address": "72",
+    "Score": 0.248939295
+  },
+  {
+    "email_address": "73",
+    "Score": 0.377664878
+  },
+  {
+    "email_address": "74",
+    "Score": 0.363459919
+  },
+  {
+    "email_address": "75",
+    "Score": 0.390317219
+  },
+  {
+    "email_address": "76",
+    "Score": 0.335845193
+  },
+  {
+    "email_address": "77",
+    "Score": 0.515095859
+  },
+  {
+    "email_address": "78",
+    "Score": 0.084721206
+  },
+  {
+    "email_address": "79",
+    "Score": 0.949704408
+  },
+  {
+    "email_address": "80",
+    "Score": 0.946886963
+  },
+  {
+    "email_address": "81",
+    "Score": 0.747059588
+  },
+  {
+    "email_address": "82",
+    "Score": 0.653463791
+  },
+  {
+    "email_address": "83",
+    "Score": 0.912152082
+  },
+  {
+    "email_address": "84",
+    "Score": 0.455508982
+  },
+  {
+    "email_address": "85",
+    "Score": 0.821512406
+  },
+  {
+    "email_address": "86",
+    "Score": 0.925597488
+  },
+  {
+    "email_address": "87",
+    "Score": 0.610853761
+  },
+  {
+    "email_address": "88",
+    "Score": 0.429428749
+  },
+  {
+    "email_address": "89",
+    "Score": 0.853803057
+  },
+  {
+    "email_address": "90",
+    "Score": 0.54571087
+  },
+  {
+    "email_address": "91",
+    "Score": 0.85656308
+  },
+  {
+    "email_address": "92",
+    "Score": 0.262491478
+  },
+  {
+    "email_address": "93",
+    "Score": 0.678579443
+  },
+  {
+    "email_address": "94",
+    "Score": 0.692994831
+  },
+  {
+    "email_address": "95",
+    "Score": 0.001209943
+  },
+  {
+    "email_address": "96",
+    "Score": 0.164403946
+  },
+  {
+    "email_address": "97",
+    "Score": 0.249501771
+  },
+  {
+    "email_address": "98",
+    "Score": 0.67604912
+  },
+  {
+    "email_address": "99",
+    "Score": 0.425692968
+  },
+  {
+    "email_address": "100",
+    "Score": 0.383771678
+  },
+  {
+    "email_address": "101",
+    "Score": 0.160493879
+  },
+  {
+    "email_address": "102",
+    "Score": 0.885525548
+  },
+  {
+    "email_address": "103",
+    "Score": 0.64710248
+  },
+  {
+    "email_address": "104",
+    "Score": 0.290803318
+  },
+  {
+    "email_address": "105",
+    "Score": 0.481922839
+  },
+  {
+    "email_address": "106",
+    "Score": 0.911529076
+  },
+  {
+    "email_address": "107",
+    "Score": 0.992297646
+  },
+  {
+    "email_address": "108",
+    "Score": 0.340376289
+  },
+  {
+    "email_address": "109",
+    "Score": 0.326080806
+  },
+  {
+    "email_address": "110",
+    "Score": 0.795258466
+  },
+  {
+    "email_address": "111",
+    "Score": 0.146810064
+  },
+  {
+    "email_address": "112",
+    "Score": 0.637050043
+  },
+  {
+    "email_address": "113",
+    "Score": 0.421937756
+  },
+  {
+    "email_address": "114",
+    "Score": 0.879082579
+  },
+  {
+    "email_address": "115",
+    "Score": 0.728076969
+  },
+  {
+    "email_address": "116",
+    "Score": 0.497813745
+  },
+  {
+    "email_address": "117",
+    "Score": 0.595984401
+  },
+  {
+    "email_address": "118",
+    "Score": 0.120410001
+  },
+  {
+    "email_address": "119",
+    "Score": 0.503983847
+  },
+  {
+    "email_address": "120",
+    "Score": 0.349789623
+  },
+  {
+    "email_address": "121",
+    "Score": 0.604785575
+  },
+  {
+    "email_address": "122",
+    "Score": 0.658610627
+  },
+  {
+    "email_address": "123",
+    "Score": 0.775264686
+  },
+  {
+    "email_address": "124",
+    "Score": 0.778587932
+  },
+  {
+    "email_address": "125",
+    "Score": 0.697953375
+  },
+  {
+    "email_address": "126",
+    "Score": 0.952612306
+  },
+  {
+    "email_address": "127",
+    "Score": 0.866070504
+  },
+  {
+    "email_address": "128",
+    "Score": 0.820187828
+  },
+  {
+    "email_address": "129",
+    "Score": 0.67543624
+  },
+  {
+    "email_address": "130",
+    "Score": 0.109111061
+  },
+  {
+    "email_address": "131",
+    "Score": 0.47882421
+  },
+  {
+    "email_address": "132",
+    "Score": 0.726244572
+  },
+  {
+    "email_address": "133",
+    "Score": 0.286814699
+  },
+  {
+    "email_address": "134",
+    "Score": 0.647215143
+  },
+  {
+    "email_address": "135",
+    "Score": 0.196549905
+  },
+  {
+    "email_address": "136",
+    "Score": 0.969443218
+  },
+  {
+    "email_address": "137",
+    "Score": 0.303393583
+  },
+  {
+    "email_address": "138",
+    "Score": 0.037352506
+  },
+  {
+    "email_address": "139",
+    "Score": 0.634775372
+  },
+  {
+    "email_address": "140",
+    "Score": 0.504555624
+  },
+  {
+    "email_address": "141",
+    "Score": 0.73502466
+  },
+  {
+    "email_address": "142",
+    "Score": 0.170862937
+  },
+  {
+    "email_address": "143",
+    "Score": 0.360936921
+  },
+  {
+    "email_address": "144",
+    "Score": 0.935438931
+  },
+  {
+    "email_address": "145",
+    "Score": 0.396839419
+  },
+  {
+    "email_address": "146",
+    "Score": 0.76326961
+  },
+  {
+    "email_address": "147",
+    "Score": 0.160476705
+  },
+  {
+    "email_address": "148",
+    "Score": 0.684368399
+  },
+  {
+    "email_address": "149",
+    "Score": 0.990047941
+  },
+  {
+    "email_address": "150",
+    "Score": 0.880650467
+  },
+  {
+    "email_address": "151",
+    "Score": 0.575649065
+  },
+  {
+    "email_address": "152",
+    "Score": 0.623799484
+  },
+  {
+    "email_address": "153",
+    "Score": 0.69779733
+  },
+  {
+    "email_address": "154",
+    "Score": 0.108490216
+  },
+  {
+    "email_address": "155",
+    "Score": 0.262635334
+  },
+  {
+    "email_address": "156",
+    "Score": 0.020160332
+  },
+  {
+    "email_address": "157",
+    "Score": 0.930725014
+  },
+  {
+    "email_address": "158",
+    "Score": 0.600288577
+  },
+  {
+    "email_address": "159",
+    "Score": 0.751458725
+  },
+  {
+    "email_address": "160",
+    "Score": 0.716884323
+  },
+  {
+    "email_address": "161",
+    "Score": 0.223945264
+  },
+  {
+    "email_address": "162",
+    "Score": 0.656892813
+  },
+  {
+    "email_address": "163",
+    "Score": 0.439439926
+  },
+  {
+    "email_address": "164",
+    "Score": 0.413048249
+  },
+  {
+    "email_address": "165",
+    "Score": 0.213947845
+  },
+  {
+    "email_address": "166",
+    "Score": 0.572614956
+  },
+  {
+    "email_address": "167",
+    "Score": 0.609827681
+  },
+  {
+    "email_address": "168",
+    "Score": 0.595938616
+  },
+  {
+    "email_address": "169",
+    "Score": 0.499899486
+  },
+  {
+    "email_address": "170",
+    "Score": 0.341408012
+  },
+  {
+    "email_address": "171",
+    "Score": 0.141013458
+  },
+  {
+    "email_address": "172",
+    "Score": 0.712610262
+  },
+  {
+    "email_address": "173",
+    "Score": 0.76224663
+  },
+  {
+    "email_address": "174",
+    "Score": 0.854180229
+  },
+  {
+    "email_address": "175",
+    "Score": 0.596607549
+  },
+  {
+    "email_address": "176",
+    "Score": 0.943923815
+  },
+  {
+    "email_address": "177",
+    "Score": 0.790195942
+  },
+  {
+    "email_address": "178",
+    "Score": 0.439205261
+  },
+  {
+    "email_address": "179",
+    "Score": 0.131807272
+  },
+  {
+    "email_address": "180",
+    "Score": 0.486612824
+  },
+  {
+    "email_address": "181",
+    "Score": 0.236482616
+  },
+  {
+    "email_address": "182",
+    "Score": 0.748141092
+  },
+  {
+    "email_address": "183",
+    "Score": 0.239774256
+  },
+  {
+    "email_address": "184",
+    "Score": 0.624169217
+  },
+  {
+    "email_address": "185",
+    "Score": 0.14284152
+  },
+  {
+    "email_address": "186",
+    "Score": 0.36849341
+  },
+  {
+    "email_address": "187",
+    "Score": 0.736734225
+  },
+  {
+    "email_address": "188",
+    "Score": 0.769240469
+  },
+  {
+    "email_address": "189",
+    "Score": 0.970112744
+  },
+  {
+    "email_address": "190",
+    "Score": 0.384737838
+  },
+  {
+    "email_address": "191",
+    "Score": 0.653359354
+  },
+  {
+    "email_address": "192",
+    "Score": 0.723969164
+  },
+  {
+    "email_address": "193",
+    "Score": 0.695237527
+  },
+  {
+    "email_address": "194",
+    "Score": 0.151545564
+  },
+  {
+    "email_address": "195",
+    "Score": 0.068093445
+  },
+  {
+    "email_address": "196",
+    "Score": 0.405427758
+  },
+  {
+    "email_address": "197",
+    "Score": 0.69453413
+  },
+  {
+    "email_address": "198",
+    "Score": 0.41184706
+  },
+  {
+    "email_address": "199",
+    "Score": 0.77702773
+  },
+  {
+    "email_address": "200",
+    "Score": 0.234382635
+  },
+  {
+    "email_address": "201",
+    "Score": 0.440582044
+  },
+  {
+    "email_address": "202",
+    "Score": 0.05774604
+  },
+  {
+    "email_address": "203",
+    "Score": 0.285718737
+  },
+  {
+    "email_address": "204",
+    "Score": 0.187503767
+  },
+  {
+    "email_address": "205",
+    "Score": 0.455655083
+  },
+  {
+    "email_address": "206",
+    "Score": 0.009594079
+  },
+  {
+    "email_address": "207",
+    "Score": 0.554559258
+  },
+  {
+    "email_address": "208",
+    "Score": 0.685917081
+  },
+  {
+    "email_address": "209",
+    "Score": 0.829077742
+  },
+  {
+    "email_address": "210",
+    "Score": 0.309896735
+  },
+  {
+    "email_address": "211",
+    "Score": 0.878078817
+  },
+  {
+    "email_address": "212",
+    "Score": 0.610118169
+  },
+  {
+    "email_address": "213",
+    "Score": 0.682521938
+  },
+  {
+    "email_address": "214",
+    "Score": 0.672409805
+  },
+  {
+    "email_address": "215",
+    "Score": 0.013143416
+  },
+  {
+    "email_address": "216",
+    "Score": 0.030761025
+  },
+  {
+    "email_address": "217",
+    "Score": 0.216491445
+  },
+  {
+    "email_address": "218",
+    "Score": 0.753452934
+  },
+  {
+    "email_address": "219",
+    "Score": 0.082365658
+  },
+  {
+    "email_address": "220",
+    "Score": 0.392175267
+  },
+  {
+    "email_address": "221",
+    "Score": 0.42082056
+  },
+  {
+    "email_address": "222",
+    "Score": 0.045238043
+  },
+  {
+    "email_address": "223",
+    "Score": 0.814356065
+  },
+  {
+    "email_address": "224",
+    "Score": 0.155374111
+  },
+  {
+    "email_address": "225",
+    "Score": 0.680593911
+  },
+  {
+    "email_address": "226",
+    "Score": 0.160982138
+  },
+  {
+    "email_address": "227",
+    "Score": 0.667795688
+  },
+  {
+    "email_address": "228",
+    "Score": 0.321994502
+  },
+  {
+    "email_address": "229",
+    "Score": 0.446047447
+  },
+  {
+    "email_address": "230",
+    "Score": 0.661944104
+  },
+  {
+    "email_address": "231",
+    "Score": 0.463527564
+  },
+  {
+    "email_address": "232",
+    "Score": 0.764670345
+  },
+  {
+    "email_address": "233",
+    "Score": 0.910203681
+  },
+  {
+    "email_address": "234",
+    "Score": 0.489143244
+  },
+  {
+    "email_address": "235",
+    "Score": 0.03736824
+  },
+  {
+    "email_address": "236",
+    "Score": 0.871606313
+  },
+  {
+    "email_address": "237",
+    "Score": 0.614549115
+  },
+  {
+    "email_address": "238",
+    "Score": 0.887601113
+  },
+  {
+    "email_address": "239",
+    "Score": 0.154251127
+  },
+  {
+    "email_address": "240",
+    "Score": 0.302488039
+  },
+  {
+    "email_address": "241",
+    "Score": 0.968670719
+  },
+  {
+    "email_address": "242",
+    "Score": 0.007982992
+  },
+  {
+    "email_address": "243",
+    "Score": 0.383659811
+  },
+  {
+    "email_address": "244",
+    "Score": 0.572991304
+  },
+  {
+    "email_address": "245",
+    "Score": 0.470893439
+  },
+  {
+    "email_address": "246",
+    "Score": 0.878802214
+  },
+  {
+    "email_address": "247",
+    "Score": 0.584979066
+  },
+  {
+    "email_address": "248",
+    "Score": 0.139905095
+  },
+  {
+    "email_address": "249",
+    "Score": 0.219992157
+  },
+  {
+    "email_address": "250",
+    "Score": 0.816068551
+  },
+  {
+    "email_address": "251",
+    "Score": 0.434184138
+  },
+  {
+    "email_address": "252",
+    "Score": 0.007198535
+  },
+  {
+    "email_address": "253",
+    "Score": 0.679192697
+  },
+  {
+    "email_address": "254",
+    "Score": 0.698848076
+  },
+  {
+    "email_address": "255",
+    "Score": 0.625283608
+  },
+  {
+    "email_address": "256",
+    "Score": 0.18313964
+  },
+  {
+    "email_address": "257",
+    "Score": 0.481668095
+  },
+  {
+    "email_address": "258",
+    "Score": 0.28115584
+  },
+  {
+    "email_address": "259",
+    "Score": 0.614674052
+  },
+  {
+    "email_address": "260",
+    "Score": 0.260826208
+  },
+  {
+    "email_address": "261",
+    "Score": 0.675357804
+  },
+  {
+    "email_address": "262",
+    "Score": 0.944201443
+  },
+  {
+    "email_address": "263",
+    "Score": 0.555991452
+  },
+  {
+    "email_address": "264",
+    "Score": 0.68475601
+  },
+  {
+    "email_address": "265",
+    "Score": 0.183859416
+  },
+  {
+    "email_address": "266",
+    "Score": 0.407955395
+  },
+  {
+    "email_address": "267",
+    "Score": 0.562463965
+  },
+  {
+    "email_address": "268",
+    "Score": 0.371915779
+  },
+  {
+    "email_address": "269",
+    "Score": 0.685673834
+  },
+  {
+    "email_address": "270",
+    "Score": 0.544303097
+  },
+  {
+    "email_address": "271",
+    "Score": 0.115652743
+  },
+  {
+    "email_address": "272",
+    "Score": 0.782735329
+  },
+  {
+    "email_address": "273",
+    "Score": 0.020861074
+  },
+  {
+    "email_address": "274",
+    "Score": 0.841130427
+  },
+  {
+    "email_address": "275",
+    "Score": 0.196866712
+  },
+  {
+    "email_address": "276",
+    "Score": 0.905414623
+  },
+  {
+    "email_address": "277",
+    "Score": 0.676105279
+  },
+  {
+    "email_address": "278",
+    "Score": 0.493669899
+  },
+  {
+    "email_address": "279",
+    "Score": 0.649672025
+  },
+  {
+    "email_address": "280",
+    "Score": 0.698659225
+  },
+  {
+    "email_address": "281",
+    "Score": 0.67417536
+  },
+  {
+    "email_address": "282",
+    "Score": 0.802726536
+  },
+  {
+    "email_address": "283",
+    "Score": 0.634524562
+  },
+  {
+    "email_address": "284",
+    "Score": 0.657271135
+  },
+  {
+    "email_address": "285",
+    "Score": 0.154097446
+  },
+  {
+    "email_address": "286",
+    "Score": 0.316627074
+  },
+  {
+    "email_address": "287",
+    "Score": 0.052744974
+  },
+  {
+    "email_address": "288",
+    "Score": 0.530488065
+  },
+  {
+    "email_address": "289",
+    "Score": 0.372674267
+  },
+  {
+    "email_address": "290",
+    "Score": 0.65350203
+  },
+  {
+    "email_address": "291",
+    "Score": 0.981699467
+  },
+  {
+    "email_address": "292",
+    "Score": 0.642866327
+  },
+  {
+    "email_address": "293",
+    "Score": 0.668036958
+  },
+  {
+    "email_address": "294",
+    "Score": 0.013051314
+  },
+  {
+    "email_address": "295",
+    "Score": 0.81840988
+  },
+  {
+    "email_address": "296",
+    "Score": 0.161561212
+  },
+  {
+    "email_address": "297",
+    "Score": 0.266576147
+  },
+  {
+    "email_address": "298",
+    "Score": 0.924757595
+  },
+  {
+    "email_address": "299",
+    "Score": 0.689998713
+  },
+  {
+    "email_address": "300",
+    "Score": 0.953783709
+  },
+  {
+    "email_address": "301",
+    "Score": 0.274139301
+  },
+  {
+    "email_address": "302",
+    "Score": 0.735986887
+  },
+  {
+    "email_address": "303",
+    "Score": 0.728725429
+  },
+  {
+    "email_address": "304",
+    "Score": 0.233109079
+  },
+  {
+    "email_address": "305",
+    "Score": 0.463346399
+  },
+  {
+    "email_address": "306",
+    "Score": 0.537327712
+  },
+  {
+    "email_address": "307",
+    "Score": 0.278208273
+  },
+  {
+    "email_address": "308",
+    "Score": 0.268088396
+  },
+  {
+    "email_address": "309",
+    "Score": 0.005216249
+  },
+  {
+    "email_address": "310",
+    "Score": 0.449492697
+  },
+  {
+    "email_address": "311",
+    "Score": 0.303483366
+  },
+  {
+    "email_address": "312",
+    "Score": 0.037863839
+  },
+  {
+    "email_address": "313",
+    "Score": 0.573850326
+  },
+  {
+    "email_address": "314",
+    "Score": 0.148942548
+  },
+  {
+    "email_address": "315",
+    "Score": 0.074993888
+  },
+  {
+    "email_address": "316",
+    "Score": 0.510163258
+  },
+  {
+    "email_address": "317",
+    "Score": 0.66057911
+  },
+  {
+    "email_address": "318",
+    "Score": 0.898271289
+  },
+  {
+    "email_address": "319",
+    "Score": 0.71307311
+  },
+  {
+    "email_address": "320",
+    "Score": 0.012871011
+  },
+  {
+    "email_address": "321",
+    "Score": 0.674642376
+  },
+  {
+    "email_address": "322",
+    "Score": 0.632932413
+  },
+  {
+    "email_address": "323",
+    "Score": 0.275091884
+  },
+  {
+    "email_address": "324",
+    "Score": 0.109295546
+  },
+  {
+    "email_address": "325",
+    "Score": 0.048064091
+  },
+  {
+    "email_address": "326",
+    "Score": 0.09053766
+  },
+  {
+    "email_address": "327",
+    "Score": 0.246419933
+  },
+  {
+    "email_address": "328",
+    "Score": 0.800787703
+  },
+  {
+    "email_address": "329",
+    "Score": 0.112377272
+  },
+  {
+    "email_address": "330",
+    "Score": 0.503757995
+  },
+  {
+    "email_address": "331",
+    "Score": 0.023228401
+  },
+  {
+    "email_address": "332",
+    "Score": 0.996187868
+  },
+  {
+    "email_address": "333",
+    "Score": 0.942860458
+  },
+  {
+    "email_address": "334",
+    "Score": 0.892997119
+  },
+  {
+    "email_address": "335",
+    "Score": 0.914071418
+  },
+  {
+    "email_address": "336",
+    "Score": 0.265612073
+  },
+  {
+    "email_address": "337",
+    "Score": 0.427742368
+  },
+  {
+    "email_address": "338",
+    "Score": 0.963695063
+  },
+  {
+    "email_address": "339",
+    "Score": 0.376615884
+  },
+  {
+    "email_address": "340",
+    "Score": 0.73856383
+  },
+  {
+    "email_address": "341",
+    "Score": 0.984149681
+  },
+  {
+    "email_address": "342",
+    "Score": 0.491475895
+  },
+  {
+    "email_address": "343",
+    "Score": 0.766758313
+  },
+  {
+    "email_address": "344",
+    "Score": 0.930494033
+  },
+  {
+    "email_address": "345",
+    "Score": 0.200404171
+  },
+  {
+    "email_address": "346",
+    "Score": 0.532041517
+  },
+  {
+    "email_address": "347",
+    "Score": 0.166172165
+  },
+  {
+    "email_address": "348",
+    "Score": 0.127821063
+  },
+  {
+    "email_address": "349",
+    "Score": 0.688847027
+  },
+  {
+    "email_address": "350",
+    "Score": 0.427841289
+  },
+  {
+    "email_address": "351",
+    "Score": 0.103336949
+  },
+  {
+    "email_address": "352",
+    "Score": 0.196670934
+  },
+  {
+    "email_address": "353",
+    "Score": 0.937774727
+  },
+  {
+    "email_address": "354",
+    "Score": 0.929607232
+  },
+  {
+    "email_address": "355",
+    "Score": 0.528514325
+  },
+  {
+    "email_address": "356",
+    "Score": 0.088248346
+  },
+  {
+    "email_address": "357",
+    "Score": 0.684535103
+  },
+  {
+    "email_address": "358",
+    "Score": 0.6002512
+  },
+  {
+    "email_address": "359",
+    "Score": 0.078426049
+  },
+  {
+    "email_address": "360",
+    "Score": 0.488939472
+  },
+  {
+    "email_address": "361",
+    "Score": 0.683555131
+  },
+  {
+    "email_address": "362",
+    "Score": 0.151287151
+  },
+  {
+    "email_address": "363",
+    "Score": 0.980552233
+  },
+  {
+    "email_address": "364",
+    "Score": 0.01004264
+  },
+  {
+    "email_address": "365",
+    "Score": 0.638684531
+  },
+  {
+    "email_address": "366",
+    "Score": 0.277322066
+  },
+  {
+    "email_address": "367",
+    "Score": 0.236066499
+  },
+  {
+    "email_address": "368",
+    "Score": 0.069495432
+  },
+  {
+    "email_address": "369",
+    "Score": 0.309572149
+  },
+  {
+    "email_address": "370",
+    "Score": 0.315714556
+  },
+  {
+    "email_address": "371",
+    "Score": 0.47010956
+  },
+  {
+    "email_address": "372",
+    "Score": 0.666678229
+  },
+  {
+    "email_address": "373",
+    "Score": 0.24781343
+  },
+  {
+    "email_address": "374",
+    "Score": 0.14026388
+  },
+  {
+    "email_address": "375",
+    "Score": 0.135363334
+  },
+  {
+    "email_address": "376",
+    "Score": 0.815567845
+  },
+  {
+    "email_address": "377",
+    "Score": 0.265802431
+  },
+  {
+    "email_address": "378",
+    "Score": 0.835798999
+  },
+  {
+    "email_address": "379",
+    "Score": 0.542712684
+  },
+  {
+    "email_address": "380",
+    "Score": 0.828080774
+  },
+  {
+    "email_address": "381",
+    "Score": 0.606219223
+  },
+  {
+    "email_address": "382",
+    "Score": 0.997976184
+  },
+  {
+    "email_address": "383",
+    "Score": 0.425934747
+  },
+  {
+    "email_address": "384",
+    "Score": 0.608993506
+  },
+  {
+    "email_address": "385",
+    "Score": 0.879731344
+  },
+  {
+    "email_address": "386",
+    "Score": 0.939467774
+  },
+  {
+    "email_address": "387",
+    "Score": 0.321575541
+  },
+  {
+    "email_address": "388",
+    "Score": 0.144747549
+  },
+  {
+    "email_address": "389",
+    "Score": 0.397539714
+  },
+  {
+    "email_address": "390",
+    "Score": 0.78824925
+  },
+  {
+    "email_address": "391",
+    "Score": 0.531145108
+  },
+  {
+    "email_address": "392",
+    "Score": 0.885503774
+  },
+  {
+    "email_address": "393",
+    "Score": 0.946743397
+  },
+  {
+    "email_address": "394",
+    "Score": 0.433483203
+  },
+  {
+    "email_address": "395",
+    "Score": 0.669697277
+  },
+  {
+    "email_address": "396",
+    "Score": 0.030829969
+  },
+  {
+    "email_address": "397",
+    "Score": 0.784326062
+  },
+  {
+    "email_address": "398",
+    "Score": 0.553188899
+  },
+  {
+    "email_address": "399",
+    "Score": 0.041235881
+  },
+  {
+    "email_address": "400",
+    "Score": 0.793108114
+  },
+  {
+    "email_address": "401",
+    "Score": 0.381672582
+  },
+  {
+    "email_address": "402",
+    "Score": 0.484041037
+  },
+  {
+    "email_address": "403",
+    "Score": 0.76446939
+  },
+  {
+    "email_address": "404",
+    "Score": 0.367587982
+  },
+  {
+    "email_address": "405",
+    "Score": 0.34698828
+  },
+  {
+    "email_address": "406",
+    "Score": 0.46743981
+  },
+  {
+    "email_address": "407",
+    "Score": 0.028981886
+  },
+  {
+    "email_address": "408",
+    "Score": 0.366503227
+  },
+  {
+    "email_address": "409",
+    "Score": 0.444641827
+  },
+  {
+    "email_address": "410",
+    "Score": 0.503011162
+  },
+  {
+    "email_address": "411",
+    "Score": 0.994519553
+  },
+  {
+    "email_address": "412",
+    "Score": 0.090470299
+  },
+  {
+    "email_address": "413",
+    "Score": 0.470834385
+  },
+  {
+    "email_address": "414",
+    "Score": 0.462145956
+  },
+  {
+    "email_address": "415",
+    "Score": 0.754059534
+  },
+  {
+    "email_address": "416",
+    "Score": 0.75591685
+  },
+  {
+    "email_address": "417",
+    "Score": 0.306885421
+  },
+  {
+    "email_address": "418",
+    "Score": 0.840418801
+  },
+  {
+    "email_address": "419",
+    "Score": 0.01653103
+  },
+  {
+    "email_address": "420",
+    "Score": 0.361513226
+  },
+  {
+    "email_address": "421",
+    "Score": 0.250133966
+  },
+  {
+    "email_address": "422",
+    "Score": 0.219243189
+  },
+  {
+    "email_address": "423",
+    "Score": 0.155218979
+  },
+  {
+    "email_address": "424",
+    "Score": 0.128369477
+  },
+  {
+    "email_address": "425",
+    "Score": 0.556305955
+  },
+  {
+    "email_address": "426",
+    "Score": 0.865697181
+  },
+  {
+    "email_address": "427",
+    "Score": 0.65029879
+  },
+  {
+    "email_address": "428",
+    "Score": 0.681628819
+  },
+  {
+    "email_address": "429",
+    "Score": 0.570552485
+  },
+  {
+    "email_address": "430",
+    "Score": 0.989859483
+  },
+  {
+    "email_address": "431",
+    "Score": 0.189661615
+  },
+  {
+    "email_address": "432",
+    "Score": 0.280514482
+  },
+  {
+    "email_address": "433",
+    "Score": 0.117694376
+  },
+  {
+    "email_address": "434",
+    "Score": 0.762852038
+  },
+  {
+    "email_address": "435",
+    "Score": 0.013921262
+  },
+  {
+    "email_address": "436",
+    "Score": 0.614321909
+  },
+  {
+    "email_address": "437",
+    "Score": 0.067629075
+  },
+  {
+    "email_address": "438",
+    "Score": 0.792017312
+  },
+  {
+    "email_address": "439",
+    "Score": 0.310616107
+  },
+  {
+    "email_address": "440",
+    "Score": 0.897496814
+  },
+  {
+    "email_address": "441",
+    "Score": 0.665639266
+  },
+  {
+    "email_address": "442",
+    "Score": 0.174005018
+  },
+  {
+    "email_address": "443",
+    "Score": 0.982478708
+  },
+  {
+    "email_address": "444",
+    "Score": 0.687750506
+  },
+  {
+    "email_address": "445",
+    "Score": 0.287855222
+  },
+  {
+    "email_address": "446",
+    "Score": 0.507269862
+  },
+  {
+    "email_address": "447",
+    "Score": 0.274860496
+  },
+  {
+    "email_address": "448",
+    "Score": 0.20003952
+  },
+  {
+    "email_address": "449",
+    "Score": 0.515581034
+  },
+  {
+    "email_address": "450",
+    "Score": 0.958988856
+  },
+  {
+    "email_address": "451",
+    "Score": 0.689987291
+  },
+  {
+    "email_address": "452",
+    "Score": 0.159402561
+  },
+  {
+    "email_address": "453",
+    "Score": 0.979965195
+  },
+  {
+    "email_address": "454",
+    "Score": 0.346582946
+  },
+  {
+    "email_address": "455",
+    "Score": 0.092970003
+  },
+  {
+    "email_address": "456",
+    "Score": 0.809982688
+  },
+  {
+    "email_address": "457",
+    "Score": 0.277595089
+  },
+  {
+    "email_address": "458",
+    "Score": 0.618154407
+  },
+  {
+    "email_address": "459",
+    "Score": 0.576334126
+  },
+  {
+    "email_address": "460",
+    "Score": 0.315535937
+  },
+  {
+    "email_address": "461",
+    "Score": 0.550917748
+  },
+  {
+    "email_address": "462",
+    "Score": 0.821482143
+  },
+  {
+    "email_address": "463",
+    "Score": 0.515334187
+  },
+  {
+    "email_address": "464",
+    "Score": 0.80643246
+  },
+  {
+    "email_address": "465",
+    "Score": 0.668612389
+  },
+  {
+    "email_address": "466",
+    "Score": 0.167513412
+  },
+  {
+    "email_address": "467",
+    "Score": 0.893806048
+  },
+  {
+    "email_address": "468",
+    "Score": 0.392958899
+  },
+  {
+    "email_address": "469",
+    "Score": 0.365341529
+  },
+  {
+    "email_address": "470",
+    "Score": 0.925027851
+  },
+  {
+    "email_address": "471",
+    "Score": 0.52865987
+  },
+  {
+    "email_address": "472",
+    "Score": 0.264170401
+  },
+  {
+    "email_address": "473",
+    "Score": 0.195964402
+  },
+  {
+    "email_address": "474",
+    "Score": 0.646068276
+  },
+  {
+    "email_address": "475",
+    "Score": 0.336114942
+  },
+  {
+    "email_address": "476",
+    "Score": 0.56427541
+  },
+  {
+    "email_address": "477",
+    "Score": 0.88256408
+  },
+  {
+    "email_address": "478",
+    "Score": 0.184301709
+  },
+  {
+    "email_address": "479",
+    "Score": 0.983055085
+  },
+  {
+    "email_address": "480",
+    "Score": 0.704107873
+  },
+  {
+    "email_address": "481",
+    "Score": 0.292793692
+  },
+  {
+    "email_address": "482",
+    "Score": 0.706693962
+  },
+  {
+    "email_address": "483",
+    "Score": 0.911620919
+  },
+  {
+    "email_address": "484",
+    "Score": 0.823099956
+  },
+  {
+    "email_address": "485",
+    "Score": 0.937411557
+  },
+  {
+    "email_address": "486",
+    "Score": 0.810109996
+  },
+  {
+    "email_address": "487",
+    "Score": 0.141821416
+  },
+  {
+    "email_address": "488",
+    "Score": 0.210385999
+  },
+  {
+    "email_address": "489",
+    "Score": 0.161161537
+  },
+  {
+    "email_address": "490",
+    "Score": 0.138945606
+  },
+  {
+    "email_address": "491",
+    "Score": 0.121704816
+  },
+  {
+    "email_address": "492",
+    "Score": 0.08081221
+  },
+  {
+    "email_address": "493",
+    "Score": 0.59477434
+  },
+  {
+    "email_address": "494",
+    "Score": 0.120139332
+  },
+  {
+    "email_address": "495",
+    "Score": 0.77532157
+  },
+  {
+    "email_address": "496",
+    "Score": 0.591388963
+  },
+  {
+    "email_address": "497",
+    "Score": 0.201177343
+  },
+  {
+    "email_address": "498",
+    "Score": 0.249607961
+  },
+  {
+    "email_address": "499",
+    "Score": 0.285870469
+  },
+  {
+    "email_address": "500",
+    "Score": 0.450712627
+  },
+  {
+    "email_address": "501",
+    "Score": 0.322060148
+  },
+  {
+    "email_address": "502",
+    "Score": 0.828036221
+  },
+  {
+    "email_address": "503",
+    "Score": 0.910472729
+  },
+  {
+    "email_address": "504",
+    "Score": 0.144212279
+  },
+  {
+    "email_address": "505",
+    "Score": 0.053240519
+  },
+  {
+    "email_address": "506",
+    "Score": 0.896505776
+  },
+  {
+    "email_address": "507",
+    "Score": 0.222773484
+  },
+  {
+    "email_address": "508",
+    "Score": 0.635519478
+  },
+  {
+    "email_address": "509",
+    "Score": 0.580210618
+  },
+  {
+    "email_address": "510",
+    "Score": 0.305803103
+  },
+  {
+    "email_address": "511",
+    "Score": 0.178942722
+  },
+  {
+    "email_address": "512",
+    "Score": 0.241006745
+  },
+  {
+    "email_address": "513",
+    "Score": 0.529698884
+  },
+  {
+    "email_address": "514",
+    "Score": 0.377829581
+  },
+  {
+    "email_address": "515",
+    "Score": 0.388162873
+  },
+  {
+    "email_address": "516",
+    "Score": 0.966349998
+  },
+  {
+    "email_address": "517",
+    "Score": 0.729122065
+  },
+  {
+    "email_address": "518",
+    "Score": 0.400934133
+  },
+  {
+    "email_address": "519",
+    "Score": 0.64855736
+  },
+  {
+    "email_address": "520",
+    "Score": 0.192386175
+  },
+  {
+    "email_address": "521",
+    "Score": 0.843347167
+  },
+  {
+    "email_address": "522",
+    "Score": 0.613495741
+  },
+  {
+    "email_address": "523",
+    "Score": 0.016871455
+  },
+  {
+    "email_address": "524",
+    "Score": 0.737791121
+  },
+  {
+    "email_address": "525",
+    "Score": 0.714416998
+  },
+  {
+    "email_address": "526",
+    "Score": 0.613326273
+  },
+  {
+    "email_address": "527",
+    "Score": 0.391378335
+  },
+  {
+    "email_address": "528",
+    "Score": 0.085798384
+  },
+  {
+    "email_address": "529",
+    "Score": 0.632944716
+  },
+  {
+    "email_address": "530",
+    "Score": 0.640219538
+  },
+  {
+    "email_address": "531",
+    "Score": 0.892274885
+  },
+  {
+    "email_address": "532",
+    "Score": 0.294997947
+  },
+  {
+    "email_address": "533",
+    "Score": 0.484444888
+  },
+  {
+    "email_address": "534",
+    "Score": 0.275686542
+  },
+  {
+    "email_address": "535",
+    "Score": 0.110532475
+  },
+  {
+    "email_address": "536",
+    "Score": 0.778263187
+  },
+  {
+    "email_address": "537",
+    "Score": 0.788022261
+  },
+  {
+    "email_address": "538",
+    "Score": 0.085542492
+  },
+  {
+    "email_address": "539",
+    "Score": 0.90036757
+  },
+  {
+    "email_address": "540",
+    "Score": 0.315318305
+  },
+  {
+    "email_address": "541",
+    "Score": 0.867167793
+  },
+  {
+    "email_address": "542",
+    "Score": 0.332131057
+  },
+  {
+    "email_address": "543",
+    "Score": 0.406781405
+  },
+  {
+    "email_address": "544",
+    "Score": 0.3306193
+  },
+  {
+    "email_address": "545",
+    "Score": 0.049982514
+  },
+  {
+    "email_address": "546",
+    "Score": 0.056665503
+  },
+  {
+    "email_address": "547",
+    "Score": 0.443406857
+  },
+  {
+    "email_address": "548",
+    "Score": 0.596915641
+  },
+  {
+    "email_address": "549",
+    "Score": 0.692988177
+  },
+  {
+    "email_address": "550",
+    "Score": 0.456795803
+  },
+  {
+    "email_address": "551",
+    "Score": 0.534031288
+  },
+  {
+    "email_address": "552",
+    "Score": 0.613861363
+  },
+  {
+    "email_address": "553",
+    "Score": 0.507176159
+  },
+  {
+    "email_address": "554",
+    "Score": 0.562334353
+  },
+  {
+    "email_address": "555",
+    "Score": 0.311206297
+  },
+  {
+    "email_address": "556",
+    "Score": 0.309074387
+  },
+  {
+    "email_address": "557",
+    "Score": 0.80482452
+  },
+  {
+    "email_address": "558",
+    "Score": 0.240682669
+  },
+  {
+    "email_address": "559",
+    "Score": 0.218194038
+  },
+  {
+    "email_address": "560",
+    "Score": 0.35880102
+  },
+  {
+    "email_address": "561",
+    "Score": 0.778725422
+  },
+  {
+    "email_address": "562",
+    "Score": 0.830025314
+  },
+  {
+    "email_address": "563",
+    "Score": 0.008061627
+  },
+  {
+    "email_address": "564",
+    "Score": 0.235482808
+  },
+  {
+    "email_address": "565",
+    "Score": 0.428959715
+  },
+  {
+    "email_address": "566",
+    "Score": 0.353669531
+  },
+  {
+    "email_address": "567",
+    "Score": 0.12527173
+  },
+  {
+    "email_address": "568",
+    "Score": 0.304023011
+  },
+  {
+    "email_address": "569",
+    "Score": 0.479121578
+  },
+  {
+    "email_address": "570",
+    "Score": 0.238914399
+  },
+  {
+    "email_address": "571",
+    "Score": 0.060641494
+  },
+  {
+    "email_address": "572",
+    "Score": 0.33936093
+  },
+  {
+    "email_address": "573",
+    "Score": 0.19674607
+  },
+  {
+    "email_address": "574",
+    "Score": 0.223198999
+  },
+  {
+    "email_address": "575",
+    "Score": 0.821207142
+  },
+  {
+    "email_address": "576",
+    "Score": 0.547491337
+  },
+  {
+    "email_address": "577",
+    "Score": 0.829946723
+  },
+  {
+    "email_address": "578",
+    "Score": 0.542916629
+  },
+  {
+    "email_address": "579",
+    "Score": 0.603383247
+  },
+  {
+    "email_address": "580",
+    "Score": 0.162912322
+  },
+  {
+    "email_address": "581",
+    "Score": 0.596100178
+  },
+  {
+    "email_address": "582",
+    "Score": 0.189426912
+  },
+  {
+    "email_address": "583",
+    "Score": 0.748213688
+  },
+  {
+    "email_address": "584",
+    "Score": 0.442224463
+  },
+  {
+    "email_address": "585",
+    "Score": 0.295659728
+  },
+  {
+    "email_address": "586",
+    "Score": 0.189029001
+  },
+  {
+    "email_address": "587",
+    "Score": 0.322707931
+  },
+  {
+    "email_address": "588",
+    "Score": 0.766296678
+  },
+  {
+    "email_address": "589",
+    "Score": 0.362629317
+  },
+  {
+    "email_address": "590",
+    "Score": 0.717614886
+  },
+  {
+    "email_address": "591",
+    "Score": 0.792860165
+  },
+  {
+    "email_address": "592",
+    "Score": 0.296067732
+  },
+  {
+    "email_address": "593",
+    "Score": 0.567219984
+  },
+  {
+    "email_address": "594",
+    "Score": 0.54371941
+  },
+  {
+    "email_address": "595",
+    "Score": 0.108731269
+  },
+  {
+    "email_address": "596",
+    "Score": 0.259016684
+  },
+  {
+    "email_address": "597",
+    "Score": 0.915420785
+  },
+  {
+    "email_address": "598",
+    "Score": 0.071249294
+  },
+  {
+    "email_address": "599",
+    "Score": 0.569469044
+  },
+  {
+    "email_address": "600",
+    "Score": 0.0719103
+  },
+  {
+    "email_address": "601",
+    "Score": 0.803886287
+  },
+  {
+    "email_address": "602",
+    "Score": 0.299873333
+  },
+  {
+    "email_address": "603",
+    "Score": 0.545442206
+  },
+  {
+    "email_address": "604",
+    "Score": 0.691704133
+  },
+  {
+    "email_address": "605",
+    "Score": 0.704836899
+  },
+  {
+    "email_address": "606",
+    "Score": 0.105964652
+  },
+  {
+    "email_address": "607",
+    "Score": 0.480701575
+  },
+  {
+    "email_address": "608",
+    "Score": 0.920979235
+  },
+  {
+    "email_address": "609",
+    "Score": 0.782998204
+  },
+  {
+    "email_address": "610",
+    "Score": 0.830290835
+  },
+  {
+    "email_address": "611",
+    "Score": 0.80326054
+  },
+  {
+    "email_address": "612",
+    "Score": 0.635154882
+  },
+  {
+    "email_address": "613",
+    "Score": 0.318222686
+  },
+  {
+    "email_address": "614",
+    "Score": 0.145896386
+  },
+  {
+    "email_address": "615",
+    "Score": 0.189907665
+  },
+  {
+    "email_address": "616",
+    "Score": 0.170287645
+  },
+  {
+    "email_address": "617",
+    "Score": 0.611204959
+  },
+  {
+    "email_address": "618",
+    "Score": 0.703217552
+  },
+  {
+    "email_address": "619",
+    "Score": 0.121353854
+  },
+  {
+    "email_address": "620",
+    "Score": 0.335973736
+  },
+  {
+    "email_address": "621",
+    "Score": 0.103309641
+  },
+  {
+    "email_address": "622",
+    "Score": 0.450126339
+  },
+  {
+    "email_address": "623",
+    "Score": 0.119110356
+  },
+  {
+    "email_address": "624",
+    "Score": 0.222660921
+  },
+  {
+    "email_address": "625",
+    "Score": 0.550769076
+  },
+  {
+    "email_address": "626",
+    "Score": 0.015426717
+  },
+  {
+    "email_address": "627",
+    "Score": 0.581429661
+  },
+  {
+    "email_address": "628",
+    "Score": 0.308207032
+  },
+  {
+    "email_address": "629",
+    "Score": 0.349604025
+  },
+  {
+    "email_address": "630",
+    "Score": 0.711216578
+  },
+  {
+    "email_address": "631",
+    "Score": 0.372269849
+  },
+  {
+    "email_address": "632",
+    "Score": 0.313903645
+  },
+  {
+    "email_address": "633",
+    "Score": 0.596771055
+  },
+  {
+    "email_address": "634",
+    "Score": 0.654276943
+  },
+  {
+    "email_address": "635",
+    "Score": 0.77389708
+  },
+  {
+    "email_address": "636",
+    "Score": 0.185832065
+  },
+  {
+    "email_address": "637",
+    "Score": 0.246874228
+  },
+  {
+    "email_address": "638",
+    "Score": 0.467087744
+  },
+  {
+    "email_address": "639",
+    "Score": 0.73097356
+  },
+  {
+    "email_address": "640",
+    "Score": 0.016315613
+  },
+  {
+    "email_address": "641",
+    "Score": 0.661233768
+  },
+  {
+    "email_address": "642",
+    "Score": 0.072588145
+  },
+  {
+    "email_address": "643",
+    "Score": 0.16123425
+  },
+  {
+    "email_address": "644",
+    "Score": 0.111539929
+  },
+  {
+    "email_address": "645",
+    "Score": 0.260798499
+  },
+  {
+    "email_address": "646",
+    "Score": 0.121147367
+  },
+  {
+    "email_address": "647",
+    "Score": 0.428735953
+  },
+  {
+    "email_address": "648",
+    "Score": 0.066736808
+  },
+  {
+    "email_address": "649",
+    "Score": 0.909616198
+  },
+  {
+    "email_address": "650",
+    "Score": 0.061035469
+  },
+  {
+    "email_address": "651",
+    "Score": 0.017510873
+  },
+  {
+    "email_address": "652",
+    "Score": 0.586466736
+  },
+  {
+    "email_address": "653",
+    "Score": 0.261100813
+  },
+  {
+    "email_address": "654",
+    "Score": 0.174309482
+  },
+  {
+    "email_address": "655",
+    "Score": 0.033597351
+  },
+  {
+    "email_address": "656",
+    "Score": 0.227192463
+  },
+  {
+    "email_address": "657",
+    "Score": 0.965985008
+  },
+  {
+    "email_address": "658",
+    "Score": 0.281719329
+  },
+  {
+    "email_address": "659",
+    "Score": 0.323304472
+  },
+  {
+    "email_address": "660",
+    "Score": 0.38582845
+  },
+  {
+    "email_address": "661",
+    "Score": 0.605109848
+  },
+  {
+    "email_address": "662",
+    "Score": 0.235321564
+  },
+  {
+    "email_address": "663",
+    "Score": 0.242461998
+  },
+  {
+    "email_address": "664",
+    "Score": 0.552493068
+  },
+  {
+    "email_address": "665",
+    "Score": 0.083192322
+  },
+  {
+    "email_address": "666",
+    "Score": 0.641493453
+  },
+  {
+    "email_address": "667",
+    "Score": 0.095199139
+  },
+  {
+    "email_address": "668",
+    "Score": 0.460042753
+  },
+  {
+    "email_address": "669",
+    "Score": 0.808477718
+  },
+  {
+    "email_address": "670",
+    "Score": 0.857478211
+  },
+  {
+    "email_address": "671",
+    "Score": 0.939023569
+  },
+  {
+    "email_address": "672",
+    "Score": 0.082202101
+  },
+  {
+    "email_address": "673",
+    "Score": 0.890250183
+  },
+  {
+    "email_address": "674",
+    "Score": 0.95934667
+  },
+  {
+    "email_address": "675",
+    "Score": 0.273761179
+  },
+  {
+    "email_address": "676",
+    "Score": 0.250053457
+  },
+  {
+    "email_address": "677",
+    "Score": 0.359169772
+  },
+  {
+    "email_address": "678",
+    "Score": 0.857933318
+  },
+  {
+    "email_address": "679",
+    "Score": 0.873199435
+  },
+  {
+    "email_address": "680",
+    "Score": 0.766632646
+  },
+  {
+    "email_address": "681",
+    "Score": 0.850008096
+  },
+  {
+    "email_address": "682",
+    "Score": 0.611096817
+  },
+  {
+    "email_address": "683",
+    "Score": 0.099459201
+  },
+  {
+    "email_address": "684",
+    "Score": 0.40262618
+  },
+  {
+    "email_address": "685",
+    "Score": 0.441870936
+  },
+  {
+    "email_address": "686",
+    "Score": 0.448386384
+  },
+  {
+    "email_address": "687",
+    "Score": 0.940265071
+  },
+  {
+    "email_address": "688",
+    "Score": 0.345938265
+  },
+  {
+    "email_address": "689",
+    "Score": 0.905771716
+  },
+  {
+    "email_address": "690",
+    "Score": 0.580086474
+  },
+  {
+    "email_address": "691",
+    "Score": 0.05205408
+  },
+  {
+    "email_address": "692",
+    "Score": 0.155586545
+  },
+  {
+    "email_address": "693",
+    "Score": 0.208109495
+  },
+  {
+    "email_address": "694",
+    "Score": 0.42470214
+  },
+  {
+    "email_address": "695",
+    "Score": 0.130594266
+  },
+  {
+    "email_address": "696",
+    "Score": 0.059523734
+  },
+  {
+    "email_address": "697",
+    "Score": 0.154193605
+  },
+  {
+    "email_address": "698",
+    "Score": 0.015663404
+  },
+  {
+    "email_address": "699",
+    "Score": 0.240105565
+  },
+  {
+    "email_address": "700",
+    "Score": 0.627491059
+  },
+  {
+    "email_address": "701",
+    "Score": 0.603891777
+  },
+  {
+    "email_address": "702",
+    "Score": 0.445751627
+  },
+  {
+    "email_address": "703",
+    "Score": 0.262918759
+  },
+  {
+    "email_address": "704",
+    "Score": 0.430703079
+  },
+  {
+    "email_address": "705",
+    "Score": 0.153933452
+  },
+  {
+    "email_address": "706",
+    "Score": 0.787869909
+  },
+  {
+    "email_address": "707",
+    "Score": 0.095708716
+  },
+  {
+    "email_address": "708",
+    "Score": 0.147109492
+  },
+  {
+    "email_address": "709",
+    "Score": 0.472396739
+  },
+  {
+    "email_address": "710",
+    "Score": 0.782025058
+  },
+  {
+    "email_address": "711",
+    "Score": 0.787002085
+  },
+  {
+    "email_address": "712",
+    "Score": 0.051547594
+  },
+  {
+    "email_address": "713",
+    "Score": 0.423916163
+  },
+  {
+    "email_address": "714",
+    "Score": 0.518760002
+  },
+  {
+    "email_address": "715",
+    "Score": 0.607952416
+  },
+  {
+    "email_address": "716",
+    "Score": 0.99101047
+  },
+  {
+    "email_address": "717",
+    "Score": 0.75255698
+  },
+  {
+    "email_address": "718",
+    "Score": 0.139981202
+  },
+  {
+    "email_address": "719",
+    "Score": 0.722937699
+  },
+  {
+    "email_address": "720",
+    "Score": 0.896086911
+  },
+  {
+    "email_address": "721",
+    "Score": 0.301068989
+  },
+  {
+    "email_address": "722",
+    "Score": 0.893175949
+  },
+  {
+    "email_address": "723",
+    "Score": 0.941164893
+  },
+  {
+    "email_address": "724",
+    "Score": 0.354618624
+  },
+  {
+    "email_address": "725",
+    "Score": 0.11605285
+  },
+  {
+    "email_address": "726",
+    "Score": 0.167730916
+  },
+  {
+    "email_address": "727",
+    "Score": 0.984753336
+  },
+  {
+    "email_address": "728",
+    "Score": 0.173715059
+  },
+  {
+    "email_address": "729",
+    "Score": 0.462488985
+  },
+  {
+    "email_address": "730",
+    "Score": 0.677425015
+  },
+  {
+    "email_address": "731",
+    "Score": 0.920269183
+  },
+  {
+    "email_address": "732",
+    "Score": 0.375247494
+  },
+  {
+    "email_address": "733",
+    "Score": 0.402881941
+  },
+  {
+    "email_address": "734",
+    "Score": 0.326708029
+  },
+  {
+    "email_address": "735",
+    "Score": 0.55746506
+  },
+  {
+    "email_address": "736",
+    "Score": 0.07356771
+  },
+  {
+    "email_address": "737",
+    "Score": 0.489703322
+  },
+  {
+    "email_address": "738",
+    "Score": 0.562366648
+  },
+  {
+    "email_address": "739",
+    "Score": 0.949146779
+  },
+  {
+    "email_address": "740",
+    "Score": 0.512085604
+  },
+  {
+    "email_address": "741",
+    "Score": 0.29991088
+  },
+  {
+    "email_address": "742",
+    "Score": 0.247211343
+  },
+  {
+    "email_address": "743",
+    "Score": 0.754437129
+  },
+  {
+    "email_address": "744",
+    "Score": 0.044652407
+  },
+  {
+    "email_address": "745",
+    "Score": 0.600159254
+  },
+  {
+    "email_address": "746",
+    "Score": 0.392216383
+  },
+  {
+    "email_address": "747",
+    "Score": 0.481419081
+  },
+  {
+    "email_address": "748",
+    "Score": 0.558763132
+  },
+  {
+    "email_address": "749",
+    "Score": 0.300272222
+  },
+  {
+    "email_address": "750",
+    "Score": 0.362977628
+  },
+  {
+    "email_address": "751",
+    "Score": 0.472980433
+  },
+  {
+    "email_address": "752",
+    "Score": 0.282291362
+  },
+  {
+    "email_address": "753",
+    "Score": 0.846822327
+  },
+  {
+    "email_address": "754",
+    "Score": 0.936414938
+  },
+  {
+    "email_address": "755",
+    "Score": 0.902891075
+  },
+  {
+    "email_address": "756",
+    "Score": 0.321829982
+  },
+  {
+    "email_address": "757",
+    "Score": 0.481669138
+  },
+  {
+    "email_address": "758",
+    "Score": 0.690280788
+  },
+  {
+    "email_address": "759",
+    "Score": 0.921383728
+  },
+  {
+    "email_address": "760",
+    "Score": 0.589197471
+  },
+  {
+    "email_address": "761",
+    "Score": 0.205051569
+  },
+  {
+    "email_address": "762",
+    "Score": 0.5063785
+  },
+  {
+    "email_address": "763",
+    "Score": 0.867370113
+  },
+  {
+    "email_address": "764",
+    "Score": 0.588271293
+  },
+  {
+    "email_address": "765",
+    "Score": 0.067279124
+  },
+  {
+    "email_address": "766",
+    "Score": 0.757101482
+  },
+  {
+    "email_address": "767",
+    "Score": 0.367958697
+  },
+  {
+    "email_address": "768",
+    "Score": 0.455902447
+  },
+  {
+    "email_address": "769",
+    "Score": 0.766823397
+  },
+  {
+    "email_address": "770",
+    "Score": 0.978400719
+  },
+  {
+    "email_address": "771",
+    "Score": 0.055794504
+  },
+  {
+    "email_address": "772",
+    "Score": 0.616022534
+  },
+  {
+    "email_address": "773",
+    "Score": 0.047706434
+  },
+  {
+    "email_address": "774",
+    "Score": 0.183867748
+  },
+  {
+    "email_address": "775",
+    "Score": 0.848718784
+  },
+  {
+    "email_address": "776",
+    "Score": 0.468935018
+  },
+  {
+    "email_address": "777",
+    "Score": 0.894361613
+  },
+  {
+    "email_address": "778",
+    "Score": 0.94000367
+  },
+  {
+    "email_address": "779",
+    "Score": 0.824967357
+  },
+  {
+    "email_address": "780",
+    "Score": 0.200200328
+  },
+  {
+    "email_address": "781",
+    "Score": 0.774495205
+  },
+  {
+    "email_address": "782",
+    "Score": 0.689436075
+  },
+  {
+    "email_address": "783",
+    "Score": 0.415181308
+  },
+  {
+    "email_address": "784",
+    "Score": 0.816649821
+  },
+  {
+    "email_address": "785",
+    "Score": 0.605115031
+  },
+  {
+    "email_address": "786",
+    "Score": 0.177594703
+  },
+  {
+    "email_address": "787",
+    "Score": 0.744815709
+  },
+  {
+    "email_address": "788",
+    "Score": 0.501981259
+  },
+  {
+    "email_address": "789",
+    "Score": 0.554433823
+  },
+  {
+    "email_address": "790",
+    "Score": 0.933159897
+  },
+  {
+    "email_address": "791",
+    "Score": 0.850219497
+  },
+  {
+    "email_address": "792",
+    "Score": 0.298970771
+  },
+  {
+    "email_address": "793",
+    "Score": 0.573669597
+  },
+  {
+    "email_address": "794",
+    "Score": 0.685911833
+  },
+  {
+    "email_address": "795",
+    "Score": 0.992865652
+  },
+  {
+    "email_address": "796",
+    "Score": 0.659384016
+  },
+  {
+    "email_address": "797",
+    "Score": 0.345714968
+  },
+  {
+    "email_address": "798",
+    "Score": 0.975258018
+  },
+  {
+    "email_address": "799",
+    "Score": 0.947709747
+  },
+  {
+    "email_address": "800",
+    "Score": 0.253249253
+  },
+  {
+    "email_address": "801",
+    "Score": 0.977527619
+  },
+  {
+    "email_address": "802",
+    "Score": 0.762835474
+  },
+  {
+    "email_address": "803",
+    "Score": 0.629926397
+  },
+  {
+    "email_address": "804",
+    "Score": 0.219716306
+  },
+  {
+    "email_address": "805",
+    "Score": 0.727750237
+  },
+  {
+    "email_address": "806",
+    "Score": 0.235005224
+  },
+  {
+    "email_address": "807",
+    "Score": 0.259768943
+  },
+  {
+    "email_address": "808",
+    "Score": 0.235537153
+  },
+  {
+    "email_address": "809",
+    "Score": 0.863503624
+  },
+  {
+    "email_address": "810",
+    "Score": 0.927547566
+  },
+  {
+    "email_address": "811",
+    "Score": 0.671914591
+  },
+  {
+    "email_address": "812",
+    "Score": 0.692801791
+  },
+  {
+    "email_address": "813",
+    "Score": 0.948990847
+  },
+  {
+    "email_address": "814",
+    "Score": 0.460499782
+  },
+  {
+    "email_address": "815",
+    "Score": 0.329489326
+  },
+  {
+    "email_address": "816",
+    "Score": 0.058235504
+  },
+  {
+    "email_address": "817",
+    "Score": 0.258793402
+  },
+  {
+    "email_address": "818",
+    "Score": 0.842373065
+  },
+  {
+    "email_address": "819",
+    "Score": 0.488163108
+  },
+  {
+    "email_address": "820",
+    "Score": 0.495106513
+  },
+  {
+    "email_address": "821",
+    "Score": 0.134105239
+  },
+  {
+    "email_address": "822",
+    "Score": 0.807117266
+  },
+  {
+    "email_address": "823",
+    "Score": 0.213178313
+  },
+  {
+    "email_address": "824",
+    "Score": 0.625297237
+  },
+  {
+    "email_address": "825",
+    "Score": 0.837742324
+  },
+  {
+    "email_address": "826",
+    "Score": 0.00453771
+  },
+  {
+    "email_address": "827",
+    "Score": 0.289679864
+  },
+  {
+    "email_address": "828",
+    "Score": 0.222926586
+  },
+  {
+    "email_address": "829",
+    "Score": 0.740268533
+  },
+  {
+    "email_address": "830",
+    "Score": 0.676783175
+  },
+  {
+    "email_address": "831",
+    "Score": 0.005983855
+  },
+  {
+    "email_address": "832",
+    "Score": 0.320703158
+  },
+  {
+    "email_address": "833",
+    "Score": 0.271869306
+  },
+  {
+    "email_address": "834",
+    "Score": 0.32179196
+  },
+  {
+    "email_address": "835",
+    "Score": 0.441868273
+  },
+  {
+    "email_address": "836",
+    "Score": 0.242683505
+  },
+  {
+    "email_address": "837",
+    "Score": 0.513430852
+  },
+  {
+    "email_address": "838",
+    "Score": 0.217064531
+  },
+  {
+    "email_address": "839",
+    "Score": 0.689775556
+  },
+  {
+    "email_address": "840",
+    "Score": 0.499411281
+  },
+  {
+    "email_address": "841",
+    "Score": 0.497599327
+  },
+  {
+    "email_address": "842",
+    "Score": 0.341593936
+  },
+  {
+    "email_address": "843",
+    "Score": 0.670088019
+  },
+  {
+    "email_address": "844",
+    "Score": 0.904697602
+  },
+  {
+    "email_address": "845",
+    "Score": 0.654300038
+  },
+  {
+    "email_address": "846",
+    "Score": 0.550091372
+  },
+  {
+    "email_address": "847",
+    "Score": 0.505689339
+  },
+  {
+    "email_address": "848",
+    "Score": 0.742708258
+  },
+  {
+    "email_address": "849",
+    "Score": 0.394205257
+  },
+  {
+    "email_address": "850",
+    "Score": 0.498655749
+  },
+  {
+    "email_address": "851",
+    "Score": 0.139413323
+  },
+  {
+    "email_address": "852",
+    "Score": 0.749549007
+  },
+  {
+    "email_address": "853",
+    "Score": 0.050664226
+  },
+  {
+    "email_address": "854",
+    "Score": 0.541773499
+  },
+  {
+    "email_address": "855",
+    "Score": 0.447252678
+  },
+  {
+    "email_address": "856",
+    "Score": 0.125415785
+  },
+  {
+    "email_address": "857",
+    "Score": 0.030414567
+  },
+  {
+    "email_address": "858",
+    "Score": 0.165705226
+  },
+  {
+    "email_address": "859",
+    "Score": 0.00380845
+  },
+  {
+    "email_address": "860",
+    "Score": 0.045639059
+  },
+  {
+    "email_address": "861",
+    "Score": 0.763344236
+  },
+  {
+    "email_address": "862",
+    "Score": 0.722596663
+  },
+  {
+    "email_address": "863",
+    "Score": 0.72750393
+  },
+  {
+    "email_address": "864",
+    "Score": 0.572653128
+  },
+  {
+    "email_address": "865",
+    "Score": 0.522246182
+  },
+  {
+    "email_address": "866",
+    "Score": 0.141613945
+  },
+  {
+    "email_address": "867",
+    "Score": 0.107242147
+  },
+  {
+    "email_address": "868",
+    "Score": 0.683980733
+  },
+  {
+    "email_address": "869",
+    "Score": 0.865986782
+  },
+  {
+    "email_address": "870",
+    "Score": 0.102579229
+  },
+  {
+    "email_address": "871",
+    "Score": 0.2165317
+  },
+  {
+    "email_address": "872",
+    "Score": 0.394805206
+  },
+  {
+    "email_address": "873",
+    "Score": 0.90617561
+  },
+  {
+    "email_address": "874",
+    "Score": 0.671846527
+  },
+  {
+    "email_address": "875",
+    "Score": 0.680392559
+  },
+  {
+    "email_address": "876",
+    "Score": 0.065193724
+  },
+  {
+    "email_address": "877",
+    "Score": 0.054187217
+  },
+  {
+    "email_address": "878",
+    "Score": 0.019759646
+  },
+  {
+    "email_address": "879",
+    "Score": 0.42383755
+  },
+  {
+    "email_address": "880",
+    "Score": 0.681588068
+  },
+  {
+    "email_address": "881",
+    "Score": 0.05842502
+  },
+  {
+    "email_address": "882",
+    "Score": 0.754611806
+  },
+  {
+    "email_address": "883",
+    "Score": 0.911179482
+  },
+  {
+    "email_address": "884",
+    "Score": 0.84362897
+  },
+  {
+    "email_address": "885",
+    "Score": 0.85222449
+  },
+  {
+    "email_address": "886",
+    "Score": 0.185505368
+  },
+  {
+    "email_address": "887",
+    "Score": 0.96807236
+  },
+  {
+    "email_address": "888",
+    "Score": 0.875223806
+  },
+  {
+    "email_address": "889",
+    "Score": 0.653077735
+  },
+  {
+    "email_address": "890",
+    "Score": 0.624430957
+  },
+  {
+    "email_address": "891",
+    "Score": 0.502080847
+  },
+  {
+    "email_address": "892",
+    "Score": 0.41362532
+  },
+  {
+    "email_address": "893",
+    "Score": 0.409753137
+  },
+  {
+    "email_address": "894",
+    "Score": 0.660641669
+  },
+  {
+    "email_address": "895",
+    "Score": 0.052682364
+  },
+  {
+    "email_address": "896",
+    "Score": 0.015213708
+  },
+  {
+    "email_address": "897",
+    "Score": 0.435661987
+  },
+  {
+    "email_address": "898",
+    "Score": 0.134690112
+  },
+  {
+    "email_address": "899",
+    "Score": 0.874249522
+  },
+  {
+    "email_address": "900",
+    "Score": 0.626391778
+  },
+  {
+    "email_address": "901",
+    "Score": 0.299179735
+  },
+  {
+    "email_address": "902",
+    "Score": 0.668791901
+  },
+  {
+    "email_address": "903",
+    "Score": 0.82448918
+  },
+  {
+    "email_address": "904",
+    "Score": 0.483095508
+  },
+  {
+    "email_address": "905",
+    "Score": 0.28280872
+  },
+  {
+    "email_address": "906",
+    "Score": 0.076279095
+  },
+  {
+    "email_address": "907",
+    "Score": 0.19124707
+  },
+  {
+    "email_address": "908",
+    "Score": 0.576141847
+  },
+  {
+    "email_address": "909",
+    "Score": 0.997963124
+  },
+  {
+    "email_address": "910",
+    "Score": 0.923770202
+  },
+  {
+    "email_address": "911",
+    "Score": 0.941397096
+  },
+  {
+    "email_address": "912",
+    "Score": 0.795648674
+  },
+  {
+    "email_address": "913",
+    "Score": 0.217529938
+  },
+  {
+    "email_address": "914",
+    "Score": 0.776562846
+  },
+  {
+    "email_address": "915",
+    "Score": 0.4624874
+  },
+  {
+    "email_address": "916",
+    "Score": 0.143804146
+  },
+  {
+    "email_address": "917",
+    "Score": 0.477996544
+  },
+  {
+    "email_address": "918",
+    "Score": 0.529995176
+  },
+  {
+    "email_address": "919",
+    "Score": 0.176255073
+  },
+  {
+    "email_address": "920",
+    "Score": 0.55999496
+  },
+  {
+    "email_address": "921",
+    "Score": 0.224733729
+  },
+  {
+    "email_address": "922",
+    "Score": 0.387600322
+  },
+  {
+    "email_address": "923",
+    "Score": 0.07308821
+  },
+  {
+    "email_address": "924",
+    "Score": 0.995352693
+  },
+  {
+    "email_address": "925",
+    "Score": 0.194158965
+  },
+  {
+    "email_address": "926",
+    "Score": 0.970867962
+  },
+  {
+    "email_address": "927",
+    "Score": 0.596389911
+  },
+  {
+    "email_address": "928",
+    "Score": 0.833390961
+  },
+  {
+    "email_address": "929",
+    "Score": 0.042710216
+  },
+  {
+    "email_address": "930",
+    "Score": 0.024548976
+  },
+  {
+    "email_address": "931",
+    "Score": 0.587660481
+  },
+  {
+    "email_address": "932",
+    "Score": 0.276875418
+  },
+  {
+    "email_address": "933",
+    "Score": 0.182794054
+  },
+  {
+    "email_address": "934",
+    "Score": 0.18037602
+  },
+  {
+    "email_address": "935",
+    "Score": 0.798337108
+  },
+  {
+    "email_address": "936",
+    "Score": 0.194172913
+  },
+  {
+    "email_address": "937",
+    "Score": 0.337797541
+  },
+  {
+    "email_address": "938",
+    "Score": 0.517250167
+  },
+  {
+    "email_address": "939",
+    "Score": 0.399141981
+  },
+  {
+    "email_address": "940",
+    "Score": 0.808048679
+  },
+  {
+    "email_address": "941",
+    "Score": 0.399339579
+  },
+  {
+    "email_address": "942",
+    "Score": 0.451824793
+  },
+  {
+    "email_address": "943",
+    "Score": 0.578619252
+  },
+  {
+    "email_address": "944",
+    "Score": 0.869237843
+  },
+  {
+    "email_address": "945",
+    "Score": 0.308935714
+  },
+  {
+    "email_address": "946",
+    "Score": 0.370946587
+  },
+  {
+    "email_address": "947",
+    "Score": 0.412515853
+  },
+  {
+    "email_address": "948",
+    "Score": 0.748990974
+  },
+  {
+    "email_address": "949",
+    "Score": 0.266835734
+  },
+  {
+    "email_address": "950",
+    "Score": 0.118024391
+  },
+  {
+    "email_address": "951",
+    "Score": 0.883159519
+  },
+  {
+    "email_address": "952",
+    "Score": 0.356704753
+  },
+  {
+    "email_address": "953",
+    "Score": 0.866189347
+  },
+  {
+    "email_address": "954",
+    "Score": 0.808392903
+  },
+  {
+    "email_address": "955",
+    "Score": 0.231183461
+  },
+  {
+    "email_address": "956",
+    "Score": 0.404681868
+  },
+  {
+    "email_address": "957",
+    "Score": 0.955107696
+  },
+  {
+    "email_address": "958",
+    "Score": 0.935701651
+  },
+  {
+    "email_address": "959",
+    "Score": 0.781864816
+  },
+  {
+    "email_address": "960",
+    "Score": 0.65737964
+  },
+  {
+    "email_address": "961",
+    "Score": 0.294102422
+  },
+  {
+    "email_address": "962",
+    "Score": 0.055707515
+  },
+  {
+    "email_address": "963",
+    "Score": 0.950254387
+  },
+  {
+    "email_address": "964",
+    "Score": 0.826566053
+  },
+  {
+    "email_address": "965",
+    "Score": 0.292597015
+  },
+  {
+    "email_address": "966",
+    "Score": 0.973327762
+  },
+  {
+    "email_address": "967",
+    "Score": 0.78087951
+  },
+  {
+    "email_address": "968",
+    "Score": 0.957530436
+  },
+  {
+    "email_address": "969",
+    "Score": 0.643393101
+  },
+  {
+    "email_address": "970",
+    "Score": 0.297892369
+  },
+  {
+    "email_address": "971",
+    "Score": 0.489131026
+  },
+  {
+    "email_address": "972",
+    "Score": 0.943054502
+  },
+  {
+    "email_address": "973",
+    "Score": 0.030754834
+  },
+  {
+    "email_address": "974",
+    "Score": 0.227436523
+  },
+  {
+    "email_address": "975",
+    "Score": 0.195430434
+  },
+  {
+    "email_address": "976",
+    "Score": 0.221885443
+  },
+  {
+    "email_address": "977",
+    "Score": 0.340025669
+  },
+  {
+    "email_address": "978",
+    "Score": 0.208146265
+  },
+  {
+    "email_address": "979",
+    "Score": 0.127337352
+  },
+  {
+    "email_address": "980",
+    "Score": 0.927638224
+  },
+  {
+    "email_address": "981",
+    "Score": 0.154976949
+  },
+  {
+    "email_address": "982",
+    "Score": 0.926130781
+  },
+  {
+    "email_address": "983",
+    "Score": 0.952024035
+  },
+  {
+    "email_address": "984",
+    "Score": 0.035597668
+  },
+  {
+    "email_address": "985",
+    "Score": 0.162947005
+  },
+  {
+    "email_address": "986",
+    "Score": 0.562039379
+  },
+  {
+    "email_address": "987",
+    "Score": 0.193143776
+  },
+  {
+    "email_address": "988",
+    "Score": 0.708569036
+  },
+  {
+    "email_address": "989",
+    "Score": 0.765300248
+  },
+  {
+    "email_address": "990",
+    "Score": 0.580258051
+  },
+  {
+    "email_address": "991",
+    "Score": 0.537790723
+  },
+  {
+    "email_address": "992",
+    "Score": 0.646851317
+  },
+  {
+    "email_address": "993",
+    "Score": 0.936231292
+  },
+  {
+    "email_address": "994",
+    "Score": 0.659876083
+  },
+  {
+    "email_address": "995",
+    "Score": 0.421746288
+  },
+  {
+    "email_address": "996",
+    "Score": 0.594435398
+  },
+  {
+    "email_address": "997",
+    "Score": 0.822528633
+  },
+  {
+    "email_address": "998",
+    "Score": 0.98766265
+  },
+  {
+    "email_address": "999",
+    "Score": 0.664039463
+  },
+  {
+    "email_address": "1000",
+    "Score": 0.444878525
+  },
+  {
+    "email_address": "1001",
+    "Score": 0.395623334
+  },
+  {
+    "email_address": "1002",
+    "Score": 0.676928918
+  },
+  {
+    "email_address": "1003",
+    "Score": 0.896730103
+  },
+  {
+    "email_address": "1004",
+    "Score": 0.770865062
+  },
+  {
+    "email_address": "1005",
+    "Score": 0.116324394
+  },
+  {
+    "email_address": "1006",
+    "Score": 0.212036031
+  },
+  {
+    "email_address": "1007",
+    "Score": 0.787906949
+  },
+  {
+    "email_address": "1008",
+    "Score": 0.165152832
+  },
+  {
+    "email_address": "1009",
+    "Score": 0.438563958
+  },
+  {
+    "email_address": "1010",
+    "Score": 0.466597498
+  },
+  {
+    "email_address": "1011",
+    "Score": 0.879645422
+  },
+  {
+    "email_address": "1012",
+    "Score": 0.088041629
+  },
+  {
+    "email_address": "1013",
+    "Score": 0.669805126
+  },
+  {
+    "email_address": "1014",
+    "Score": 0.887950737
+  },
+  {
+    "email_address": "1015",
+    "Score": 0.347288933
+  },
+  {
+    "email_address": "1016",
+    "Score": 0.400553184
+  },
+  {
+    "email_address": "1017",
+    "Score": 0.586154675
+  },
+  {
+    "email_address": "1018",
+    "Score": 0.909048571
+  },
+  {
+    "email_address": "1019",
+    "Score": 0.765120052
+  },
+  {
+    "email_address": "1020",
+    "Score": 0.294579204
+  },
+  {
+    "email_address": "1021",
+    "Score": 0.135832973
+  },
+  {
+    "email_address": "1022",
+    "Score": 0.295483696
+  },
+  {
+    "email_address": "1023",
+    "Score": 0.923961495
+  },
+  {
+    "email_address": "1024",
+    "Score": 0.737722812
+  },
+  {
+    "email_address": "1025",
+    "Score": 0.02540824
+  },
+  {
+    "email_address": "1026",
+    "Score": 0.987325513
+  },
+  {
+    "email_address": "1027",
+    "Score": 0.393469873
+  },
+  {
+    "email_address": "1028",
+    "Score": 0.595083168
+  },
+  {
+    "email_address": "1029",
+    "Score": 0.499673158
+  },
+  {
+    "email_address": "1030",
+    "Score": 0.147971066
+  },
+  {
+    "email_address": "1031",
+    "Score": 0.990042602
+  },
+  {
+    "email_address": "1032",
+    "Score": 0.603406343
+  },
+  {
+    "email_address": "1033",
+    "Score": 0.212772734
+  },
+  {
+    "email_address": "1034",
+    "Score": 0.966277702
+  },
+  {
+    "email_address": "1035",
+    "Score": 0.345259727
+  },
+  {
+    "email_address": "1036",
+    "Score": 0.849964046
+  },
+  {
+    "email_address": "1037",
+    "Score": 0.532421803
+  },
+  {
+    "email_address": "1038",
+    "Score": 0.372087813
+  },
+  {
+    "email_address": "1039",
+    "Score": 0.229713313
+  },
+  {
+    "email_address": "1040",
+    "Score": 0.64984661
+  },
+  {
+    "email_address": "1041",
+    "Score": 0.416793687
+  },
+  {
+    "email_address": "1042",
+    "Score": 0.33426505
+  },
+  {
+    "email_address": "1043",
+    "Score": 0.925906293
+  },
+  {
+    "email_address": "1044",
+    "Score": 0.897049167
+  }
+]

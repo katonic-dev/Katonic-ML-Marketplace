@@ -1,0 +1,19 @@
+## Output
+Content type:  application/json
+Sample output:  
+{
+  "result": [
+    {
+      "sentence": "The park was very fun.",
+      "aspect": "park",
+      "opinion": "fun",
+      "sentiment": 7.9530860965
+    },
+    {
+      "sentence": "It was an excellent vacation.",
+      "aspect": "vacation",
+      "opinion": " excellent",
+      "sentiment": 8.008627331
+    }
+  ]
+}

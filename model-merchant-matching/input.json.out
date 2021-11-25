@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "Errors": {
+        "Error": [
+          {
+            "Description": "Success", 
+            "Details": "", 
+            "ReasonCode": "S01", 
+            "Recoverable": true, 
+            "Source": "Data Matching API"
+          }
+        ]
+      }, 
+      "record": {
+        "confidenceLevel": "HIGH", 
+        "id": 44004989, 
+        "matched": true, 
+        "matchedCity": "Niles", 
+        "matchedCountry": "USA", 
+        "matchedName": "Starbucks", 
+        "matchedPhone": "2696842722", 
+        "matchedPostalCode": "49120", 
+        "matchedState": "MI", 
+        "matchedStreet": "720 South 11th St"
+      }, 
+      "requestId": "1", 
+      "success": true
+    }
+  ], 
+  "responseTimestamp": "2021-05-10T06:33:34"
+}

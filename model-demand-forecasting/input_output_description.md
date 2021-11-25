@@ -1,0 +1,63 @@
+# Input/Output Description
+
+- Input: A zip file containing 6 comma separated csv (5 required, 1 optional). Reference file: sample.zip
+- Details for each csv file:
+    - target_week.csv (required)
+        - Required columns:
+            - week_id: target week_id for predicting prices of items, format 'YYYY-ID', eg: '2020-16', representing 16th week of 2020
+    - demand_summary.csv (required)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2020-16
+            - day: weekday of the week, 1-7
+            - site_id: unique site id, site can be shop, warehouse, site, branch, etc
+            - item_id: unique item id
+            - item_price: item price of the day
+            - item_sales_qty: sales quantity of the item of the day
+    - site_summary.csv (required)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2020-16
+            - day: weekday of the week, 1-7
+            - site_id: unique site id, site can be shop, warehouse, site, branch, etc
+            - city: city of the site
+            - state: state of the site
+            - zipcode: zip code of site
+            - population: poplulation of the city 
+            - resident_median_income: median household income of the city
+        - Optional columns:
+            - address: address of the site
+            
+    - promotion_summary.csv (required)
+        - Required columns: 
+            - campaign_id: campaign id 
+            - campaign_start_date: start date of campaign
+            - campaign_end_date: end date of campaign
+            - offer_id: offer id
+            - offer_start_date: start date of the offer
+            - offer_end_date: end date of the offer
+            - item_id: item involved in the offer
+        - Optional columns:
+            - campaign_desciption: description of campaign
+            - offer_description: description of the offer
+            - item_description: description of the item
+            - offer_deal_type: deal type of the offer
+    - competitor_pricing.csv (optional)
+        - Required columns: 
+            - fiscal_week_id: week ID of the fiscal year, eg: 2020-16
+            - day: weekday of the week, 1-7
+            - item_id: unique item id
+            - merchant_id: unique id of competitor
+            - merchant_name: name of competitor
+            - zipcode: zip code of the competitor's site
+            - price: competitor's price of the item
+        - Optional columns:
+            - city: city of the competitor's site
+            - address: address of the competitor's site
+            - state: state of the competitor's site
+    - holiday_calendar.csv (required)
+        - Required columns:
+            - holiday_name : Name of holiday
+            - start_date: start date of holiday
+            - end_date: end date of holiday
+            - is_national: whether the holiday is national holiday
+    - Note: if end user do not have optional tables, empty CSV with identical columns should be generated to replace missing optional table.
+- Output: a JSON list of objects at week_id x day x site_id x item_id level, and a column of 'demand', which is the predicted demand of the items. Reference file: sample.zip.out

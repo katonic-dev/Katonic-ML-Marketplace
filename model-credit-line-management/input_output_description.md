@@ -1,0 +1,59 @@
+# Input/Output specifications:
+- Input: A **zip file** with 6 comma separated csv files (4 required, 2 optional). Reference file: sample.zip
+- Details for each csv file:
+    - target_week.csv (required)
+        - Required columns:
+            - target_month: target_month for predicting the credit line, eg: '2019-06'
+    - creditcard_pnl.csv (required)
+        - Required columns: 
+            - month: month tag of the monthly report
+            - accountID: accountID
+            - credit_line: credit line at PNL date
+            - tenure: tenure
+            - 3rd_party_credit_score: 3rd part score. Eg: FICO
+            - balance_transfer_cnt: number of balance transfer records occurred in this month
+            - balance_transfer_amt: amount of balance transfer records occurred in this month
+            - gross_payment_cnt: number of total payment records occurred in this month
+            - gross_payment_amt: amount of total payment transfer  occurred in this month
+            - payment_reversal_cnt: number of payment reversal records occurred in this month
+            - payment_reversal_amt: amount of payment reversal occurred in this month
+            - net_payment_amt: amount of net payment occurred in this month
+            - late_payment_cnt: number of late payment occurred in this month
+            - auto_payment_cnt: number of auto payment occurred in this month
+            - auto_pay_enrolled: whether enrolled in autopay
+            - spend_amt: total spend amount of the account in the month
+            - balance_amt: current balance
+    - bureau_info.csv (required)
+        - Required columns: 
+            - month: month tag of the monthly report
+            - accountID: accountID
+            - total_NC_balance_amt: total balance amout of all NC trade account
+            - total_NC_credit_limit: total credit limit of all NC trade account
+            - bureau_utilization: utilization ratio of total credit limit
+            - NC_open_trades_ind: indicator of whether new NC trade account is opened in this month
+            - NC_open_trades_cnt: number of NC trade account opened in this month
+    - creditcard_transaction.csv (optional)
+        - Required columns: 
+            - trans_id: unique recordID of transaction
+            - accountID: accountID associate with the transaction
+            - trans_date: datetime of transaction
+            - trans_amt: amount of transaction
+            - is_approved: whether the transaction is approved.1 for yes, 0 for no.
+            - merchantID: mechant ID 
+            - MCCcode: MCC code of mechant"s industry
+    - mechant_info.csv (optional)
+        - Required columns: 
+            - merchantName: name of mechant
+            - merchantID: mechant ID 
+            - MCCcode: MCC code of mechant"s industry
+            - description: description of mechant
+            - risky_flag: wheter the merchant is risky
+    - cli_campaign.csv (not required for scoring,but required for training)
+        - Required columns:
+            - month: month tag of the monthly report
+            - campaign_id: campaign id of the campaign
+            - accountID: accountID that received the campaign
+            - market_cell: campaign test cell
+            - tc_ind: test control indicator
+    - Note: if end user do not have optional tables, empty CSV with identical columns should be generated to replace missing optional table.
+- Output: A JSON list of objects at month x accountID level with a column 'credit_line_increase', which is the credit line increase amount for credit card accounts. Reference file: sample.zip.out

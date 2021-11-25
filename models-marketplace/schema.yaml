@@ -1,0 +1,76 @@
+x-google-marketplace:
+  schemaVersion: v2
+  applicationApiVersion: v1beta1
+  publishedVersion: "$TAG"
+  publishedVersionMetadata:
+    releaseNote: >-
+      A first release.
+    releaseTypes:
+      - Feature
+    recommended: false
+  clusterConstraints:
+    resources:
+    - replicas: 1
+      requests:
+        cpu: 100m
+        memory: 100Mi
+  images:
+    '':
+      properties:
+        nginx.image.repo:
+          type: REPO_WITH_REGISTRY
+        nginx.image.tag:
+          type: TAG
+    debian9:
+      properties:
+        nginx.initImage:
+          type: FULL
+    prometheus-to-sd:
+      properties:
+        metrics.image:
+          type: FULL
+properties:
+  name:
+    type: string
+    x-google-marketplace:
+      type: NAME
+  namespace:
+    type: string
+    x-google-marketplace:
+      type: NAMESPACE
+  nginx.replicas:
+    type: integer
+    title: Replicas
+    description: The number of Pods run within NGINX solution
+    default: 1
+    minimum: 1
+  certificate:
+    type: string
+    x-google-marketplace:
+      type: TLS_CERTIFICATE
+      tlsCertificate:
+        generatedProperties:
+          base64EncodedPrivateKey: tls.base64EncodedPrivateKey
+          base64EncodedCertificate: tls.base64EncodedCertificate
+  metrics.curatedExporter.enabled:
+    type: boolean
+    title: Enable Stackdriver Metrics Exporter For Free Curated Metrics
+    description: Your GCP project should have Stackdriver enabled. Disable if you use
+      non-GCP clusters, because export of metrics to Stackdriver is not supported yet.
+    default: false
+  metrics.exporter.enabled:
+    type: boolean
+    title: Enable Stackdriver Metrics Exporter
+    description: Your GCP project should have Stackdriver enabled. For non-GCP clusters,
+      export of metrics to Stackdriver is not supported yet
+    default: false
+  publicIp.available:
+    type: boolean
+    default: true
+    x-google-marketplace:
+      type: INGRESS_AVAILABLE
+required:
+- name
+- namespace
+- nginx.replicas
+- metrics.exporter.enabled
