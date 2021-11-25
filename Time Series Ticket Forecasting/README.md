@@ -9,4 +9,3 @@ Time series ticket forecasting helps businesses predict the number of tickets of
 
 2. Time Series Forecasting can be applied for forecasting ticket data
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
