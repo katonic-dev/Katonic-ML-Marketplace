@@ -7,6 +7,6 @@ Retail Sales Forecasting generates 30 months of forward forecast of retail sales
 # Highlights
 1. This solution will take in monthly data as input and provide 30 months future forecast. 
 
-2. Mphasis Time Series Forecasting can be applied in Retail Sales Forecasting.
+2.  Time Series Forecasting can be applied in Retail Sales Forecasting.
 
 
