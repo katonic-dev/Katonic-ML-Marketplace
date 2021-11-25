@@ -9,4 +9,3 @@ Web Traffic Forecasting enables enterprises to optimize web server allocation, s
 
 2. Time Series Forecasting can be applied in  Web Traffic Forecasting.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!

@@ -10,4 +10,4 @@ Product Demand Forecasting generates 36 months of forward forecast of the demand
 
 2. Time Series Forecasting can be applied in product demand forecasting.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+

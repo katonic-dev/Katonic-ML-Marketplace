@@ -9,4 +9,4 @@ Operating Expenses Forecasting generates 30 weeks of forward forecast of the ope
 
 2. Time Series Forecasting can be applied in operating expense prediction.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+

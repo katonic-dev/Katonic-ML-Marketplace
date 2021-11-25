@@ -9,4 +9,3 @@ Ticket Severity Forecasting helps businesses to predict the number of tickets of
 
 2. This solution can be applied for forecasting number of ticket generated across varying priorities.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!

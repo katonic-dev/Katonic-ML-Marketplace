@@ -9,4 +9,4 @@ Cloud storage cost forecasting helps businesses assess the cost incurred from th
 
 2. Time Series Forecasting can be applied in forecasting cloud storage cost
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+

@@ -7,6 +7,5 @@ Network capacity planner helps businesses forecast their network usage. This wil
 # Highlights
 1. This solution will take network usage data evenly spaced out by 30 minutes as an input and provides 24 hours forecast at an interval of half hour.
 
-2. Mphasis Time Series Forecasting can be applied for forecasting the network usage.
+2.  Time Series Forecasting can be applied for forecasting the network usage.
 
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
