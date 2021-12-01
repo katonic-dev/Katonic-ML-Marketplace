@@ -8,4 +8,5 @@ Businesses succeed when existing customers enhance their accounts through rate p
 The Add a Line - Mobile Broadband Device model is part of ElectrifAi's propensity model suite which enhances a business's predictive accuracy in targeting optimal
 customers across Growth and Cross Sell/ Upsell efforts. ElectrifAi's test/ control performance measurement set up shows Add a Line - Mobile Broadband Device can
 likely maximize uplift and revenue.
- 
+
+Our machine learning models return actual Output Data and are available through a private offer. Please contact info@electrifai.net for subscription service pricing.
