@@ -1,4 +1,4 @@
-# Auto-Insurance-Claims-Fraud-Prediction
+# Auto Insurance Claims Fraud Prediction
 Ensemble Machine Leaning algorithm-based solution that predicts the probability of fraud for auto insurance claims.
 
 ## Product Overview
