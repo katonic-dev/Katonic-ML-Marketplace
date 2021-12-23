@@ -10,5 +10,7 @@ This model analyzes images from a device in motion (such as a drone/vehicle or w
 
 By inputting a video (mp4 or stream), the model outputs an indication that an animal/object/people/ and/or vehicle has crossed a border line.
 
+Our machine learning models return actual Output Data and are available through a private offer. Please contact support@katonic.ai for subscription service pricing.
+
 
 
