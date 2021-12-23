@@ -9,5 +9,5 @@
  helped to identify cases when a provider bills for a procedure outside of their specialty (most likely due to coding error). Leveraging the Entity 
  Scoring model, this model takes a more granular view of physicians with a high ratio of suspicious claims.
  
-Our machine learning models are available through a Private Offer. Please contact info@electrifai.net for subscription service pricing.
+Our machine learning models are available through a Private Offer. Please contact support@katonic.ai for subscription service pricing.
 
