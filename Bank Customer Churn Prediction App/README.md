@@ -4,11 +4,7 @@ The solution analyses customer characteristics to assess which customers are mor
 
 ## Product overview
 
-Customer churn refers to the loss of existing clients or customers. Customer loyalty is important since acquiring a new customer is much costlier 
-than retaining an existing customer. Moreover, long-standing customers are also likely to buy more products and spend more than new ones. 
-Therefore, monitoring churn rates and predicting customers vulnerable to attrition becomes important. This solution focuses on identifying 
-bank customers who are more likely to close their account and leave the bank. It train Support Vector model and then  make prediction on new data. 
-The product enables organizations to identify individuals most likely to defect, and act towards retaining them.                             
+Customer churn refers to the loss of existing clients or customers. Customer loyalty is important since acquiring a new customer is much costlier than retaining an existing customer. Moreover, long-standing customers are also likely to buy more products and spend more than new ones. Therefore, monitoring churn rates and predicting customers vulnerable to attrition becomes important. This solution focuses on identifying bank customers who are more likely to close their account and leave the bank. It train multiple models but Random Forest Classifier model performs best and then make prediction on new data. The product enables organizations to identify individuals most likely to defect, and act towards retaining them.
 
 ## Product Highlight 
 
