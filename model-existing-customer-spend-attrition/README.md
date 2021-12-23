@@ -13,5 +13,5 @@ To preview our machine learning models, please Continue to Subscribe. To preview
 Sample Data is representative of the Output Data but does not actually consider the Input Data.
 
 Our machine learning models return actual Output Data and are available through a private offer. 
-Please contact info@electrifai.net for subscription service pricing.
+Please contact support@katonic.ai for subscription service pricing.
 
