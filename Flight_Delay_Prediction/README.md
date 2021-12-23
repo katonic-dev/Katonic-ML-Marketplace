@@ -1,4 +1,4 @@
-# Flight-Delay-Prediction
+# Flight Delay Prediction
 This solution predicts flight delays based on factors such as route, airport congestion, airline diversion etc. using a trainable ML model.
 
 ## Product overview
