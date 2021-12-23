@@ -1,0 +1,7 @@
+# Reduce 30-Day Readmissions Rate
+Proactively reduce 30-day readmissions rate by predicting in advance which patients are likely to readmit and understanding the top reasons why
+
+## Description
+AI provides clinicians and care managers with the information they need to nurture strong, lasting connections with the patients they care about. AI helps reduce readmission rates by predicting which patients are at risk and allowing clinicians to prescribe intervention strategies before and after the patient is discharged. Unlike existing methods, AI models can ingest significant amounts of data and learn complex patterns behind why certain patients are likely to readmit. With advancements in model interpretability, AI offers personalized explanations for all its predictions, giving clinicians complete transparency of the top risk drivers for every single patient at any given time.
+
+By taking the form of an artificial clinician and augmenting the care they provide, along with other actions clinicians already take, AI enables them to conduct intelligent interventions to improve patient health. Using the information they learn from AI, clinicians can decrease the likelihood of patient readmission by carefully walking through their discharge paperwork in-person, scheduling additional outpatient appointments (to give them more confidence about their health), and providing additional interventions that help reduce readmissions.
