@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+      <title>Startup Profit Prediction</title>
+   </head>
+   <body>
+      <div class="container">
+         <div class="py-5 text-center">
+            <img class="d-block mx-auto mb-4" src="https://pbs.twimg.com/profile_images/1305493217308110849/GzaGIfUf_400x400.jpg" alt="" style="background-color:white;width:200px;height:200px;">
+            
+            <h2>Startup Profit Prediction</h2>
+            <p class="lead"><small>Startup Profit Prediction is a machine learning based model which will be quite helpful in a situation where we need to find a profit based on how much we are spending in the market and for the market. In a nutshell, this machine learning app will help to find out the profit based on the amount which we spend from the startups dataset.</small></p>
+         </div>
+         <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+               <h4 class="mb-3">Startup Expenses Details</h4>
+               {% if show_hidden == True %}
+               <div class="alert alert-success" role="alert">{{ prediction_text }}</div>
+               {% endif %}
+               <form action="{{ url_for('predict')}}"method="post" class="needs-validation" >
+                  <div class="row">
+                     <div class="col-md-6 mb-3">
+                        <label for="r_d_expenses">R&D Expenses</label>
+                        <input type="text" class="form-control" id="r_d_expenses" name="r_d_expenses" placeholder="" value="" required>
+                     </div>
+                     <div class="col-md-6 mb-3">
+                        <label for="administration_expenses">Administration Expenses</label>
+                        <input type="text" class="form-control" id="administration_expenses" name="administration_expenses"  placeholder="" value="" required>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-md-6 mb-3">
+                        <label for="marketing_expenses">Marketing Expenses</label>
+                        <input type="text" class="form-control" id="marketing_expenses" name="marketing_expenses" placeholder="" value="" required>
+                     </div>
+                     <div class="col-md-6 mb-3">
+                        <label for="state">State</label>
+                        <select id="state" name="state" class="form-control" required>
+                           <option value="" selected></option>
+                           <option value="New York">New York</option>
+                           <option value="California">California</option>
+                           <option value="Florida">Florida</option>
+                        </select>
+                     </div>
+                  </div>
+                  <button class="btn btn-primary btn-lg btn-block" type="submit">Predict</button>
+            </div>
+            <div class="col-md-2">
+            </div>
+            </form>
+         </div>
+         <footer class="my-5 pt-5 text-muted text-center text-small">
+            <img 
+               src="https://katonic.ai/assets/svg/logos/logo-katonic.png" 
+               alt="katonic.ai" 
+               style="background-color:white;width:200px;height:42px;"
+            />
+            <pre></pre>
+            <div class="container">
+               Made by <a class="white-text text-lighten-3" href="https://katonic.ai">Katonic Pty Ltd.</a><br/>
+               </div>
+            
+         </footer>
+      </div>
+      <!-- Optional JavaScript -->
+      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+   </body>
+</html>
