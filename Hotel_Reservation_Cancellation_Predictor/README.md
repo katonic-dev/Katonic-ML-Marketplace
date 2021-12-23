@@ -1,4 +1,4 @@
-# Hotel-Reservation-Cancellation-Predictor
+# Hotel Reservation Cancellation Predictor
 Ensemble Machine Learning algorithm-based solution which predicts the probability of guests cancelling their hotel reservations.
 
 ## Product overview
