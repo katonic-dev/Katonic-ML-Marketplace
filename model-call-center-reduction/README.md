@@ -6,4 +6,4 @@ Predict call volumes for events and reduce number of calls to call center by ide
 ## Product Overview
 Expand customer share of wallet by personalized hotel and car recommendations determined in real-time and served through multiple booking channels. The model also predicts call volumes for events and reduces calls to call center by identifying customers likely to call and their reasons for calling. Technical highlights include ensemble modeling techniques, clustering, and reinforcement learning to understand reasons for calling and optimal treatments. Combines various fundamental reason codes to develop a holistic reason for calling.
 
-Our machine learning models return actual Output Data and are available through a private offer. Please contact info@electrifai.net for subscription service pricing.
+Our machine learning models return actual Output Data and are available through a private offer. Please contact support@katonic.ai for subscription service pricing.
