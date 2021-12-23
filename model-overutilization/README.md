@@ -6,5 +6,5 @@
 ## Product Overview
   Identify providers charging for services more often than the average provider in the same specialty. As in upcoding, provider's peers are defined through the data and provider clustering model (deep autoencoder and clustering techniques). As opposed to the Unnecessary Services model, which analyzes relationships between procedure codes and physician specialization, this Overutilization model aggregates all claims from a particular physician to find if a code is charged more often than the average physician within their specialty.  
  
-Our machine learning models are available through a Private Offer. Please contact info@electrifai.net for subscription service pricing.
+Our machine learning models are available through a Private Offer. Please contact support@katonic.ai for subscription service pricing.
 
