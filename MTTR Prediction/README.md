@@ -1,4 +1,4 @@
-# MTTR-Predictor
+# MTTR Prediction
 An ML based solution for MTTR prediction of service tickets.
 
 ## Description
