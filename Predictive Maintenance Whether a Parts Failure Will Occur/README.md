@@ -1,0 +1,5 @@
+# Predictive Maintenance (Whether a Parts Failure Will Occur)
+Using equipment sensor data, train a model to identify signals associated with an impending equipment failure so that preventative action can be taken.
+
+## Description
+AI will allow your organization to predict whether parts failure will occur. By leveraging AI’s collected data via sensors, your model will be able to signal your maintenance crew when an impending issue is likely to occur. Not only will this save your organization unintended down time, this proactive approach to maintenance will allow you to prevent unintended consequences of equipment failure. Some of these intended consequences include health and safety risks along with inventory damages. AI will empower your maintenance staff with the information they need to keep operations running without any disruptions.
