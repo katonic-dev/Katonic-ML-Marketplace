@@ -1,0 +1,3 @@
+Flask==1.1.2
+spacy==3.2.1
+Flask-Markdown==0.3
