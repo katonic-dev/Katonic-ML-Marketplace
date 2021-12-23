@@ -6,6 +6,6 @@
 ## Product Overview
 Save customers money with a personalized and accurate phone rate plan based on previous usage data. After a predefined trial period, the Initial Rate Plan Assignment model uses subscriber data to recommend the rate plan likely to serve the customer best during a predetermined timeframe. One month's usage is predicted by the model. The predicted data usage can be overlayed on the Telecom company's rate plan to select the best rate plan for the customer. 
  
-Our machine learning models are available through a Private Offer. Please contact info@electrifai.net for subscription service pricing.
+Our machine learning models are available through a Private Offer. Please contact support@katonic.ai for subscription service pricing.
 
 
