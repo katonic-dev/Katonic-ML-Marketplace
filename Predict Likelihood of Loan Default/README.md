@@ -1,0 +1,5 @@
+# Predict Likelihood of Loan Default
+Reduce defaults and minimize risk by predicting the likelihood that a borrower will not repay their loan.
+
+## Description
+Many credit decisioning systems are driven by scorecards, which are very simplistic rules-based systems. These are built by end-user organizations through industry knowledge or through simple statistical systems. Some organizations go a step further and obtain scorecards from third parties which may not be customized for an individual organization’s book. An AI-based approach can help financial institutions learn signals from their own book and assess risk at a more granular level. Once the risk is calculated, a strategy may be implemented to use this information for interventions. If you can predict someone is going to default, this may lead to intervention steps such as sending earlier notices or rejecting loan applications.
