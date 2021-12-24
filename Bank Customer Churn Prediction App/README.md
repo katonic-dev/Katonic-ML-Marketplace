@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction
+# Bank Customer Churn Prediction App
 The solution analyses customer characteristics to assess which customers are more likely to leave the bank.
 
 
