@@ -15,7 +15,8 @@ COPY templates/index.html .
 COPY templates/compare_summary.html .
 COPY requirements.txt .
 
-RUN python -m spacy download en_core_web_sm
 RUN pip install -r requirements.txt
+RUN python -m spacy download en_core_web_sm
+
 
 CMD python app.py --server.port=8050 --server.address=0.0.0.0 --logger.level error
