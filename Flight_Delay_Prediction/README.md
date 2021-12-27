@@ -1,10 +1,10 @@
-# Flight Delay Prediction
+# Flight_Delay_Prediction
 This solution predicts flight delays based on factors such as route, airport congestion, airline diversion etc. using a trainable ML model.
 
 ## Product overview
-Flight delays could cause airlines to incur financial losses in the form of accommodation expenses for the delayed passengers as well as penalties, fines, and operational costs for aircraft labor retention at airports. Furthermore, continual unexpected delays could cause the airline to lose their customers. 
+Flight delays could cause airlines to incur financial losses in the form of accommodation expenses for the delayed passengers as well as penalties, fines, and operational costs for aircraft labour retention at airports. Furthermore, continual unexpected delays could cause the airline to lose their customers. 
 
-This solution predicts whether a flight would be delayed at the origin airport and by how many minutes. It utilizes latent factors such as flight route, airport congestion, airline diversion and temporal features derived from U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics data on flight on-time performance for large air carriers. The solution uses Random Forest model to capture and predict on-time behavior of commercial flights.
+This solution predicts whether a flight would be delayed at the origin airport and by how many minutes. It utilizes latent factors such as flight route, airport congestion, airline diversion and temporal features derived from U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics data on flight on-time performance for large air carriers. The solution uses Random Forest model to capture and predict on-time behaviour of commercial flights.
 
 ## Product Highlight 
 * The solution uses latent airport and airline specific operational features obtained from standardized U.S. DoT flight on-time performance data. The solution can be trained on client data to capture and predict client specific operational patterns.
