@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-import pandas as pd
 import json
 import plotly
 import plotly.express as px
