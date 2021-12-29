@@ -6,7 +6,9 @@ import plotly.express as px
 import yfinance as yf
 
 
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__)
+app.config['EXPLAIN_TEMPLATE_LOADING'] = True
+
 
 # Define the root route
 @app.route('/')
@@ -16,7 +18,7 @@ def index():
 @app.route('/callback/<endpoint>')
 def cb(endpoint):   
     if endpoint == "getStock":
-        return gm(request.args.get('data'),request.args.get('period'),request.args.get('interval'))
+        return gm(request.args.get('data'), request.args.get('period'), request.args.get('interval'))
     elif endpoint == "getInfo":
         stock = request.args.get('data')
         st = yf.Ticker(stock)
@@ -25,7 +27,7 @@ def cb(endpoint):
         return "Bad endpoint", 400
 
 # Return the JSON data for the Plotly graph
-def gm(stock,period, interval):
+def gm(stock, period, interval):
     st = yf.Ticker(stock)
   
     # Create a line graph
@@ -39,11 +41,11 @@ def gm(stock,period, interval):
     max = max + margin
     min = min - margin
     fig = px.area(df, x='Date-Time', y="Open",
-        hover_data=("Open","Close","Volume"), 
-        range_y=(min,max), template="seaborn" )
+        hover_data=("Open", "Close", "Volume"), 
+        range_y=(min, max), template="seaborn" )
 
     # Create a JSON representation of the graph
     return json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder) # graphJSON
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8050, debug=False)     
+    app.run(host='0.0.0.0', port=8050, debug=True)     
