@@ -6,9 +6,7 @@ import plotly.express as px
 import yfinance as yf
 
 
-app = Flask(__name__)
-app.config['EXPLAIN_TEMPLATE_LOADING'] = True
-
+app = Flask(__name__, template_folder='template')
 
 # Define the root route
 @app.route('/')
@@ -48,4 +46,4 @@ def gm(stock, period, interval):
     return json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder) # graphJSON
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8050, debug=True)     
+    app.run(host='0.0.0.0', port=8050, debug=False)     
