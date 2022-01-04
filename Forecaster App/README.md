@@ -9,7 +9,7 @@ forecaster is a flask web app created with UI on top of Facebook Prophet. It pro
 This is a session based product that means this app doesn't store any data about the contents of the uploaded csv within a database. Once the csv has been uploaded to the app, the data is then stored within temporary variables in the client and data is then sent back and forth between client and server until the forecast is generated.
 
 Here is a screenshot of the app after the user has built a forecast:<br/>
-<img src="https://raw.githubusercontent.com/katonic-dev/Katonic-ML-Marketplace/master/Forecaster%20App/app/static/img/app.png" width="1024" />
+<img src="https://raw.githubusercontent.com/katonic-dev/Katonic-ML-Marketplace/master/Forecaster%20App/app/static/img/app.png?token=AQS2G3PLR5NXS5X7KS4CRS3B3VWD6" width="1024" />
 
 
 ### Data Collection on the User Experience
