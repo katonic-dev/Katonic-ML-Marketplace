@@ -1,5 +1,5 @@
 pandas==1.3.4
-pystan==2.17.1.0
+pystan==2.19.1.1
 fbprophet==0.6
 eventlet==0.33.0
 Flask==1.0.2
