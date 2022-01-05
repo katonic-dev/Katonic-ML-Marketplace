@@ -22,8 +22,9 @@ total_products = len(final_ads_to_model['ITEMID'].unique())
 
 def Header(name, app):
     title = html.H2(name, style={'margin-top': 5})
+    encoded_image = base64.b64encode(open('assets/logo.png', 'rb').read())
     logo = html.Img(
-        src=app.get_asset_url('logo.png'), style={'float': 'right', 'height': 50}
+        src='data:image/png;base64,{}'.format(encoded_image.decode()), style={'float': 'right', 'height': 50}
     )
 
     return dbc.Row([dbc.Col(title, md=9), dbc.Col(logo, md=3)])
