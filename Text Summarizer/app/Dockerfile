@@ -13,8 +13,8 @@ COPY static/css/materialize.min.css static/css/.
 COPY static/js/init.js static/js/.
 COPY static/js/materialize.js static/js/.
 COPY static/js/materialize.min.js static/js/.
-COPY templates/index.html .
-COPY templates/compare_summary.html .
+COPY templates/index.html templates/.
+COPY templates/compare_summary.html templates/.
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
