@@ -6,7 +6,7 @@ COPY app.py .
 COPY nltk_summarization.py .
 COPY spacy_summarization.py .
 COPY spacy_summarizer.py .
-COPY assets/logo.png .
+COPY assets/logo.png assets/.
 COPY static/css/custom.css static/css/.
 COPY static/css/materialize.css static/css/.
 COPY static/css/materialize.min.css static/css/.
