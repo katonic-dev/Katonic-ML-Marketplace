@@ -1,6 +1,6 @@
 FROM python:3.8.2-slim
 
-RUN mkdir -p assets templates
+RUN mkdir -p assets template
 
 COPY app.py .
 COPY assets/logo.png assets/.
