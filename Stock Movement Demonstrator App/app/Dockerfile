@@ -4,7 +4,7 @@ RUN mkdir -p assets templates
 
 COPY app.py .
 COPY assets/logo.png assets/.
-COPY templates/index3.html templates/.
+COPY template/index3.html template/.
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
