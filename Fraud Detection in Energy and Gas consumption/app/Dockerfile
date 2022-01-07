@@ -7,9 +7,6 @@ COPY final_model.sav .
 COPY logo.png .
 COPY requirements.txt .
 
-RUN pip install -r requirements.txt
-RUN apt-get update && apt-get install -y --no-install-recommends apt-utils
-RUN apt-get -y install curl
-RUN apt-get install libgomp1
+RUN apt-get update && apt-get install -y --no-install-recommends apt-utils && apt-get -y install curl && apt-get install libgomp1 && pip install -r requirements.txt
 
 CMD streamlit run app.py --server.port=8050 --server.address=0.0.0.0 --logger.level error
