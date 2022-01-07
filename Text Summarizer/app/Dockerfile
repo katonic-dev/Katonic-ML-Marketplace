@@ -1,16 +1,18 @@
 FROM python:3.8.2-slim
 
+RUN mkdir -p assets static/css static/js templates
+
 COPY app.py .
 COPY nltk_summarization.py .
 COPY spacy_summarization.py .
 COPY spacy_summarizer.py .
 COPY assets/logo.png .
-COPY static/css/custom.css .
-COPY static/css/materialize.css .
-COPY static/css/materialize.min.css .
-COPY static/js/init.js .
-COPY static/js/materialize.js .
-COPY static/js/materialize.min.js .
+COPY static/css/custom.css static/css/.
+COPY static/css/materialize.css static/css/.
+COPY static/css/materialize.min.css static/css/.
+COPY static/js/init.js static/js/.
+COPY static/js/materialize.js static/js/.
+COPY static/js/materialize.min.js static/js/.
 COPY templates/index.html .
 COPY templates/compare_summary.html .
 COPY requirements.txt .
