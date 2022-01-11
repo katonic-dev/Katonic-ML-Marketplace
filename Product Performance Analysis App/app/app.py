@@ -13,7 +13,7 @@ from wordcloud import WordCloud
 
 
 final_ads_to_model = pd.read_csv('final_data_till_Aug_Flag_with_adj_1.csv', encoding='latin')
-predict_file =pd.read_csv('final_output_Oct_final.csv', encoding='latin')
+predict_file = pd.read_csv('final_output_Oct_final.csv', encoding='latin')
 final_ads_df = pd.read_csv('final_ads_till_Aug.csv', encoding='latin')
 total_sales = final_ads_to_model['invoice_price'].sum()
 total_customers = len(final_ads_to_model['cust_sku'].unique())
