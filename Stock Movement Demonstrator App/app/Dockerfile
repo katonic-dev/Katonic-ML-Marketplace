@@ -1,8 +1,10 @@
 FROM python:3.8.2-slim
 
+RUN mkdir -p assets template
+
 COPY app.py .
-COPY assets/logo.png .
-COPY template/index3.html .
+COPY assets/logo.png assets/.
+COPY template/index3.html template/.
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
