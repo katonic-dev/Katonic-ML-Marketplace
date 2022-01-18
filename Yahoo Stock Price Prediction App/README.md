@@ -1,9 +1,10 @@
-# Product Overview
-Cloud compute cost forecasting helps businesses assess the cost incurred from their cloud compute resource based on historic data. This will help businesses get an understanding of the potential cost for their VM instances, clusters, snapshots, etc. to help them better plan their compute resources. It uses ensemble ML algorithms with automatic model selection algorithms. This solution performs automated model selection to apply the right model based on the input data.
+# Yahoo Stock Price Prediction App
+The solution analyses yahoo stock trend to predict daily changes in stock price.
 
-# Highlights
-1. This solution will take in hourly cost of cloud compute resources as input and provide 24 hours of future forecast. Automatic model selection will automatically identify the set of optimal algorithms and combine their results using ensemble learning to provide the results.
-
-2. Mphasis Time Series Forecasting can be applied in computing the cost for cloud compute resources.
-
-3. Need customized Deep Learning and Machine Learning solutions? Get in touch!
+# Description
+The stock market is an aggregation of individuals and corporations engaged in a loose network of buying and selling of shares of companies, called stocks.
+This buying and selling of shares have high risk associated with it, and therefore several predictions are made to avoid losses and incur profits.
+Time series analysis is the most basic and fundamental technique to perform this task. This app depicts the broader view of stock price prediction by time series analysis model,
+to find a range of stock prices for the buyers in which no losses will be incurred. It aims to find the relationship between the stock prices and
+time series algorithms, to explore a safe range of stock prices for investments and thus improving the accuracy of prediction. This app aims to combine the conventional time series
+analysis technique with information Yahoo finance website to predict daily changes in stock price and post the results into slack community.
