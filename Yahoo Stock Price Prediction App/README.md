@@ -1,7 +1,7 @@
 # Yahoo Stock Price Prediction App
 The solution analyses yahoo stock trend to predict daily changes in stock price.
 
-# Description
+## Description
 The stock market is an aggregation of individuals and corporations engaged in a loose network of buying and selling of shares of companies, called stocks.
 This buying and selling of shares have high risk associated with it, and therefore several predictions are made to avoid losses and incur profits.
 Time series analysis is the most basic and fundamental technique to perform this task. This app depicts the broader view of stock price prediction by time series analysis model,
