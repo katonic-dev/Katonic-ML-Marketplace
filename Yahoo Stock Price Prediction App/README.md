@@ -1,4 +1,4 @@
-# Yahoo Stock Price Prediction App
+# Yahoo Stock Price Prediction
 The solution analyses yahoo stock trend to predict daily changes in stock price.
 
 ## Description
