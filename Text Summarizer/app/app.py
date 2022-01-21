@@ -47,12 +47,12 @@ def get_text(url):
 	# fetched_text
 	return ' '.join(map(lambda p:p.text, soup.find_all('p')))
 
-@app.route('/')
+@app.route('/test')
 def index():
 	return render_template('index.html')
 
 
-@app.route('/analyze', methods=['GET', 'POST'])
+@app.route('/test/analyze', methods=['GET', 'POST'])
 def analyze():
 	start = time.time()
 	if request.method == 'POST':
@@ -72,7 +72,7 @@ def analyze():
 	)
 
 
-@app.route('/analyze_url', methods=['GET', 'POST'])
+@app.route('/test/analyze_url', methods=['GET', 'POST'])
 def analyze_url():
 	start = time.time()
 	if request.method == 'POST':
@@ -93,12 +93,12 @@ def analyze_url():
 	)
 
 
-@app.route('/compare_summary')
+@app.route('/test/compare_summary')
 def compare_summary():
 	return render_template('compare_summary.html')
 
 
-@app.route('/comparer',methods=['GET', 'POST'])
+@app.route('/test/comparer',methods=['GET', 'POST'])
 def comparer():
 	start = time.time()
 	if request.method == 'POST':
@@ -134,7 +134,7 @@ def comparer():
 	)
 
 
-@app.route('/about')
+@app.route('/test/about')
 def about():
 	return render_template('index.html')
 
