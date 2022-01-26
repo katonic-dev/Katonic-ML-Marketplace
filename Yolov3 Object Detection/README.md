@@ -1,6 +1,6 @@
 ## YOLOv3 Object Detection:
 
-This App is to provide the results in COCO dataset for YOLOv3 object detection model.
+YOLO is an algorithm that uses neural networks to provide real-time object detection.
 
 ## Object Detection by YOLO
 
