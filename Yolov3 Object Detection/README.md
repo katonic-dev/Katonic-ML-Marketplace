@@ -65,27 +65,3 @@ Before running evaluation tool, we need to make following arrangements.
 * Copy predsval.txt file to vallogs directory and change its name to preds.txt
 
 Switch to directory of [Evaluate_Models.ipynb](YOLO/Evaluation/Evaluate_Models.ipynb) file and write terminal to jupyter lab. Run Evaluate_Models.ipynb to generate performance results.
-
-<!--- You only look once (YOLO) is a system for detecting objects on the Pascal VOC 2012 dataset. It can detect the 20 Pascal object classes: --->
-
-<!--- person
-bird, cat, cow, dog, horse, sheep
-aeroplane, bicycle, boat, bus, car, motorbike, train
-bottle, chair, dining table, potted plant, sofa, tv/monitor
-YOLO is joint work with Santosh, Ross, and Ali, and is described in detail in our paper. --->
-
-<!---How it works
-All prior detection systems repurpose classifiers or localizers to perform detection. They apply the model to an image at multiple locations and scales. High scoring regions of the image are considered detections. --->
-
-<!---We use a totally different approach. We apply a single neural network to the full image. This network divides the image into regions and predicts bounding boxes and probabilities for each region. These bounding boxes are weighted by the predicted probabilities. --->
-
-<!---This also applies for YOLO system. *** --->
-
-<!---A notebook that includes YOLO results can be found at [demo/Evaluate_Models2.ipynb](demo/Evaluate_Models.ipynb). --->
-
-<!--- A notebook with the demo for YOLO can be found in [demo/Evaluate_Models2.ipynb](demo/Evaluate_Models.ipynb). ---
-
-### Getting a Result:
-
-You can directly access the output video of our results [here](output.avi)
-
