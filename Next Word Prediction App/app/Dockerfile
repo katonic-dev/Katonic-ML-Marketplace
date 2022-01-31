@@ -4,6 +4,6 @@ COPY app.py .
 COPY logo.png .
 COPY requirements.txt .
 
-RUN pip install -r requirements.txt
+RUN apt-get update && apt-get -y install gcc build-essential && pip install -r requirements.txt
 
 CMD streamlit run app.py --server.port=8050 --server.address=0.0.0.0 --logger.level error
