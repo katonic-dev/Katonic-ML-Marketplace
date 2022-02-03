@@ -3,8 +3,9 @@ import requests
 from PIL import Image
 from io import BytesIO
 from zipfile import ZipFile
+
+import pafy
 import streamlit as st
-from pytube import YouTube
 
 
 response = requests.get(url='https://katonic.ai/favicon.ico')
@@ -17,7 +18,13 @@ st.set_page_config(
     initial_sidebar_state = 'auto'
 )
 
-# st.sidebar.image('logo.png')
+hide_streamlit_style = '''
+            <style>
+            footer {visibility: hidden;}
+            </style>
+            '''
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
 st.sidebar.title('Audio to Text App')
 st.sidebar.write('---')
 
@@ -30,23 +37,23 @@ st.write('---')
 
 # 1. Retrieving audio file from YouTube video
 def get_yt(URL):
-    video = YouTube(URL)
-    yt = video.streams.filter(only_audio=True).first()
+    video = pafy.new(URL)
+    yt = video.getbestaudio()
     yt.download()
     bar.progress(10)
 
 # 2. Upload YouTube audio file to AssemblyAI
 def transcribe_yt():
+    global mp4_file
     current_dir = os.getcwd()
     for file in os.listdir(current_dir):
-        if file.endswith('.mp4'):
+        if file.endswith('.webm') or file.endswith('.mp3'):
             mp4_file = os.path.join(current_dir, file)
     
-    filename = mp4_file
     bar.progress(20)
 
-    def read_file(filename, chunk_size=5242880):
-        with open(filename, 'rb') as _file:
+    def read_file(mp4_file, chunk_size=5242880):
+        with open(mp4_file, 'rb') as _file:
             while True:
                 data = _file.read(chunk_size)
                 if not data:
@@ -55,7 +62,7 @@ def transcribe_yt():
     headers = {'authorization': api}
     response = requests.post('https://api.assemblyai.com/v2/upload',
                             headers=headers,
-                            data=read_file(filename))
+                            data=read_file(mp4_file))
     audio_url = response.json()['upload_url']
     bar.progress(30)
 
@@ -122,7 +129,6 @@ def transcribe_yt():
     zip_file.write('yt.txt')
     zip_file.write('yt.srt')
     zip_file.close()
-#####
 
 # Sidebar
 st.sidebar.header('Input parameter')
@@ -148,11 +154,3 @@ if submit_button:
             file_name='transcription.zip',
             mime='application/zip'
         )
-
-
-hide_streamlit_style = '''
-            <style>
-            footer {visibility: hidden;}
-            </style>
-            '''
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 

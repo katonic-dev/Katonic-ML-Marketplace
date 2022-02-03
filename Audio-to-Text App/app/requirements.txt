@@ -1,3 +1,4 @@
 streamlit==1.4.0
-youtube-dl==2021.12.17
+pafy==0.5.5
+youtube-dl==2020.12.2
 zipp==3.4.0

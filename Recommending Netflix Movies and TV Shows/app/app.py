@@ -20,6 +20,13 @@ st.set_page_config(
     initial_sidebar_state = 'auto'
 )
 
+hide_streamlit_style = '''
+            <style>
+            footer {visibility: hidden;}
+            </style>
+            '''
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
 st.sidebar.image('logo.png')
 st.sidebar.title('Netflix Movie Recommendation')
 st.sidebar.write('---')
@@ -27,7 +34,7 @@ st.sidebar.write('---')
 st.write('''
 # Netflix Movie Recommendation App
 
-This app **Recommends Movies to the User based on their Searches (Content).**!
+This app **Recommends Movies to the User based on their Searches (Content)!**
 ''')
 st.write('---')
 
@@ -152,11 +159,3 @@ if st.sidebar.button('Recommend'):
 else:
     st.warning('Please Click on Recommendation')
 st.write('---')
-
-hide_streamlit_style = '''
-            <style>
-            footer {visibility: hidden;}
-            </style>
-            '''
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-
