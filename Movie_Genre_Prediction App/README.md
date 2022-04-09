@@ -1,22 +1,24 @@
 # Movie Genre Prediction
 
-A multi-label classification probelm using Machine learning which will help you predicting the Genres of the given movies based on the Movie Overview.
+A multi-label classification problem which will help you predict the genre of any given movie based on the Movie Overview.
+
 
 # Problem Overview
 
-Movie Overview contain a lot of information about movie. Such information can be valuable in building automatic systems to create genres for movies.
+Movie overview contains a lot of information about movie. Such information can be valuable in building automatic systems to predict genres for movies. 
 
-Automatic tagging systems can help recommendation engines to improve the retrieval of similar movies as well as help viewers to know what to expect from a movie in advance.
+Automatic tagging systems can help recommendation engines to improve the retrieval of similar movies as well as help viewers to know what to expect from a movie in advance. 
 
-We will try to make genre tag prediction using Movie Overviews.
+Through this app, one can tag movie genres with predictions using Movie Overviews.
+
 
 # Brief Introduction to Multi-Label classification
 
-We're as excited as you are to jump into the code and start building our genre classification model. Before we do that, however, let me introduce you to the concept of multi-label classification in NLP. It’s important to first understand the technique before diving into the implementation.
+Before we jump into the code and start building our genre classification model, lets go through the concept of multi-label classification in NLP. It’s important to first understand the technique before diving into the implementation.
 
 The underlying concept is apparent in the name – multi-label classification. Here, an instance/record can have multiple labels and the number of labels per instance is not fixed.
 
-Let me explain this using a simple example. Take a look at the below tables, where ‘X’ represents the input variables and ‘y’ represents the target variables (which we are predicting):
+Lets go over this using a simple example. Take a look at the below tables, where ‘X’ represents the input variables and ‘y’ represents the target variables (which we are predicting):
 
 ![Types of Classification Problems](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/04/img_1.png)
 
