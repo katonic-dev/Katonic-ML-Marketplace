@@ -31,7 +31,7 @@ We cannot apply traditional classification algorithms directly on this kind of d
 * Click on Katonic Pipeline Deployment Panel from the Left sidebar and Enable it.
 ![enabling kale](./img_src/enabling_kale.jpg)
 
-* Then you are able to all the Pre-defined settings and configurations, but in order to run the Pipeline in side your workspace, you need to change one parameter `Use Existing Volume Name` with your Private storage ID which you can find inside the File-Manager.
+* Here you are able to edit all the pre-defined settings and configurations, but in order to run the Pipeline inside your workspace, you need to change one parameter `Use Existing Volume Name` with your Private storage ID which you can find inside the File-Manager.
 
 ![replace_existing_volume](./img_src/replace_existing_volume_name.jpg)
 
@@ -48,4 +48,4 @@ You can see that the pipeline is in running mode.
 * Then create a repository in your Personal profile inside the GitHub.
 * Copy the files the are available inside this app folder [app folder link](https://github.com/katonic-dev/Katonic-ML-Marketplace/tree/master/Movie_Genre_Prediction_App/app) to your repository.
 
-Once you had all the Application files into your Personal repository, Follow this [documentaion](https://docs.katonic.ai/Getting-started-with-featured-store/app_deployment) to deploy an application.
+Once you have all the Application files into your Personal repository, Follow this [documentaion](https://docs.katonic.ai/Getting-started-with-featured-store/app_deployment) to deploy an application.
