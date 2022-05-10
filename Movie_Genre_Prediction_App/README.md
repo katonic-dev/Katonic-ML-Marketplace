@@ -26,10 +26,26 @@ Let me explain this using a simple example. Take a look at the below tables, whe
 
 We cannot apply traditional classification algorithms directly on this kind of dataset. Why? Because these algorithms expect a single label for every input, when instead we have multiple labels. It’s an intriguing challenge and one that we will solve in this usecase.
 
+# How to run the Pipeline Notebook.
+
+* Click on Katonic Pipeline Deployment Panel from the Left sidebar and Enable it.
+![enabling kale](./img_src/enabling_kale.jpg)
+
+* Then you are able to all the Pre-defined settings and configurations, but in order to run the Pipeline in side your workspace, you need to change one parameter `Use Existing Volume Name` with your Private storage ID which you can find inside the File-Manager.
+
+![replace_existing_volume](./img_src/replace_existing_volume_name.jpg)
+
+* You can find the Private storage ID from the File-Manager.
+![private_volume_id](./img_src/private_volume_id.jpg)
+
+After replacing the existing volume id with your private storage ID. Then click on the Compile and Run option from below. 
+
+You can see that the pipeline is in running mode.
+
 # How to run the App.
 
-* Clone the repository to the [Katonic](https://katonic.ai/)'s VScode workspace.
-* Install the requirements.txt using pip.
-* ` streamlit run app.py --server.port=8088 --server.address=0.0.0.0 --logger.level error` run this command in the terminal.
+* Clone this repository to your local system or any other project workspace.
+* Then create a repository in your Personal profile inside the GitHub.
+* Copy the files the are available inside this app folder [app folder link](https://github.com/katonic-dev/Katonic-ML-Marketplace/tree/master/Movie_Genre_Prediction_App/app) to your repository.
 
-* Then go to your workspace section and click on the `Live app` option.
+Once you had all the Application files into your Personal repository, Follow this [documentaion](https://docs.katonic.ai/Getting-started-with-featured-store/app_deployment) to deploy an application.
